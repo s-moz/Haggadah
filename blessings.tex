@@ -1,0 +1,147 @@
+% This file defines the blessings to be inserted into haggadah.tex  In this way
+% multiple formats can be typeset very quickly.  haggadah.tex should not normally
+% need changing.  Note that this is not the most readable way to insert text
+% into a LaTeX document, but it is the most powerful: the macros defined here
+% are directly excecuted when building the document.
+
+%!TEX TS-program = lualatex 
+%!TEX encoding = UTF-8 Unicode
+%\usepackage{fontspec}
+\usepackage{polyglossia}
+\setdefaultlanguage{english}
+\setotherlanguages{czech, hebrew}
+%\newfontfamily{\hebrewfont}{New Peninim MT}
+% 
+
+\newcommand{\CandlelightingBlessingTransliterated}{%
+	{Baruch atah Adonai eloheinu melech ha-olam asher kidd’shanu
+	b’mitzvotav v’tzivvanu l’hadlik ner shel (shabbat v’shel) yom tov.}
+\newcommand{\CandlelightingBlessingEnglish}
+	{ May you be blessed, Lord our G-d, ruler of the universe, who sanctifies us via his commandments and who commands us to light the lights of Shabbat and festivals.}
+}
+
+\newcommand{\WineBlessingHebrew}{%
+	\texthebrew{שלום עולם
+		ברָּ וך ְּ אַ תָּ ּה יי ,ָּ אֱֹלהֵ ינו מֶּ לךֶּ ְּ הָּ עֹולם,ְָּּ בוֹּ רֵ א פ רִ י הַ גפֶָּּ ן
+		}
+	}
+	
+\newcommand{\WineBlessingTransliterated}{%
+		{Baruch atah Adonai eloheinu melech ha-olam borei p’ri ha-gafen.}}
+		
+\newcommand{\WineBlessingEnglish}
+		{We thank You Lord our God, ruler of the universe, for making the fruit of the vine.}
+
+\newcommand{\ShehechyanuBlessing}{%
+
+We praise You, Eternal God, Ruler of the universe, for keeping us alive,
+sustaining us, and enabling us to reach this season.
+}
+
+% 
+\newcommand{\KarpasBlessingTransliterated}{%
+	Baruch atah Adonai eloheinu melech ha-olam borei p’ri ha-adamah.
+}
+\newcommand{\KarpasBlessingEnglish}{%
+	We thank You God, for making food grow from the ground.
+}
+% 
+\newcommand{\HaMotziBlessingTransliterated}{%
+	Baruch ata Adonai Eloheinu melech ha’olam hamotzi lechem min ha’aretz.}
+\newcommand{\HaMotziBlessingEnglish}{Blessed are you, Lord our God, ruler of the universe who brings forth bread from the earth.}
+		
+\newcommand{\HaLachmaTransliterated}{%
+		
+		Ha lachma anya di achalu
+		av’hatana b’ar’ah d’mitzrayim.
+		Kol dich’fin yeiy’tei v’yeichul
+		Kol ditz’rich yeiy’tei v’yif’sach.
+		Ha-shata hacha –
+		l’shata d’atya b’ar’ah d’yisra’el
+		Ha-shata avdei –
+		l’shata d’atya b’nei chorin}
+	
+\newcommand{\HaLachmaEnglish}{%
+		This is the bread of affliction our ancestors ate in the land of Egypt. Let all who are hungry come and eat; let all who are in need come and share our Passover. This year here, next year in the land of Israel; this year oppressed, next year free.}
+	
+\newcommand{\MaNishtanaText}{%
+	Mah nishtanah ha-lailah ha-zeh mi-kol ha-leilot!
+	She-b’chol ha-leilot anu ochlin chameitz u-matzah, ha-lailah ha-zeh kulo matzah?
+	She-b’chol ha-leilot anu ochlin sh’ar y’rakot, ha-lailah ha-zeh maror?
+	She-b’chol ha-leilot ein anu matbilin afilu pa’am achat, ha-lailah ha-zeh sh’teif’amim?
+	She-b’chol ha-leilot anu ochlin bein yoshvin u-vein m’subin, ha-lailah ha-zeh
+	kullanu m’subin?
+}
+\newcommand{\MaNishtanaTextTranslation}{%
+		How different this night is from all other nights!
+	On all other nights we eat either leavened or unleavened bread…why only unleavened bread tonight?
+	On all other nights we eat different types of herbs and vegetables…why bitter herbs tonight?
+	On all other nights we do not even dip once…why do we dip twice tonight?
+	On all other nights we eat either sitting or leaning…why do we all lean tonight?}
+	
+\newcommand{\MaggidText}{%
+	\l{%
+		passage or poem for story
+	}
+	\e{%
+		We present to thee, O Lord, these gifts for our sacrifice, as honoring thy holy ones may they please thee, and of thy pity, may they become profitable to us.
+	}
+}
+
+\newcommand{\PlaguesText}{%
+	\begin{itemize}
+		\color{sectioncolour}
+		\item Dam
+		\item Tz'farde'a
+		\item Kinim
+		\item A'rov
+		\item Dever
+		\item Sh'chin
+		\item Barad
+		\item Ar'beh
+		\item Choshech
+		\item Makkat b'chorot
+	\end{itemize}}
+	
+\newcommand{\DayyeinuResponsa}{%
+	\begin{itemize}
+		If G-d had brought us out of Egypt and not given us Shabbat : Dayyeinu
+		\end{itemize}
+	}
+%
+\newcommand{\HallelBlessing}{%
+	\l{%
+		Hallelu hallelu hallelu, hallelu, halleluyah!
+		Kol ha-n’shamah t’hallel yah, hallelu halleluyah!
+		Let us give praise – Let us all praise God. Halleluyah!
+	}
+	
+\newcommand{\NirtzahBlessing}{%
+	\l{%
+		Next year in jerusalem findtext
+	}
+
+	
+	\e{%
+	\per
+}
+
+
+
+
+
+% File paths: we don't use symlinks as (a) not all platforms support them, and
+% (b) they don't fit nicely with the flow we're using.
+
+\newcommand{\kyriePath}{../Ordinaries/masses/4/kyrie}
+\newcommand{\gloriaPath}{../Ordinaries/masses/4/gloria}
+\newcommand{\sanctusPath}{../Ordinaries/masses/4/sanctus}
+\newcommand{\agnusPath}{../Ordinaries/masses/4/agnus}
+\newcommand{\itePath}{../Ordinaries/masses/4/ite}
+% 
+\newcommand{\creedPath}{../Ordinaries/credo/1/credo}
+% 
+%%% Local Variables:
+%%% mode: latex
+%%% TeX-master: "missalette"
+%%% End:

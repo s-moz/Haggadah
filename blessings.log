@@ -1,0 +1,681 @@
+This is LuaHBTeX, Version 1.21.0 (MiKTeX 25.3) (format=lualatex 2025.4.3)  3 APR 2025 21:53
+ restricted system commands enabled.
+**blessings.tex
+(./blessings.tex
+LaTeX2e <2024-11-01> patch level 2
+L3 programming layer <2025-01-18>
+Lua module: luaotfload 2024-12-03 v3.29 Lua based OpenType font support
+Lua module: lualibs 2023-07-13 v2.76 ConTeXt Lua standard libraries.
+Lua module: lualibs-extended 2023-07-13 v2.76 ConTeXt Lua libraries -- extended 
+collection.
+luaotfload | conf : Root cache directory is "C:/Users/Gamergurl/AppData/Local/Mi
+KTeX/luatex-cache/generic/names".
+luaotfload | init : Loading fontloader "fontloader-2023-12-28.lua" from kpse-res
+olved path "C:/Users/Gamergurl/AppData/Local/Programs/MiKTeX/tex/luatex/luaotflo
+ad/fontloader-2023-12-28.lua".
+Lua-only attribute luaotfload@noligature = 1
+luaotfload | init : Context OpenType loader version 3.134
+Inserting `luaotfload.node_processor' in `pre_linebreak_filter'.
+Inserting `luaotfload.node_processor' in `hpack_filter'.
+Inserting `luaotfload.glyph_stream' in `glyph_stream_provider'.
+Inserting `luaotfload.define_font' in `define_font'.
+Lua-only attribute luaotfload_color_attribute = 2
+luaotfload | conf : Root cache directory is "C:/Users/Gamergurl/AppData/Local/Mi
+KTeX/luatex-cache/generic/names".
+Inserting `luaotfload.harf.strip_prefix' in `find_opentype_file'.
+Inserting `luaotfload.harf.strip_prefix' in `find_truetype_file'.
+Removing  `luaotfload.glyph_stream' from `glyph_stream_provider'.
+Inserting `luaotfload.harf.glyphstream' in `glyph_stream_provider'.
+Inserting `luaotfload.harf.finalize_vlist' in `post_linebreak_filter'.
+Inserting `luaotfload.harf.finalize_hlist' in `hpack_filter'.
+Inserting `luaotfload.cleanup_files' in `wrapup_run'.
+Inserting `luaotfload.harf.finalize_unicode' in `finish_pdffile'.
+Inserting `luaotfload.glyphinfo' in `glyph_info'.
+Lua-only attribute luaotfload.letterspace_done = 3
+Inserting `luaotfload.aux.set_sscale_dimens' in `luaotfload.patch_font'.
+Inserting `luaotfload.aux.set_font_index' in `luaotfload.patch_font'.
+Inserting `luaotfload.aux.patch_cambria_domh' in `luaotfload.patch_font'.
+Inserting `luaotfload.aux.fixup_fontdata' in `luaotfload.patch_font_unsafe'.
+Inserting `luaotfload.aux.set_capheight' in `luaotfload.patch_font'.
+Inserting `luaotfload.aux.set_xheight' in `luaotfload.patch_font'.
+Inserting `luaotfload.rewrite_fontname' in `luaotfload.patch_font'.
+Inserting `tracingstacklevels' in `input_level_string'. (C:/Users/Gamergurl/App
+Data/Local/Programs/MiKTeX/tex/latex/memoir/memoir.cls
+Document Class: memoir 2025/03/10 v3.8.3b configurable book, report, article do
+cument class
+(C:/Users/Gamergurl/AppData/Local/Programs/MiKTeX/tex/latex/xpatch/xpatch.sty
+(C:/Users/Gamergurl/AppData/Local/Programs/MiKTeX/tex/latex/l3kernel/expl3.sty
+Package: expl3 2025-01-18 L3 programming layer (loader) 
+
+(C:/Users/Gamergurl/AppData/Local/Programs/MiKTeX/tex/latex/l3backend/l3backend
+-luatex.def
+File: l3backend-luatex.def 2024-05-08 L3 backend support: PDF output (LuaTeX)
+\l__color_backend_stack_int=\count194
+Inserting `l3color' in `luaotfload.parse_color'.
+\l__pdf_internal_box=\box52
+))
+Package: xpatch 2020/03/25 v0.3a Extending etoolbox patching commands
+
+(C:/Users/Gamergurl/AppData/Local/Programs/MiKTeX/tex/latex/l3packages/xparse/x
+parse.sty
+Package: xparse 2024-08-16 L3 Experimental document command parser
+)
+(C:/Users/Gamergurl/AppData/Local/Programs/MiKTeX/tex/latex/etoolbox/etoolbox.s
+ty
+Package: etoolbox 2025/02/11 v2.5l e-TeX tools for LaTeX (JAW)
+\etb@tempcnta=\count195
+))
+\onelineskip=\skip49
+\lxvchars=\skip50
+\xlvchars=\skip51
+\@memcnta=\count196
+\c@@memmarkcntra=\count197
+
+(C:/Users/Gamergurl/AppData/Local/Programs/MiKTeX/tex/generic/iftex/iftex.sty
+Package: iftex 2024/12/12 v1.0g TeX engine tests
+)
+\trimtop=\skip52
+\trimedge=\skip53
+
+(C:/Users/Gamergurl/AppData/Local/Programs/MiKTeX/tex/latex/memoir/mem10.clo
+File: mem10.clo 2022/07/29 v0.5 memoir class 10pt size option
+luaotfload | db : Font names database loaded from C:/Users/Gamergurl/AppData/Loc
+al/MiKTeX/luatex-cache/generic/names/luaotfload-names.luc.gz)
+\binding=\skip54
+\spinemargin=\skip55
+\foremargin=\skip56
+\uppermargin=\skip57
+\lowermargin=\skip58
+\headdrop=\skip59
+\normalrulethickness=\skip60
+\mem@maxheadheight=\skip61
+\mem@maxfootheight=\skip62
+\headwidth=\skip63
+\c@storedpagenumber=\count198
+\memPD=\dimen140
+\m@mabparskip=\skip64
+\thanksmarkwidth=\skip65
+\thanksmarksep=\skip66
+\droptitle=\skip67
+\c@book=\count199
+\c@part=\count266
+\c@chapter=\count267
+\c@section=\count268
+\c@subsection=\count269
+\c@subsubsection=\count270
+\c@paragraph=\count271
+\c@subparagraph=\count272
+\beforechapskip=\skip68
+\midchapskip=\skip69
+\afterchapskip=\skip70
+\chapindent=\skip71
+\bottomsectionskip=\skip72
+\secindent=\skip73
+\beforesecskip=\skip74
+\aftersecskip=\skip75
+\subsecindent=\skip76
+\beforesubsecskip=\skip77
+\aftersubsecskip=\skip78
+\subsubsecindent=\skip79
+\beforesubsubsecskip=\skip80
+\aftersubsubsecskip=\skip81
+\paraindent=\skip82
+\beforeparaskip=\skip83
+\afterparaskip=\skip84
+\subparaindent=\skip85
+\beforesubparaskip=\skip86
+\aftersubparaskip=\skip87
+\pfbreakskip=\skip88
+\c@@ppsavesec=\count273
+\c@@ppsaveapp=\count274
+\ragrparindent=\dimen141
+\everylistparindent=\dimen142
+\parsepi=\skip89
+\topsepi=\skip90
+\itemsepi=\skip91
+\parsepii=\skip92
+\topsepii=\skip93
+\topsepiii=\skip94
+\itemsepii=\skip95
+\itemsepiii=\skip96
+\partopsepii=\skip97
+\partopsepiii=\skip98
+\m@msavetopsep=\skip99
+\m@msavepartopsep=\skip100
+\@enLab=\toks17
+\abstitleskip=\skip101
+\absleftindent=\skip102
+\abs@leftindent=\dimen143
+\absrightindent=\skip103
+\absparindent=\skip104
+\absparsep=\skip105
+\c@vslineno=\count275
+\c@poemline=\count276
+\c@modulo@vs=\count277
+\c@memfvsline=\count278
+\vleftskip=\skip106
+\vrightskip=\skip107
+\stanzaskip=\skip108
+\versewidth=\skip109
+\vgap=\skip110
+\vindent=\skip111
+\vleftmargin=\dimen144
+\c@verse=\count279
+\c@chrsinstr=\count280
+\beforepoemtitleskip=\skip112
+\afterpoemtitleskip=\skip113
+\c@poem=\count281
+\beforePoemTitleskip=\skip114
+\midPoemTitleskip=\skip115
+\afterPoemTitleskip=\skip116
+
+(C:/Users/Gamergurl/AppData/Local/Programs/MiKTeX/tex/latex/tools/array.sty
+Package: array 2024/10/17 v2.6g Tabular extension package (FMi)
+\col@sep=\dimen145
+\ar@mcellbox=\box53
+\extrarowheight=\dimen146
+\NC@list=\toks18
+\extratabsurround=\skip117
+\backup@length=\skip118
+\ar@cellbox=\box54
+)
+(C:/Users/Gamergurl/AppData/Local/Programs/MiKTeX/tex/latex/tools/dcolumn.sty
+Package: dcolumn 2023/07/08 v1.06 decimal alignment package (DPC)
+)
+(C:/Users/Gamergurl/AppData/Local/Programs/MiKTeX/tex/latex/tools/delarray.sty
+Package: delarray 2014/10/28 v1.01 array delimiter package (DPC)
+) (C:/Users/Gamergurl/AppData/Local/Programs/MiKTeX/tex/latex/tools/tabularx.st
+y
+Package: tabularx 2023/12/11 v2.12a `tabularx' package (DPC)
+\TX@col@width=\dimen147
+\TX@old@table=\dimen148
+\TX@old@col=\dimen149
+\TX@target=\dimen150
+\TX@delta=\dimen151
+\TX@cols=\count282
+\TX@ftn=\toks19
+)
+(C:/Users/Gamergurl/AppData/Local/Programs/MiKTeX/tex/latex/booktabs/booktabs.s
+ty
+Package: booktabs 2020/01/12 v1.61803398 Publication quality tables
+\heavyrulewidth=\dimen152
+\lightrulewidth=\dimen153
+\cmidrulewidth=\dimen154
+\belowrulesep=\dimen155
+\belowbottomsep=\dimen156
+\aboverulesep=\dimen157
+\abovetopsep=\dimen158
+\cmidrulesep=\dimen159
+\cmidrulekern=\dimen160
+\defaultaddspace=\dimen161
+\@cmidla=\count283
+\@cmidlb=\count284
+\@aboverulesep=\dimen162
+\@belowrulesep=\dimen163
+\@thisruleclass=\count285
+\@lastruleclass=\count286
+\@thisrulewidth=\dimen164
+)
+\ctableftskip=\skip119
+\ctabrightskip=\skip120
+\abovecolumnspenalty=\count287
+\@linestogo=\count288
+\@cellstogo=\count289
+\@cellsincolumn=\count290
+\crtok=\toks20
+\@mincolumnwidth=\dimen165
+\c@newflo@tctr=\count291
+\mem@margin@floatbox=\box55
+\@contcwidth=\skip121
+\@contindw=\skip122
+\abovecaptionskip=\skip123
+\belowcaptionskip=\skip124
+\subfloattopskip=\skip125
+\subfloatcapskip=\skip126
+\subfloatcaptopadj=\skip127
+\subfloatbottomskip=\skip128
+\subfloatlabelskip=\skip129
+\subfloatcapmargin=\dimen166
+\c@@contsubnum=\count292
+\m@mscap@capbox=\box56
+\m@mscap@fbox=\box57
+\sidecapsep=\dimen167
+\sidecapwidth=\dimen168
+\m@m@tempdima=\dimen169
+\m@mscapraise=\dimen170
+\sidecapraise=\dimen171
+\m@mscapmainwidth=\dimen172
+\m@mscaplkern=\dimen173
+\beforeepigraphskip=\skip130
+\afterepigraphskip=\skip131
+\epigraphwidth=\skip132
+\epigraphrule=\skip133
+LaTeX Info: Redefining \em on input line 7017.
+LaTeX Info: Redefining \emph on input line 7025.
+
+(C:/Users/Gamergurl/AppData/Local/Programs/MiKTeX/tex/latex/hyperref/nameref.st
+y
+Package: nameref 2023-11-26 v2.56 Cross-referencing by name of section
+
+(C:/Users/Gamergurl/AppData/Local/Programs/MiKTeX/tex/latex/refcount/refcount.s
+ty
+Package: refcount 2019/12/15 v3.6 Data extraction from label references (HO)
+
+(C:/Users/Gamergurl/AppData/Local/Programs/MiKTeX/tex/generic/ltxcmds/ltxcmds.s
+ty
+Package: ltxcmds 2023-12-04 v1.26 LaTeX kernel commands for general use (HO)
+)
+(C:/Users/Gamergurl/AppData/Local/Programs/MiKTeX/tex/generic/infwarerr/infware
+rr.sty
+Package: infwarerr 2019/12/03 v1.5 Providing info/warning/error messages (HO)
+))
+(C:/Users/Gamergurl/AppData/Local/Programs/MiKTeX/tex/generic/gettitlestring/ge
+ttitlestring.sty
+Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
+
+(C:/Users/Gamergurl/AppData/Local/Programs/MiKTeX/tex/latex/kvoptions/kvoptions
+.sty
+Package: kvoptions 2022-06-15 v3.15 Key value format for package options (HO)
+
+(C:/Users/Gamergurl/AppData/Local/Programs/MiKTeX/tex/latex/graphics/keyval.sty
+Package: keyval 2022/05/29 v1.15 key=value parser (DPC)
+\KV@toks@=\toks21
+)
+(C:/Users/Gamergurl/AppData/Local/Programs/MiKTeX/tex/latex/kvsetkeys/kvsetkeys
+.sty
+Package: kvsetkeys 2022-10-05 v1.19 Key value parser (HO)
+)))
+\c@section@level=\count293
+)
+\tocentryskip=\skip134
+\tocbaseline=\skip135
+\cftparskip=\skip136
+\cftbeforebookskip=\skip137
+\cftbookindent=\dimen174
+\cftbooknumwidth=\dimen175
+\cftbeforepartskip=\skip138
+\cftpartindent=\skip139
+\cftpartnumwidth=\skip140
+\cftbeforechapterskip=\skip141
+\cftchapterindent=\skip142
+\cftchapternumwidth=\skip143
+\cftbeforesectionskip=\skip144
+\cftsectionindent=\skip145
+\cftsectionnumwidth=\skip146
+\cftbeforesubsectionskip=\skip147
+\cftsubsectionindent=\skip148
+\cftsubsectionnumwidth=\skip149
+\cftbeforesubsubsectionskip=\skip150
+\cftsubsubsectionindent=\skip151
+\cftsubsubsectionnumwidth=\skip152
+\cftbeforeparagraphskip=\skip153
+\cftparagraphindent=\skip154
+\cftparagraphnumwidth=\skip155
+\cftbeforesubparagraphskip=\skip156
+\cftsubparagraphindent=\skip157
+\cftsubparagraphnumwidth=\skip158
+\prechapterprecisshift=\dimen176
+\c@maxsecnumdepth=\count294
+\bibindent=\dimen177
+\bibitemsep=\skip159
+\indexcolsep=\skip160
+\indexrule=\skip161
+\indexmarkstyle=\toks22
+\@indexbox=\insert252
+LaTeX Info: Redefining \raggedbottom on input line 8108.
+LaTeX Info: Redefining \flushbottom on input line 8112.
+\glossarycolsep=\dimen178
+\glossaryrule=\dimen179
+\sideparvshift=\skip162
+\sideins=\insert251
+\sidebartopsep=\skip163
+\sidebarhsep=\skip164
+\sidebarvsep=\skip165
+\sidebarwidth=\skip166
+\footmarkwidth=\skip167
+\footmarksep=\skip168
+\footparindent=\skip169
+\footinsdim=\skip170
+\footinsv@r=\insert250
+\@mpfootinsv@r=\insert249
+\m@m@k=\count295
+\m@m@h=\dimen180
+\m@mipn@skip=\skip171
+\sidefootins=\insert248
+\sidefootadjust=\skip172
+\sidefootheight=\skip173
+\sidefoothsep=\skip174
+\sidefootvsep=\skip175
+\sidefootwidth=\skip176
+\m@mdownsf=\skip177
+\c@sidefootnote=\count296
+\sidefootmarkwidth=\skip178
+\sidefootmarksep=\skip179
+\sidefootparindent=\skip180
+\c@pagenote=\count297
+\c@pagenoteshadow=\count298
+\mem@pn@lastkern=\skip181
+
+(C:/Users/Gamergurl/AppData/Local/Programs/MiKTeX/tex/latex/tools/verbatim.sty
+Package: verbatim 2024-01-22 v1.5x LaTeX2e package for verbatim enhancements
+\every@verbatim=\toks23
+\verbatim@line=\toks24
+\verbatim@in@stream=\read2
+)
+\verbatimindent=\skip182
+\verbatim@out=\write3
+(C:/Users/Gamergurl/AppData/Local/Programs/MiKTeX/tex/latex/base/shortvrb.sty
+Package: shortvrb 2024/10/23 v3.0q Standard LaTeX documentation package V3 (FMi
+)
+)
+\bvboxsep=\skip183
+\c@memfbvline=\count299
+\c@bvlinectr=\count300
+\bvnumlength=\skip184
+\fb@frw=\dimen181
+\fb@frh=\dimen182
+\FrameRule=\dimen183
+\FrameSep=\dimen184
+\c@cp@cntr=\count301
+\c@ism@mctr=\count302
+\c@xsm@mctr=\count303
+\c@csm@mctr=\count304
+\c@ksm@mctr=\count305
+\c@xksm@mctr=\count306
+\c@cksm@mctr=\count307
+\c@msm@mctr=\count308
+\c@xmsm@mctr=\count309
+\c@cmsm@mctr=\count310
+\c@bsm@mctr=\count311
+\c@workm@mctr=\count312
+\c@sheetsequence=\count313
+\c@lastsheet=\count314
+\c@lastpage=\count315
+
+(C:/Users/Gamergurl/AppData/Local/Programs/MiKTeX/tex/latex/textcase/textcase.s
+ty
+Package: textcase 2025/02/16 v1.05 Text only upper/lower case changing (DPC)
+Package textcase Info: Defining Legacy names on input line 20.
+)
+\c@figure=\count316
+\c@lofdepth=\count317
+\cftbeforefigureskip=\skip185
+\cftfigureindent=\skip186
+\cftfigurenumwidth=\skip187
+\c@table=\count318
+\c@lotdepth=\count319
+\cftbeforetableskip=\skip188
+\cfttableindent=\skip189
+\cfttablenumwidth=\skip190
+Package abstract [2008/07/23] emulated by memoir.
+Package appendix [2008/07/23] emulated by memoir.
+Package ccaption [2008/07/23] emulated by memoir.
+Package changepage [2008/07/23] emulated by memoir.
+Package chngcntr [2008/07/23] emulated by memoir.
+Package chngpage [2008/07/23] emulated by memoir.
+Package crop emulated by memoir.
+Package enumerate [2008/07/23] emulated by memoir.
+Package epigraph [2008/07/23] emulated by memoir.
+Package ifmtarg [2008/07/23] emulated by memoir.
+Package index [2008/07/23] emulated by memoir.
+Package makeidx [2008/07/23] emulated by memoir.
+Package moreverb [2008/07/23] emulated by memoir.
+Package needspace [2008/07/23] emulated by memoir.
+Package newfile [2008/07/23] emulated by memoir.
+Package nextpage [2008/07/23] emulated by memoir.
+Package pagenote [2008/07/23] emulated by memoir.
+Package parskip [2008/07/23] emulated by memoir.
+Package patchcmd [2008/07/23] emulated by memoir.
+Package setspace [2008/07/23] emulated by memoir.
+Package showidx [2008/07/23] emulated by memoir.
+Package titleref [2008/07/23] emulated by memoir.
+Package titling [2008/07/23] emulated by memoir.
+Package tocbibind [2008/07/23] emulated by memoir.
+Package tocloft [2008/07/23] emulated by memoir.
+Package tocvsec2 [2008/07/23] emulated by memoir.
+Package verse [2008/07/23] emulated by memoir.
+)
+(C:/Users/Gamergurl/AppData/Local/Programs/MiKTeX/tex/latex/fontspec/fontspec.s
+ty
+Package: fontspec 2024/05/11 v2.9e Font selection for XeLaTeX and LuaLaTeX
+Lua module: fontspec 2024/05/11 v2.9e Font selection for XeLaTeX and LuaLaTeX
+(C:/Users/Gamergurl/AppData/Local/Programs/MiKTeX/tex/latex/fontspec/fontspec-l
+uatex.sty
+Package: fontspec-luatex 2024/05/11 v2.9e Font selection for XeLaTeX and LuaLaT
+eX
+\l__fontspec_script_int=\count320
+\l__fontspec_language_int=\count321
+\l__fontspec_strnum_int=\count322
+\l__fontspec_tmp_int=\count323
+\l__fontspec_tmpa_int=\count324
+\l__fontspec_tmpb_int=\count325
+\l__fontspec_tmpc_int=\count326
+\l__fontspec_em_int=\count327
+\l__fontspec_emdef_int=\count328
+\l__fontspec_strong_int=\count329
+\l__fontspec_strongdef_int=\count330
+\l__fontspec_tmpa_dim=\dimen185
+\l__fontspec_tmpb_dim=\dimen186
+\l__fontspec_tmpc_dim=\dimen187
+
+(C:/Users/Gamergurl/AppData/Local/Programs/MiKTeX/tex/latex/base/fontenc.sty
+Package: fontenc 2021/04/29 v2.0v Standard LaTeX package
+)
+(C:/Users/Gamergurl/AppData/Local/Programs/MiKTeX/tex/latex/fontspec/fontspec.c
+fg)))
+(C:/Users/Gamergurl/AppData/Local/Programs/MiKTeX/tex/latex/polyglossia/polyglo
+ssia.sty
+Package: polyglossia 2025/01/31 v2.4 Modern multilingual typesetting with XeLaT
+eX and LuaLaTeX
+Lua module: polyglossia 2013/05/11 v1.3 Polyglossia
+\l_xpg_alias_keyvals_int=\count331
+
+(C:/Users/Gamergurl/AppData/Local/Programs/MiKTeX/tex/latex/polyglossia/gloss-l
+atex.ldf
+File: gloss-latex.ldf polyglossia: module for default language
+)
+
+Package polyglossia Info: Setting LuaTeX font renderer to Harfbuzz
+
+)
+(C:/Users/Gamergurl/AppData/Local/Programs/MiKTeX/tex/latex/polyglossia/gloss-e
+nglish.ldf
+File: gloss-english.ldf polyglossia: module for English
+)
+
+Package polyglossia Info: Default language is english
+
+
+(C:/Users/Gamergurl/AppData/Local/Programs/MiKTeX/tex/latex/polyglossia/gloss-c
+zech.ldf
+File: gloss-czech.ldf polyglossia: module for Czech
+Module polyglossia Info: Language data for czech
+(polyglossia)            hyphenation	hyph-cs.hyp.txt
+(polyglossia)            lefthyphenmin	2
+(polyglossia)            loader	loadhyph-cs.tex
+(polyglossia)            patterns	hyph-cs.pat.txt
+(polyglossia)            righthyphenmin	3
+(polyglossia)            synonyms	 on input line 14
+Module polyglossia Info: Language czech was not yet loaded; created with id 2 on
+ input line 14
+
+(C:/Users/Gamergurl/AppData/Local/Programs/MiKTeX/tex/luatex/luavlna/luavlna.st
+y
+Package: luavlna 2024-05-02 luavlna
+
+(C:/Users/Gamergurl/AppData/Local/Programs/MiKTeX/tex/luatex/luavlna/luavlna.te
+x
+Inserting `LuaVlna' in `pre_linebreak_filter'.
+Inserting `allow hyphen breaks' in `hyphenate'.))
+(C:/Users/Gamergurl/AppData/Local/Programs/MiKTeX/tex/latex/polyglossia/babelsh
+.def
+File: babelsh.def 2022/06/21 Babel common definitions for shorthands
+ Taken verbatim from babel files (2022/06/06 v3.76)
+)
+Package babel Info: Making " an active character on input line 42.
+)
+(C:/Users/Gamergurl/AppData/Local/Programs/MiKTeX/tex/latex/polyglossia/gloss-h
+ebrew.ldf
+File: gloss-hebrew.ldf polyglossia: module for Hebrew
+
+(C:/Users/Gamergurl/AppData/Local/Programs/MiKTeX/tex/lualatex/luabidi/luabidi.
+sty
+Package: luabidi 2023/10/01 v0.6 Bidirectional typesetting in LuaTeX
+
+(C:/Users/Gamergurl/AppData/Local/Programs/MiKTeX/tex/lualatex/luabidi/luabidi-
+footnotes.def
+\footnoterulewidth=\skip191
+))
+(C:/Users/Gamergurl/AppData/Local/Programs/MiKTeX/tex/latex/polyglossia/hebrewc
+al.sty
+Package: hebrewcal 2022/07/18 v2.8 Hebrew calendar for polyglossia (adapted fro
+m hebcal.sty in Babel)
+
+(C:/Users/Gamergurl/AppData/Local/Programs/MiKTeX/tex/latex/polyglossia/cal-uti
+l.def
+\c@tmpA=\count332
+\c@tmpB=\count333
+\c@tmpC=\count334
+\c@tmpD=\count335
+\c@tmpE=\count336
+\c@tmpF=\count337
+)
+\hebrewday=\count338
+\hebrewmonth=\count339
+\hebrewyear=\count340
+\@common=\count341
+)
+(C:/Users/Gamergurl/AppData/Local/Programs/MiKTeX/tex/latex/polyglossia/babel-h
+ebrewalph.def
+File: babel-hebrewalph.def 2023/06/01 Expandable definitions for Hebrew numeral
+s
+))
+luaotfload | cache : Lookup cache loaded from C:/Users/Gamergurl/AppData/Local/M
+iKTeX/luatex-cache/generic/names/luaotfload-lookup-cache.luc.
+luaotfload | db : Reload initiated (formats: otf,ttf,ttc); reason: Font "New Pen
+inim MT" not found.
+
+! Package fontspec Error: 
+(fontspec)                The font "New Peninim MT" cannot be found; this
+(fontspec)                may be but usually is not a fontspec bug. Either
+(fontspec)                there is a typo in the font name/file, the font is
+(fontspec)                not installed (correctly), or there is a bug in
+(fontspec)                the underlying font loading engine
+(fontspec)                (XeTeX/luaotfload).
+
+For immediate help type H <return>.
+ ...                                              
+                                                  
+l.17 
+     
+
+A font might not be found for many reasons.
+ Check the spelling, where the font is installed etc. etc.
+
+ When in doubt, ask someone for help!
+
+
+luaotfload | aux : no font with id 0
+luaotfload | aux : no font with id 0
+
+Package fontspec Info: 
+(fontspec)             Could not resolve font "New Peninim MT/BI" (it probably
+(fontspec)             doesn't exist).
+
+
+Package fontspec Info: 
+(fontspec)             Could not resolve font "New Peninim MT/B" (it probably
+(fontspec)             doesn't exist).
+
+
+Package fontspec Info: 
+(fontspec)             Could not resolve font "New Peninim MT/I" (it probably
+(fontspec)             doesn't exist).
+
+
+! Package fontspec Error: 
+(fontspec)                The font "New Peninim MT" cannot be found; this
+(fontspec)                may be but usually is not a fontspec bug. Either
+(fontspec)                there is a typo in the font name/file, the font is
+(fontspec)                not installed (correctly), or there is a bug in
+(fontspec)                the underlying font loading engine
+(fontspec)                (XeTeX/luaotfload).
+
+For immediate help type H <return>.
+ ...                                              
+                                                  
+l.17 
+     
+
+A font might not be found for many reasons.
+ Check the spelling, where the font is installed etc. etc.
+
+ When in doubt, ask someone for help!
+
+
+
+! Package fontspec Error: 
+(fontspec)                The font "New Peninim MT" cannot be found; this
+(fontspec)                may be but usually is not a fontspec bug. Either
+(fontspec)                there is a typo in the font name/file, the font is
+(fontspec)                not installed (correctly), or there is a bug in
+(fontspec)                the underlying font loading engine
+(fontspec)                (XeTeX/luaotfload).
+
+For immediate help type H <return>.
+ ...                                              
+                                                  
+l.17 
+     
+
+A font might not be found for many reasons.
+ Check the spelling, where the font is installed etc. etc.
+
+ When in doubt, ask someone for help!
+
+
+luaotfload | aux : no font with id 0
+luaotfload | aux : no font with id 0
+luaotfload | aux : no font with id 0
+luaotfload | aux : no font with id 0
+
+Package fontspec Info: 
+(fontspec)             Font family 'NewPeninimMT(0)' created for font 'New
+(fontspec)             Peninim MT' with options [Renderer=Harfbuzz].
+(fontspec)              
+(fontspec)              This font family consists of the following NFSS
+(fontspec)             series/shapes:
+(fontspec)              
+(fontspec)             - 'normal' (m/n) with NFSS spec.: <->"name:New Peninim
+(fontspec)             MT:mode=harf;language=dflt;"
+
+)
+Runaway argument?
+{\l {Hallelu hallelu hallelu, hallelu, halleluyah! Kol ha-n’shamah \ETC.
+! File ended while scanning use of \@argdef.
+<inserted text> 
+                \par 
+<*> blessings.tex
+                 
+I suspect you have forgotten a `}', causing me
+to read past where you wanted me to stop.
+I'll try to recover; but if the error is serious,
+you'd better type `E' or `X' now and fix your file.
+
+! Emergency stop.
+<*> blessings.tex
+                 
+*** (job aborted, no legal \end found)
+
+
+
+Here is how much of LuaTeX's memory you used:
+ 8690 strings out of 475506
+ 125061,794899 words of node,token memory allocated 1025 words of node memory still in use:
+   2 hlist, 1 rule, 1 dir, 3 kern, 1 glyph, 3 attribute, 178 glue_spec, 3 attrib
+ute_list, 1 write nodes
+   avail lists: 1:1,2:11,3:4,4:5,5:7,7:4,9:3,11:3
+ 31611 multiletter control sequences out of 65536+600000
+ 18 fonts using 1121695 bytes
+ 85i,1n,91p,640b,233s stack positions out of 10000i,1000n,20000p,200000b,200000s
+!  ==> Fatal error occurred, no output PDF file produced!

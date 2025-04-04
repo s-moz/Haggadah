@@ -1,0 +1,224 @@
+\documentclass[a5paper,10pt]{memoir}
+% Packages
+\usepackage[nobottomtitles]{titlesec}
+\usepackage{microtype}
+\usepackage[yyyymmdd,hhmmss]{datetime}
+%\usepackage[british, czech]{babel}
+\usepackage{polyglossia}
+\setdefaultlanguage{english}
+\setotherlanguages{czech, hebrew}
+\usepackage{xcolor}
+
+%!TEX TS-program = lualatex 
+%!TEX encoding = UTF-8 Unicode
+%\usepackage{fontspec}
+%\setmainfont{TeX Gyre Pagella} %palatino clone
+% local
+\input{rubrics.sty}
+\input{styling.sty}
+\input{titlepage.sty}
+% Config
+\copypagestyle{versionplain}{plain}
+\newcommand{\version}{\tiny Release: v1.0.0 (template v2.3.0)}
+\makeevenfoot{versionplain}{\thepage}{}{\version}
+\makeoddfoot{versionplain}{\version}{}{\thepage}
+\pagestyle{versionplain}
+\thispagestyle{empty}
+% =========
+% per-document styling: we don't set this in `styling.sty' as we might want
+% different layouts.
+% =========
+% layout
+\setulmarginsandblock{0.5in}{0.7in}{*}
+\setlrmarginsandblock{0.5in}{0.5in}{*}
+\checkandfixthelayout
+% headers
+\setsecnumdepth{chapter}
+\setsecheadstyle{\Large\scshape\raggedright\centering}
+\setsubsubsecheadstyle{\color{darkblue}\large\scshape\raggedright\centering}
+\setparaheadstyle{\color{red}\large\raggedright\centering}
+\setafterparaskip{1.5ex plus .2ex}
+\setlength{\parskip}{\medskipamount}
+\setlength{\parindent}{0em}
+\midsloppy
+
+% REDEFINE CHAPTERS AND SECTIONS
+\usepackage{xcolor}
+% define colors
+\definecolor{sectioncolour}{RGB}{23,85,142}
+\definecolor{chaptercolour}{RGB}{0,51,102}
+\definecolor{subsectioncolour}{RGB}{23,85,142}
+
+\setsecheadstyle{\Large\bfseries\color{sectioncolour}}% Set \section style
+\setsubsecheadstyle{\large\bfseries\color{subsectioncolour}}% Set \subsection style
+
+\renewcommand{\chapnamefont}{\normalfont\large\scshape\raggedleft\color{chaptercolour}}
+\renewcommand{\chapnumfont}{\Huge\bfseries\color{chaptercolour}}
+\renewcommand{\chaptitlefont}{\normalfont\Huge\bfseries\sffamily\raggedleft\color{chaptercolour}}
+
+\usepackage{multicol}
+
+\input{couching}
+\input{blessings}
+
+\begin{document}
+\selectlanguage{british}
+
+\titlePage{Haggadah} 
+%\includegraphics{cover.png}
+%
+\section{Contents}
+	\begin{itemize}
+		\color{sectioncolour}
+		\item Neirot Candle-lighting
+		\item Kaddeish Kiddush cup 1
+		\item Urchatz Handwashing (no blessing)
+		\item Karpas Green herbs (dip parsley in saltwater)
+		\item Yachatz Breaking the middle matzah and hiding the afikomen
+		\item Maggid: beginning/intro
+		\item Lachma blessing Bread of Afflictiion and invitation to the seder
+		\item Ma Nishtana/Arba’ah 4 questions/4 children
+		\item Haggadah Story, 10 plagues, cup 2, dayyeinu, r.gamliel’s 3 things
+		\item Rachtzah handwashing (blessed)
+		\item Pesach Passover Sacrifice?
+		\item Matzah Unleavened Bread blessing and eat
+		\item Maror horseradish/Bitter herbs
+		\item Koreich Hillel Sandwich
+		\item Shulchan Oreich Meal
+		\item Tzafun Afikomen hunt
+		\item Bareich Grace after meals
+		\item Hallel Praise, door for elijah, cup of elijah and miriam’s cup
+		\item Nirtzah Conclusion (next year in jerusalem)
+	\end{itemize}
+	%
+\noindent
+{\color{cyan} \rule{\linewidth}{0.5mm}}
+% 
+
+\section{Neirot}
+\red{We normally begin after Havdalah by lighting the festival candles, but today we will come back to this once the sun has set fully, so we can sleep on time.}
+
+\begin{multicols}{2}
+	\CandlelightingBlessingTransliterated
+	
+	\columnbreak 
+	\CandlelightingBlessingEnglish
+	\end{multicols}
+
+% 
+
+\section{Kaddeish}
+{I need to add ann enter after this line}
+
+\begin{multicols}{2}
+	\WineBlessingEnglish
+	
+	\columnbreak \WineBlessingTransliterated
+	\end{multicols}
+\ShehechyanuBlessing
+  
+\section{Urchatz}
+\textit{We wash our hands without a blessing}
+
+% 
+\section{Karpas}
+\textit{We dip Parsley into salt water to symbolise the bitterness, sweat and tears of the slaves}
+ 
+\begin{multicols}{2}
+	\KarpasBlessingEnglish
+	
+	\columnbreak \KarpasBlessingTransliterated
+\end{multicols}
+% 
+
+
+\section{Yachatz}
+\begin{multicols}{2}
+	\HaMotziBlessingTransliterated
+	
+	\columnbreak \HaMotziBlessingEnglish
+\end{multicols}
+
+\textit{the following passage is in Aramaic:}
+
+\begin{multicols}{2}
+	\HaLachmaTransliterated
+
+	\columnbreak \HaLachmaEnglish
+\end{multicols}
+% 
+\section{Maggid}
+\red{The creed is sung:}
+
+\section{Ma Nishtana/Arba'ah}
+\red{Immediately after the Celebrant chants the previous “Oremus”:}
+
+\oneColumnTranslation{\offertoryTranslation}
+
+\red{A motet or hymn may be sung here.}
+
+\section{Haggadah}
+\black{\secret}
+
+\section{Rachtzah}
+
+\section{Pesach}
+\red{Immediately after the Celebrant concludes the chanting of the Preface:}
+
+\section{Matzah}
+
+\section{Maror}
+\red{The Celebrant alone chants the “Pater Noster.” The Choir sings the conclusion:}
+\gregorioscore{sed-libera-nos}
+
+\section{Koreich}
+
+
+\section{Shulchan Oreich}
+\red{After the proceeding ``Et cum spiritu tuo:''}
+
+\section{Tzafun}
+\red{Once the Celebrant begins to distribute Holy Communion:}
+
+\oneColumnTranslation{\communionTranslation}
+
+\red{A motet or hymn may be sung here.}
+
+\section{Bareich}
+\black{
+  \oremus
+  \postcommunion
+}
+
+
+\section{Hallel}
+
+% 
+\section{Nirtzah}
+\red{At the conclusion of Mass the Marian antiphon proper to the season is sung:}
+% 
+
+\red{A motet or hymn may follow.}
+\begin{center}
+  \+
+\end{center}
+
+
+\vfill
+Typeset by Sarah Morris in ten-point Palatino.  Translations from the
+MyJewishLearning.com SOURCES, and my own.
+
+% 
+The latest version of this booklet can always be found at
+\url{ https://github.com/ }. Comments?
+Suggestion? Found a mistake? Open an issue in the repository.
+% 
+
+{\centering\footnotesize\texttt{Compositum \today\ hora \currenttime}\par}
+
+\end{document}
+
+%%% Local Variables:
+%%% mode: latex
+%%% TeX-engine: luatex
+%%% End:
