@@ -1,5 +1,5 @@
 # Haggadah
-~INCOMPLETE CURRENT PROJECT~
+~INCOMPLETE CURRENT PROJECT!
 First shot at a Haggadah formatted for future adaptability
 
 This project uses liturgical formatting and supporting stylistic and structural files to typeset the Jewish pesach seder text
