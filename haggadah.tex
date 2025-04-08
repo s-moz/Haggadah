@@ -67,15 +67,12 @@
 %\renewcommand{\chapnamefont}{\normalfont\large\scshape\raggedleft\color{chaptercolour}}
 %\renewcommand{\chapnumfont}{\Huge\bfseries\color{chaptercolour}}
 %\renewcommand{\chaptitlefont}{\normalfont\Huge\bfseries\sffamily\raggedleft\color{chaptercolour}}
-	
-%\newcommand{\red}[2][\centering]{%do the red....
-	% call with empty optional argument for justified text; or
-	%\raggedright
-	% \filbreak
-	%{\noindent\textcolor{midblue}{\shape#2}#1\par\nopagebreak\medskip\nopagebreak}\nopagebreak}
+
+
+\newcommand{\largehebrew}[1]{\LARGE \texthebrew{\shape #1} \normalsize}
 
 \begin{document}
-Blurb
+	Blurb
 \onecolumn
 
 \includegraphics[width=\textwidth]{smallstarscover.png}
@@ -142,7 +139,6 @@ Blurb
 %
 \section{Maggid : The Story}
 \Maggid
-%\Dayyeinu
 
 \section{Rachtzah : Handwashing (Blessed)}
 \Handwashing

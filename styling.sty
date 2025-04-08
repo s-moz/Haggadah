@@ -2,6 +2,18 @@
 \NeedsTeXFormat{LaTeX2e}[1994/06/01]
 \ProvidesPackage{styling}
 \RequirePackage{multicol}
+%!TEX TS-program = lualatex 
+%!TEX encoding = UTF-8 Unicode
+%\usepackage{fontspec}
+\usepackage{polyglossia}
+\setdefaultlanguage{english}
+\setotherlanguages{czech, hebrew}
+%\newfontfamily{\hebrewfont}{New Peninim MT}
+\usepackage{xcolor}
+% define colors
+\definecolor{midblue}{RGB}{23,85,142}
+\definecolor{darkblue}{RGB}{0,51,102}
+
 
 \newcommand{\red}[2][\centering]{%do the red....
 	% call with empty optional argument for justified text; or
@@ -9,3 +21,30 @@
 	% \filbreak
 	{\noindent\textcolor{midblue}{\shape#2}#1\par\nopagebreak\medskip\nopagebreak}\nopagebreak}
 %
+\newcommand{\DayyeinuRepeat}{	
+	\vspace{1ex}
+	\columnratio{0.8}
+	\begin{paracol}{2}
+		\centering{
+			\textcolor{midblue}{...it would have been enough!\\ 
+				\vspace*{1ex}}}
+		\hspace*{20mm}
+		\textit{\textcolor{midblue}{\LARGE ...dayeinu!}}\\ \vspace*{-2ex}
+		\hspace*{28mm}
+		\textcolor{darkblue}{\HUGE\texthebrew{...דַּיֵּנוּ}\\}
+		\vspace*{1ex}
+		\colseprulecolor{white}
+	\end{paracol}}
+	
+\newcommand{\bakDayyeinuRepeat}{	
+	\vspace{1ex}
+	\raggedright{
+	\hspace*{20mm}{\textcolor{midblue}{...it would have been enough!\\
+	\hspace*{20mm}\textit{...dayeinu!}\\
+	\vspace*{-4ex}}
+	\hspace*{50mm}\textcolor{darkblue}{\HUGE\texthebrew{...דַּיֵּנוּ}\\}}
+\vspace*{1ex}
+}}
+		
+
+\newcommand{\largehebrew}[1]{\LARGE \texthebrew{\shape #1} \normalsize}

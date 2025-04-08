@@ -1,4 +1,4 @@
-This is LuaHBTeX, Version 1.21.0 (MiKTeX 25.3) (format=lualatex 2025.4.3)  7 APR 2025 13:51
+This is LuaHBTeX, Version 1.21.0 (MiKTeX 25.3) (format=lualatex 2025.4.3)  8 APR 2025 16:03
  restricted system commands enabled.
 **testcasefile.tex
 (./testcasefile.tex
@@ -1034,26 +1034,6 @@ LaTeX Warning: You have requested file `',
                but the file provides `styling'.
 
 Package: styling 
-) (./titlepage.sty
-
-LaTeX Warning: You have requested file `',
-               but the file provides `titlepage'.
-
-Package: titlepage 
-\TPpreseriesskip=\skip270
-\TPpretitleskip=\skip271
-\TPpresubtitleskip=\skip272
-) (./couching.tex
-(C:/Users/Gamergurl/AppData/Local/Programs/MiKTeX/tex/latex/enumitem/enumitem.s
-ty
-Package: enumitem 2025/02/06 v3.11 Customized lists
-\labelindent=\skip273
-\enit@outerparindent=\dimen274
-\enit@toks=\toks36
-\enit@inbox=\box118
-\enit@count@id=\count410
-\enitdp@description=\count411
-)) (./blessings.tex) (./readings.tex
 
 Package polyglossia Info: Default language is english
 
@@ -1085,7 +1065,30 @@ File: babelsh.def 2022/06/21 Babel common definitions for shorthands
  Taken verbatim from babel files (2022/06/06 v3.76)
 )
 Package babel Info: Making " an active character on input line 42.
-))
+)) (./titlepage.sty
+
+LaTeX Warning: You have requested file `',
+               but the file provides `titlepage'.
+
+Package: titlepage 
+\TPpreseriesskip=\skip270
+\TPpretitleskip=\skip271
+\TPpresubtitleskip=\skip272
+) (./couching.tex
+(C:/Users/Gamergurl/AppData/Local/Programs/MiKTeX/tex/latex/enumitem/enumitem.s
+ty
+Package: enumitem 2025/02/06 v3.11 Customized lists
+\labelindent=\skip273
+\enit@outerparindent=\dimen274
+\enit@toks=\toks36
+\enit@inbox=\box118
+\enit@count@id=\count410
+\enitdp@description=\count411
+)) (./blessings.tex) (./readings.tex
+
+Package polyglossia Info: Default language is english
+
+)
 
 ******************************************************
 Stock height and width: 597.50787pt by 421.10078pt
@@ -2134,13 +2137,13 @@ Package rerunfilecheck Info: File `testcasefile.out' has not changed.
 )
 
 Here is how much of LuaTeX's memory you used:
- 21365 strings out of 475506
+ 21371 strings out of 475506
  125061,1144653 words of node,token memory allocated
  1161 words of node memory still in use:
    4 hlist, 1 vlist, 1 rule, 2 glue, 3 kern, 1 glyph, 6 attribute, 195 glue_spec
 , 6 attribute_list, 2 write nodes
    avail lists: 1:1,2:183,3:62,4:66,5:153,6:15,7:2016,8:3,9:185,10:12,11:78
- 43953 multiletter control sequences out of 65536+600000
+ 43959 multiletter control sequences out of 65536+600000
  25 fonts using 1447575 bytes
  85i,10n,91p,1042b,366s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <C:/Users/Gamergurl/AppData/Local/Microsoft/Windows/Fonts/new-peninim-mt-2.ttf><
