@@ -18,32 +18,35 @@
 \newcommand{\contentsTranslation}{}
 % 
 \newcommand{\Neirot}{
-	{\noindent\color{midblue}We normally begin after Havdalah by lighting the festival candles, but today we will come back to this once the sun has set fully, so we can sleep on time.
+	{\noindent\color{midblue}We normally begin after Havdalah by lighting the festival candles, but today we will come back to this once the sun has set fully, so we can sleep on time.}
+	\CandlesBlessingHeb
+	\par
+	\textit{\CandlesBlessingTlit}
+	\begin{multicols}{2}
+		\CandlesBlessingCz
+		
+		\columnbreak 
+		\CandlesBlessingEng
+	\end{multicols}
 	}
-%
-\CandlesBlessingHeb
-\par
-\begin{multicols}{2}
-	\CandlesBlessingTlit
-	
-	\columnbreak 
-	\CandlesBlessingEng
-\end{multicols}
-}
 
 \newcommand{\Kaddeish}{
 	\WineBlessingHeb
+	\textit{\WineBlessingTlit}
 	\begin{multicols}{2}
-		\WineBlessingTlit
-		\columnbreak \WineBlessingEng
+		\WineBlessingCz
+		
+		\columnbreak 
+		\WineBlessingEng
 	\end{multicols}
 }
 
 \newcommand{\Shehechyanu}{
 	\ShehechyanuBlessingHeb
+	\textit{\ShehechyanuBlessingTlit}
 	\par
 		\begin{multicols}{2}
-		\ShehechyanuBlessingTlit
+		\ShehechyanuBlessingCz
 		
 		\columnbreak \ShehechyanuBlessingEng
 		\end{multicols}}
@@ -55,9 +58,12 @@
 \newcommand{\Karpas}{
 {\noindent\color{midblue}We dip Parsley into salt water to symbolise the sweat and tears of the slaves}
 \KarpasBlessingHeb
+\textit{\KarpasBlessingTlit}
 \begin{multicols}{2}
-	\KarpasBlessingTlit
-	\columnbreak \KarpasBlessingEng
+	\KarpasBlessingCz
+	
+	\columnbreak 
+	\KarpasBlessingEng
 \end{multicols}
 }
 \newcommand{\Yachatz}{%
@@ -135,31 +141,44 @@
 \newcommand{\HaMotzi}{
 	\textit{We bless the unleavened bread just as we bless any bread at the start of a meal:}
 	\HaMotziBlessingHeb
+	\textit{\HaMotziBlessingTlit}
 	\begin{multicols}{2}
-		\HaMotziBlessingTlit
+		\HaMotziBlessingCz
+		
 		\columnbreak \HaMotziBlessingEng
 	\end{multicols}
 }
 \newcommand{\Matzah}{
 \textit{We recite the blessing over Matzah because consuming it is a specific Torah command:}
 \MatzahBlessingHeb
+\textit{\MatzahBlessingTlit}
 	\begin{multicols}{2}
-	\MatzahBlessingTlit
+	\MatzahBlessingCz
+	
 	\columnbreak \MatzahBlessingEng
 \end{multicols}
 }
 %
 \newcommand{\Maror}{
  In creating a holiday about the joy of freedom, we turn the story of our bitter
-history into a sweet celebration. We recognize this by dipping our bitter herbs into
-the sweet charoset. We don’t totally eradicate the taste of the bitter with the taste
-of the sweet… but doesn’t the sweet mean more when it’s layered over the
-bitterness?
-\MarorBlessing}
+history into a sweet celebration. \\ We recognize this by dipping our bitter horseradish (křen) into the sweet charoset. Try to taste both the flavours at once.\\
+\vspace*{2ex}
+\textit{namáčíme náš křen do charosetu}\\
+\MarorBlessingHeb
+\textit{\MarorBlessingTlit}
+\begin{multicols}{2}
+	\MarorBlessingCz
+	
+	\columnbreak \MarorBlessingEng
+\end{multicols}
+}
 %
 \newcommand{\Koreich}{
 	%\includegraphics{Koreich}
 	\KoreichText}
+
+\newcommand{\Bareich}{
+\BareichEng}
 
 \newcommand{\Hallel}{%
   {\HallelHeb

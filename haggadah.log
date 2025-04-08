@@ -1,4 +1,4 @@
-This is LuaHBTeX, Version 1.21.0 (MiKTeX 25.3) (format=lualatex 2025.4.3)  8 APR 2025 16:53
+This is LuaHBTeX, Version 1.21.0 (MiKTeX 25.3) (format=lualatex 2025.4.3)  8 APR 2025 21:30
  restricted system commands enabled.
 **haggadah.tex
 (./haggadah.tex
@@ -2180,11 +2180,6 @@ Package microtype Info: Character `textexclamdown ' is missing
 Package microtype Info: Character `textquestiondown ' is missing
 (microtype)             in font `TU/NewPeninimMT(0)/m/n/14.4'.
 (microtype)             Ignoring protrusion settings for this character.
-
-Underfull \hbox (badness 10000) in paragraph at lines 106--106
-\TU/lmr/m/n/10 ha-olam She-hechyanu V’kiy-manu
- []
-
 <cup.png, id=28, 198.7425pt x 315.579pt>
 File: cup.png Graphic file (type png)
 <use cup.png>
@@ -2217,12 +2212,7 @@ misspelled it (e.g., `\hobx'), type `I' and the correct
 spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
-
-Underfull \hbox (badness 10000) in paragraph at lines 119--119
-\TU/lmr/m/n/10 ha-olam She-hechyanu V’kiy-manu
- []
-
-<Karpas.png, id=33, 69.25874pt x 122.25674pt>
+<Karpas.png, id=34, 69.25874pt x 122.25674pt>
 File: Karpas.png Graphic file (type png)
 <use Karpas.png>
 Package luatex.def Info: Karpas.png  used on input line 128.
@@ -2975,6 +2965,17 @@ Underfull \hbox (badness 10000) in paragraph at lines 143--143
 |\TU/lmr/bx/n/12 Rachtzah : Hand-wash-ing (Blessed)|
  []
 
+! Undefined control sequence.
+\Handwashing ...d and then read:} \NetilatYadayim 
+                                                  
+l.144 \Handwashing
+                  
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
 
 Underfull \hbox (badness 10000) in paragraph at lines 146--146
 |\TU/lmr/bx/n/12 Pe-sach|
@@ -2998,12 +2999,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 149--149
 
 
 
-[17
-Missing character: There is no ְ (U+05B0) in font [lmroman10-regular]:+tlig;!
-Missing character: There is no ָ (U+05B8) in font [lmroman10-regular]:+tlig;!
-Missing character: There is no ּ (U+05BC) in font [lmroman10-regular]:+tlig;!
-Missing character: There is no ּ (U+05BC) in font [lmroman10-regular]:+tlig;!
-]
+[17]
 Underfull \hbox (badness 10000) in paragraph at lines 153--153
 |\TU/lmr/bx/n/12 Maror : Bit-ter Herbs|
  []
@@ -3019,23 +3015,14 @@ misspelled it (e.g., `\hobx'), type `I' and the correct
 spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
-! Undefined control sequence.
-\Maror ...red over the bitterness? \MarorBlessing 
-                                                  
-l.155 \Maror
-            
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
 
 Underfull \hbox (badness 10000) in paragraph at lines 157--157
 |\TU/lmr/bx/n/12 Ko-r-e-ich : Hil-lel Sand-wich|
  []
 
 
+
+[18]
 Underfull \hbox (badness 10000) in paragraph at lines 160--160
 |\TU/lmr/bx/n/12 Shulchan Or-e-ich : The Set Ta-ble|
  []
@@ -3089,13 +3076,118 @@ Type  I <command> <return>  to replace it with another command,
 or  <return>  to continue without it.
 
 
-
-[18]
 Underfull \hbox (badness 10000) in paragraph at lines 168--168
 |\TU/lmr/bx/n/12 Bare-ich : Grace af-ter the meal|
  []
 
+! Undefined control sequence.
+\BareichEng ...ce of food for everyone. \centered 
+                                                  {\LARGE Amen}\\ BirkatHaAr...
+l.170 \Bareich
+              
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
 
+! Undefined control sequence.
+\BareichEng ...light our feet (ps: 119) \centered 
+                                                  {\LARGE Amen}\\ \\Just as ...
+l.170 \Bareich
+              
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+! LaTeX Error: There's no line here to end.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.170 \Bareich
+              
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+! Undefined control sequence.
+\BareichEng ...s now and in the future. \centered 
+                                                  {\LARGE Amen}\\ BirkatYeru...
+l.170 \Bareich
+              
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+\BareichEng ...cy and continued support \centered 
+                                                  {\LARGE Amen}\\ \\BirkatHa...
+l.170 \Bareich
+              
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+! LaTeX Error: There's no line here to end.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.170 \Bareich
+              
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+! Undefined control sequence.
+\BareichEng ...ngs God bestows upon us. \centered 
+                                                  {\LARGE Amen}\\ \\Harahama...
+l.170 \Bareich
+              
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+! LaTeX Error: There's no line here to end.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.170 \Bareich
+              
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+! Undefined control sequence.
+\BareichEng ...and to the entire world. \centered 
+                                                  {\LARGE Amen}\\ Bendigamos...
+l.170 \Bareich
+              
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+
+[19]
 Underfull \hbox (badness 10000) in paragraph at lines 173--173
 |\TU/lmr/bx/n/12 Hal-lel : Praise|
  []
@@ -3123,9 +3215,20 @@ misspelled it (e.g., `\hobx'), type `I' and the correct
 spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
+! Undefined control sequence.
+\Miriam -> \Miriamreading 
+                          \MiriamBlessing 
+l.178 \Miriam
+             
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
 
 
-[19
+
+[20
 Missing character: There is no ֽ (U+05BD) in font "name:New Peninim MT:mode=har
 f;script=hebr;language=dflt;"!
 Missing character: There is no ֽ (U+05BD) in font "name:New Peninim MT:mode=har
@@ -3156,50 +3259,6 @@ Missing character: There is no ֥ (U+05A5) in font "name:New Peninim MT:mode=har
 f;script=hebr;language=dflt;"!
 Missing character: There is no ֨ (U+05A8) in font "name:New Peninim MT:mode=har
 f;script=hebr;language=dflt;"!
-]
-! Undefined control sequence.
-\Miriam -> \Miriamreading 
-                          \MiriamBlessing 
-l.178 \Miriam
-             
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 181--181
-|\TU/lmr/bx/n/12 Nirtzah : Con-clu-sion|
- []
-
-! Undefined control sequence.
-<argument> \shape 
-                  Conclusion (next year in Jerusalem)
-l.182 \red[]{Conclusion (next year in Jerusalem)}
-                                                 
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-! Undefined control sequence.
-l.200 \url
-          { https://github.com/ }. Comments?
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-Package microtype Info: Loading generic protrusion settings for font family
-(microtype)             `lmtt' (encoding: TU).
-(microtype)             For optimal results, create family-specific settings.
-(microtype)             See the microtype manual for details.
-
-
-[20
 Missing character: There is no ו (U+05D5) in font [lmroman10-regular]:+tlig;!
 Missing character: There is no ְ (U+05B0) in font [lmroman10-regular]:+tlig;!
 Missing character: There is no ג (U+05D2) in font [lmroman10-regular]:+tlig;!
@@ -3479,6 +3538,38 @@ Missing character: There is no ד (U+05D3) in font [lmroman10-regular]:+tlig;!
 Missing character: There is no ְ (U+05B0) in font [lmroman10-regular]:+tlig;!
 Missing character: There is no ִ (U+05B4) in font [lmroman10-regular]:+tlig;!
 Missing character: There is no ּ (U+05BC) in font [lmroman10-regular]:+tlig;!
+]
+Underfull \hbox (badness 10000) in paragraph at lines 181--181
+|\TU/lmr/bx/n/12 Nirtzah : Con-clu-sion|
+ []
+
+! Undefined control sequence.
+<argument> \shape 
+                  Conclusion (next year in Jerusalem)
+l.182 \red[]{Conclusion (next year in Jerusalem)}
+                                                 
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.200 \url
+          { https://github.com/ }. Comments?
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+Package microtype Info: Loading generic protrusion settings for font family
+(microtype)             `lmtt' (encoding: TU).
+(microtype)             For optimal results, create family-specific settings.
+(microtype)             See the microtype manual for details.
+
+
+[21
 Missing character: There is no ל (U+05DC) in font [lmroman10-regular]:+tlig;!
 Missing character: There is no ש (U+05E9) in font [lmroman10-regular]:+tlig;!
 Missing character: There is no ָ (U+05B8) in font [lmroman10-regular]:+tlig;!
@@ -3521,14 +3612,14 @@ L3 programming layer <2020/03/25>
 )
 
 Here is how much of LuaTeX's memory you used:
- 15086 strings out of 475506
+ 15097 strings out of 475506
  125061,1144653 words of node,token memory allocated
  2442 words of node memory still in use:
    5 hlist, 2 vlist, 1 rule, 1 local_par, 92 glue, 3 kern, 1 penalty, 3 glyph, 9
 6 attribute, 245 glue_spec, 96 attribute_list, 2 write nodes
-   avail lists: 1:1,2:1041,3:708,4:336,5:326,6:135,7:5684,8:5,9:1254,10:41,11:21
-2
- 37808 multiletter control sequences out of 65536+600000
+   avail lists: 1:1,2:1041,3:708,4:336,5:314,6:135,7:5161,8:5,9:1254,10:41,11:16
+4
+ 37819 multiletter control sequences out of 65536+600000
  48 fonts using 3605751 bytes
  85i,15n,91p,1010b,1109s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <c:/users/gamergurl/appdata/local/programs/miktex/fonts/opentype/public/lm/lmmon
@@ -3542,9 +3633,9 @@ rl/appdata/local/programs/miktex/fonts/opentype/public/lm/lmroman12-bold.otf><c:
 -regular.otf><c:/users/gamergurl/appdata/local/programs/miktex/fonts/opentype/pu
 blic/lm/lmroman17-regular.otf><c:/users/gamergurl/appdata/local/programs/miktex/
 fonts/opentype/public/lm/lmroman10-regular.otf>
-Output written on haggadah.pdf (20 pages, 696544 bytes).
+Output written on haggadah.pdf (21 pages, 701569 bytes).
 
-PDF statistics: 135 PDF objects out of 1000 (max. 8388607)
+PDF statistics: 139 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 131072)
  1 words of extra memory for PDF output out of 10000 (max. 100000000)
 
