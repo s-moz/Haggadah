@@ -1,0 +1,344 @@
+% This file defines the texts and readings to be inserted into haggadah.tex  In this way
+% multiple formats can be typeset very quickly.  haggadah.tex should not normally
+% need changing.  Note that this is not the most readable way to insert text
+% into a LaTeX document, but it is the most powerful: the macros defined here
+% are directly excecuted when building the document.
+
+%!TEX TS-program = lualatex 
+%!TEX encoding = UTF-8 Unicode
+%\usepackage{fontspec}
+\usepackage{polyglossia}
+\setdefaultlanguage{english}
+\setotherlanguages{czech, hebrew}
+%\newfontfamily{\hebrewfont}{New Peninim MT}
+% 
+
+\newcommand{\HaLachmaTlit}{%
+	Ha lachma anya di achalu
+	av’hatana b’ar’ah d’mitzrayim.
+	Kol dich’fin yeiy’tei v’yeichul
+	Kol ditz’rich yeiy’tei v’yif’sach.
+	Ha-shata hacha –
+	l’shata d’atya b’ar’ah d’yisra’el
+	Ha-shata avdei –
+	l’shata d’atya b’nei chorin}
+
+\newcommand{\HaLachmaEng}{%
+	This is the bread of affliction our ancestors ate in the land of Egypt. Let all who are hungry come and eat; let all who are in need come and share our Passover. This year here, next year in the land of Israel; this year oppressed, next year free.}
+
+\newcommand{\MaNishtanaTlit}{%
+	
+	Mah nishtanah ha-lailah ha-zeh mi-kol ha-leilot!
+	\begin{enumerate}
+		\item She-b’chol ha-leilot anu ochlin chameitz u-matzah, ha-lailah ha-zeh kulo matzah?
+		\item She-b’chol ha-leilot anu ochlin sh’ar y’rakot, ha-lailah ha-zeh maror?
+		\item She-b’chol ha-leilot ein anu matbilin afilu pa’am achat, ha-lailah ha-zeh sh’teif’amim?
+		\item She-b’chol ha-leilot anu ochlin bein yoshvin u-vein m’subin, ha-lailah ha-zeh kullanu m’subin?
+		\end{enumerate}
+}
+
+\newcommand{\MaNishtanaEng}{%
+	How different this night is from all other nights!
+	\begin{enumerate}
+		\item On all other nights we eat either leavened or unleavened bread…why only unleavened bread tonight?
+		\item On all other nights we eat different types of herbs and vegetables…why bitter herbs tonight?
+		\item On all other nights we do not even dip once…why do we dip twice tonight?
+		\item On all other nights we eat either sitting or leaning…why do we all lean tonight?
+		\end{enumerate}
+}
+\newcommand{\FourChildrenText}{
+The Talmud describes four types of children at the Pesach table, and how to respond to them
+\begin{enumerate}
+	\item \raggedright{The wise child, who asks: What are the testimonies and laws which God commanded you?} \\
+	\raggedleft{and should be taught the rules of the holiday.}
+	\item \raggedright{The wicked child, who removes himself from the question and asks: What does this service mean to you individually?} \\
+	\raggedleft{and should be taught about community and put in his place}
+	\item The simple child who asks, What is this about? \\
+	\raggedleft{and should be told of G-d's mighty deliverence plainly}
+	\item The child who doesn’t know how to ask a question\\
+	\raggedleft{who should be aided and told the story}
+	\end{enumerate}
+}
+%
+\newcommand{\MaggidText}{%
+	Insert Passage or poem for story. When speaking of gds promise to abraham raise the cup and say the promisetoast, 10 plagues, cup 2, dayyeinu, r.gamliel’s 3 things
+}
+
+\newcommand{\PromiseToast}
+{V’hi she-amda l’avoteinu v’lanu.\\
+	This promise has sustained our ancestors and us.}
+	
+\newcommand{\PlaguesText}{%
+image of plagues
+We name the plagues and spill a drop of drink on each one, like a tear for the suffering they caused in the world.
+\begin{center}
+	%\begin{itemize}
+		\color{sectioncolour}
+		\item 	\texthebrew{דָּם}  |  Dam  |  Blood
+		\item 	\texthebrew{צְפַרְדֵּעַ}  |  Tz'fardeiya  |  Frogs
+		\item 	\texthebrew{כִּנִּים}  |  Kinim  |  Lice
+		\item	\texthebrew{עַרוֹב}  |  A'rov  |  Beasts
+		\item	\texthebrew{דֶּבֶר}  |  Dever  |  Cattle disease  
+		\item	\texthebrew{שְׁחִין}  |  Sh'chin  |  Boils
+		\item 	\texthebrew{בָּרָד}  |  Barad  |  Hail
+		\item 	\texthebrew{אַרְבֶּה}  |  Ar'beh  |  Locusts
+		\item 	\texthebrew{חוֹשֶׁךְ}  |  Choshech  |  Darkness
+		\item 	\texthebrew{מַכַּת בְּכוֹרוֹת}  |  Makkat b'chorot  |  Death of the Firstborn
+	%\end{itemize}	
+\end{center}
+
+}
+
+
+\newcommand{\DayyeinuText}{%
+	\begin{itemize}
+		\vspace*{2ex}
+		How many times do we forget to pause and notice that where we are? Dayenu reminds us about all the blessings and miracles already in our lives. When we experience difficult times, we look forward to future joys but also actively reflect on existing reasons we have for gratitude, a reason to say “Dayenu”.
+		\vspace*{2ex}
+		Persian and Afghani Jews hit each other on the heads and shoulders with scallions every time they say Dayenu, especially in the 9th stanza about the manna that the Israelites ate every day in the desert, because Torah tells us that the Israelites began to complain about the manna and longed for the onions, leeks and garlic.\\	
+		\vspace*{2ex}
+		If He had brought us out from Egypt...\\
+		\textit{Ilu hotzianu mimitzrayim...}\\
+		\texthebrew{אִלּוּ הוֹצִיאָנוּ מִמִּצְרָיִם...}\\
+		\vspace*{2ex}
+		\raggedleft{...and had not carried out judgments against them...\\
+		\textit{...v'lo asah bahem sh'fatim...}\\
+		\texthebrew{וְלֹא עָשָׂה בָּהֶם שְׁפָטִים...}\\}
+		\vspace*{2ex}
+		\centering{...it would have been enough!\\
+		\textit{...Dayeinu!}\\
+		\texthebrew{\LARGE ...דַּיֵּנוּ}\\}
+		\vspace*{2ex}
+		\raggedright{If He had carried out judgments against them...\\
+		\textit{Ilu asah bahem sh'fatim...}\\
+		\texthebrew{אִלּוּ עָשָׂה בָּהֶם שְׁפָטִים...}\\}
+		\vspace*{2ex}
+		\raggedleft{...and not against their idols...\\
+		\textit{...v'lo asah beloheihem...}\\
+		\texthebrew{...וְלֹא עָשָׂה בֵּאלֹהֵיהֶם...}\\
+		\vspace*{2ex}
+		\centering{...it would have been enough!\\		
+		\textit{...Dayeinu!}\\
+		\texthebrew{...דַּיֵּנוּ}\\}
+		\vspace*{2ex}		
+		\raggedright{If He had destroyed their idols...\\
+		\textit{Ilu asah beloheihem...}\\
+		\texthebrew{אִלּוּ עָשָׂה בֵּאלֹהֵיהֶם...}\\}
+		\vspace*{2ex}
+		\raggedleft{...and had not smitten their first-born...\\
+		\textit{...v'lo harag et b'choreihem...}
+		\texthebrew{...וְלֹא הָרַג אֶת בְּכוֹרֵיהֶם...}\\}	
+		\vspace*{2ex}
+		\centering{...it would have been enough!\\
+		\textit{...Dayeinu!}\\
+		\texthebrew{...דַּיֵּנוּ}\\}
+		\vspace*{2ex}
+		\raggedright{If He had smitten their first-born...\\
+		\textit{Ilu harag et b'choreihem...}\\
+		\texthebrew{אִלּוּ הָרַג אֶת בְּכוֹרֵיהֶם...}\\}
+		\vspace*{2ex}
+		\raggedleft{...and had not given us their wealth...\\		
+		\textit{...v'lo natan lanu et mamonam...}\\
+		\texthebrew{...וְלֹא נָתַן לָנוּ אֶת מָמוֹנָם...}\\}
+		\vspace*{2ex}		
+		\centering{...it would have been enough!\\
+		\textit{...Dayeinu!}\\
+		\texthebrew{...דַּיֵּנוּ}\\}
+		\vspace*{2ex}
+		If He had given us their wealth,
+		Ilu natan lanu et mamonam,
+		\texthebrew{אִלּוּ נָתַן לָנוּ אֶת מָמוֹנָם}
+		
+		and had not split the sea for us
+		v'lo kara lanu et hayam,
+		\texthebrew{ןלא קָרַע לָנוּ אֶת הַיָּם}
+
+		— Dayenu, it would have been enough!
+		dayeinu!
+		\texthebrew{דַּיֵּנוּ}
+		
+		If He had split the sea for us,
+		Ilu kara lanu et hayam,
+		\texthebrew{אִלּוּ קָרַע לָנוּ אֶת הַיָּם}
+		
+		and had not taken us through it on dry land
+		v'lo he'eviranu b'tocho becharavah,
+		\texthebrew{וְלֹא הֶעֱבִירָנוּ בְּתוֹכוֹ בֶּחָרָבָה}
+
+		— Dayenu, it would have been enough!		
+		dayeinu!
+		\texthebrew{דַּיֵּנוּ}
+
+		If He had taken us through the sea on dry land,		
+		Ilu he'eviranu b'tocho becharavah,
+		\texthebrew{אִלּוּ הֶעֱבִירָנוּ בְּתוֹכוֹ בֶּחָרָבָה}
+
+		and had not drowned our oppressors in it		
+		v'lo shika tzareinu b'tocho,
+		\texthebrew{וְלֹא שִׁקַע צָרֵינוּ בְּתוֹכוֹ}
+
+		— Dayenu, it would have been enough!
+		dayeinu!
+		\texthebrew{דַּיֵּנוּ}
+
+		If He had drowned our oppressors in it,
+		Ilu shika tzareinu b'tocho,
+		\texthebrew{אִלּוּ שִׁקַע צָרֵינוּ בְּתוֹכוֹ}
+
+		and had not supplied our needs in the desert for forty years
+		v'lo sipeik tzorkeinu bamidbar arba'im shana,
+		\texthebrew{וְלֹא סִפֵּק צָרַכֵּנוּ בַּמִּדְבָּר אַרְבָּעִים שָׁנָה}
+
+		— Dayenu, it would have been enough!
+		dayeinu!
+		\texthebrew{דַּיֵּנוּ}
+
+		If He had supplied our needs in the desert for forty years,
+		Ilu sipeik tzorkeinu bamidbar arba'im shana,
+		\texthebrew{אִלּוּ סִפֵּק צָרַכֵּנוּ בַּמִּדְבָּר אַרְבָּעִים שָׁנָה}
+		
+		and had not fed us the manna
+		v'lo he'echilanu et haman,
+		\texthebrew{וְלֹא הֶאֱכִילָנוּ אֶת הַמָּן}
+
+		— Dayenu, it would have been enough!
+		dayeinu!
+		\texthebrew{דַּיֵּנוּ}
+
+		If He had fed us the manna,		
+		Ilu he'echilanu et haman,
+		\texthebrew{אִלּוּ הֶאֱכִילָנוּ אֶת הַמָּן}
+		
+		and had not given us the Shabbat
+		v'lo natan lanu et hashabbat,
+		\texthebrew{וְלֹא נָתַן לָנוּ אֶת הַשַּׁבָּת}		
+		
+		— Dayenu, it would have been enough!
+		dayeinu!
+		\texthebrew{דַּיֵּנוּ}	
+		
+		If He had given us the Shabbat,
+		Ilu natan lanu et hashabbat,
+		\texthebrew{אִלּוּ נָתַן לָנוּ אֶת הַשַּׁבָּת}
+		
+		and had not brought us before Mount Sinai
+		v'lo keirvanu lifnei har sinai,
+		\texthebrew{וְלֹא קֵרְבָנוּ לִפְנֵי הַר סִינַי}
+		
+		— Dayenu, it would have been enough!
+		dayeinu!
+		\texthebrew{דַּיֵּנוּ}
+
+		If He had brought us before Mount Sinai,
+		Ilu keirvanu lifnei har sinai,
+		\texthebrew{אִלּוּ קֵרְבָנוּ לִפְנֵי הַר סִינַי}
+		
+		and had not given us the Torah
+		v'lo natan lanu et hatorah,
+		\texthebrew{וְלֹא נָתַן לָנוּ אֶת הַתּוֹרָה}
+		
+		— Dayenu, it would have been enough!
+		dayeinu!
+		\texthebrew{דַּיֵּנוּ}		
+		
+		If He had given us the Torah,
+		Ilu natan lanu et hatorah,
+		\texthebrew{אִלּוּ נָתַן לָנוּ אֶת הַתּוֹרָה}
+		
+		and had not brought us into the land of Israel
+		v'lo hichnisanu l'eretz yisra'eil,
+		\texthebrew{וְלֹא הִכְנִיסָנוּ לְאֶרֶץ יִשְׂרָאֵל}
+		
+		— Dayenu, it would have been enough!
+		dayeinu!
+		\texthebrew{דַּיֵּנוּ}
+		
+		If He had brought us into the land of Israel,
+		Ilu hichnisanu l'eretz yisra'eil,
+		\texthebrew{אִלּוּ הִכְנִיסָנוּ לְאֶרֶץ יִשְׂרָאֵל}
+
+		and not built for us the Holy Temple
+		v'lo vanah lanu et beit hamikdash,
+		\texthebrew{וְלֹא בָּנָה לָנוּ אֶת בֵּית הַמִּקְדָּשׁ}
+		
+		— Dayenu, it would have been enough!
+		dayeinu!
+		\texthebrew{דַּיֵּנוּ}
+		
+	\end{itemize}
+	Danielle and Misha Slutsky, https://www.recustom.com/clips/4063687.
+}
+\newcommand{\RabbiGamliel}
+{Rabbi Gamliel instructs us to take note of the following. Do you know what they symbolise?
+	Shank Bone : the temple sacrifice of a spotless lamb each year to commemorate the lamb whose blood was painted on the doorways of the israelites in Egypt, so that Gd would know not to slay any firstborn within that home
+	Matzah : the meal the israelites ate before they left egypt included bread made without leavening, because they were leaving too soon to wait for bread to rise.
+	Maror : the pungent flavour reminds us of the equally bitter prison of slavery the israelites endured.
+}
+\newcommand{\EveryGenerationText}{
+בכ לָּ־דוֹּ ר ודָּ ֹור חיַּבְָּּ אָּ דָּ ם לר ִ אֹות אֶּ ת־עַ צמ ֹו, כּאִ לו ּהוּא יצָּאְָּּ מִ מִ צר ָּ ְַֽיִ םְּ
+B’chol dor vador chayav adam lirot et-atzmo, k’ilu hu yatzav mimitzrayim.
+In every generation, everyone must to see themselves as though they personally left Egypt.
+}
+
+\newcommand{\KoreichText}{
+	During temple times, the lamb sacrifice would be eaten at a festive meal for Pesach. In those times the great sage Hillel made a tradition of sandwiching meat, maror and matzah together. We no longer have lamb because we no longer have the temple, but now we make a sandwich using matzah, maror, and anything else you'd like to include. Think about the significance of each part as you construct and eat them}
+	
+\newcommand{\BareichText}{
+We now say grace after the meal, thanking God for the food we’ve eaten. On
+Passover, this becomes something like an extended toast to God, culminating with
+drinking our third glass of wine for the evening:
+We praise God, Ruler of Everything, whose goodness sustains the world. You are
+the origin of love and compassion, the source of bread for all. Thanks to You, we
+need never lack for food; You provide food enough for everyone. We praise God,
+source of food for everyone.
+As it says in the Torah: When you have eaten and are satisfied, give praise to your
+God who has given you this good earth. We praise God for the earth and for its
+sustenance.
+Renew our spiritual center in our time. We praise God, who centers us.
+May the source of peace grant peace to us, to the Jewish people, and to the entire
+world. Amen.}
+
+\newcommand{\HallelTlit}{%
+	Hallelu hallelu hallelu, hallelu, halleluyah!
+	Kol ha-n’shamah t’hallel yah, hallelu halleluyah!
+}
+\newcommand{\HallelEng}{%
+	Let us give praise – Let us all praise God. Halleluyah!
+}
+\newcommand{\HallelHeb}{
+	\begin{center}
+		%\textdir TRT
+		\texthebrew{\Large הַֽלְלוּ הַֽלְלוּ הַֽלְלוּ הַֽלְלוּ הַֽלְלוּ הַ֥לְלוּ־יָ֨הּ}\\
+		\texthebrew{\LARGE  כֹּ֣ל הַ֭נְּשָׁמָה תְּהַלֵּ֥ל יָ֗הּ הַֽלְלוּ־יָֽהּ הַ֥לְלוּ־יָ֨הּ}
+	\end{center}
+	\vspace*{2ex}
+}
+
+\newcommand{\ElijahText}{\textit{Pour Elijah's cup of wine.\\
+		We go and open the door and call three times:}
+	'Eliyahu! Eliyahu! Eliyahu!' \par
+	\textit{to welcome Elijah, protector of souls and herald of the messianic age of peace, into our festival. If there is a neighbour, friend, or stranger who answers the cry, we welcome them with a blessing and a hot meal, because at the heart of the Pesach message is an awareness of our own ancestors' hardship which should spill forth in our kindness to each other and to strangers today:}}
+	
+\newcommand{\StrangersText}{
+וְגֵ֖ר לֹ֣א תִלְחָ֑ץ וְאַתֶּ֗ם יְדַעְתֶּם֙ אֶת־נֶ֣פֶשׁ הַגֵּ֔ר כִּֽי־גֵרִ֥ים הֱיִיתֶ֖ם בְּאֶ֥רֶץ מִצְרָֽיִם׃
+Exodus 23:9
+You shall not oppress a stranger, for you know the feelings of the stranger, having yourselves been strangers in the land of Egypt.}
+
+\newcommand{\EliahuHaNavi}{
+	
+	r.
+	אֵ ליִ ּה ָּ ו ּהַ נּבָּ יִ א, אֵ ליִ ּה ָּ וְּ ּהַ תִ ש ביִ אֵ ליִ ּה ָּ ו ,ּ אֵ ליִ ּה ָּ ו, ּאֵ ליִ ּה ָּ וְּ ּהַ גּלִ עָּ דִ י
+	במ ִ הֵ רָּ ה בי מ ֵָּ נוְּ יבָּ ֹוא ֵאל יֵנו ּ ע ִם
+	מָּ ש ְִּיחְַּ בןּ ְֶּּ דָּ ודִ עםְִּ מָּ ש ִ יחְַּ בןּ ְֶּּ דָּ ודְִּ
+	Eliyahu hanavi
+	Eliyahu hatishbi
+	Eliyahu, Eliyahu, Eliyahu hagiladi
+	Bimheirah b’yameinu, yavo eileinu
+	Im mashiach ben-David, Im mashiach ben-David
+	Elijah the prophet, the returning, the man of Gilad: return to us speedily,
+	in our days with the messiah, sonof David}
+
+\newcommand{\MiriamReading}{
+Miriam's cup, the water, and the contribution of women in general.}
+
+\newcommand{\ChadGayahText}{insert lyrics in multiple languages and maybe other songs}

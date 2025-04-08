@@ -1,0 +1,11 @@
+% styling commands for liturgy booklets
+\NeedsTeXFormat{LaTeX2e}[1994/06/01]
+\ProvidesPackage{styling}
+\RequirePackage{multicol}
+
+\newcommand{\red}[2][\centering]{%do the red....
+	% call with empty optional argument for justified text; or
+	%\raggedright
+	% \filbreak
+	{\noindent\textcolor{midblue}{\shape#2}#1\par\nopagebreak\medskip\nopagebreak}\nopagebreak}
+%

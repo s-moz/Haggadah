@@ -1,0 +1,107 @@
+% package to provide common typesetting for liturgy
+\NeedsTeXFormat{LaTeX2e}[1994/06/01]
+\ProvidesPackage{rubrics}
+\RequirePackage{styling}
+\RequirePackage{suffix}         %for starred commands
+\RequirePackage{ifthen}
+\RequirePackage{paracol}
+\RequirePackage{scalerel}
+\RequirePackage{verse,anyfontsize}
+\RequirePackage{stackengine}
+\RequirePackage[hidelinks, final]{hyperref}
+\RequirePackage{etoolbox}
+\RequirePackage{xcolor}
+
+% extra symbols
+\renewcommand{\r}{\textcolor{red}{\gothRbar.}}
+\renewcommand{\v}{\textcolor{red}{\gothVbar.}}
+
+% define colors
+\definecolor{midblue}{RGB}{23,85,142}
+\definecolor{darkblue}{RGB}{0,51,102}
+
+\newcommand{\reading}[2]{       %typeset anything l-r in subsubsection
+\subsubsection{#1\hfill\normalfont\emph{#2}}
+}
+
+\newcommand*{\psalmquote}[2]{    %typeset the quote before a psalm or
+                                %canticle
+%\noindent\emph{#1}\hfill\emph{#2}\par
+%\noindent\emph{#1} (#2)\par
+%\vspace{\psalmquoteskip}
+
+}
+
+\newcommand\ant[1][]{%
+  \ifstrempty{#1}{   %just ‘ant’
+    \noindent\emph{Ant. }
+  }{
+    \noindent\emph{Ant. #1:}
+    % some other thing with #1 and #2
+  }%
+}
+
+
+% rubrics
+\newcommand*{\vel}{
+  \emph{vel:}\par
+  \vspace{\baselineskip}
+}
+
+\newcommand{\red}[2][\centering]{%do the red....
+  % call with empty optional argument for justified text; or
+  %\raggedright
+  % \filbreak
+  {\noindent\textcolor{midblue}{\shape#2}#1\par\nopagebreak\medskip\nopagebreak}\nopagebreak}
+%
+\newcommand{\black}[2][0.5]{%say the black...
+  \columnratio{#1}
+  \begin{paracol}{2}
+    \setlength{\parindent}{0em}
+    \setlength{\parskip}{0.2\baselineskip}
+    #2
+  \end{paracol}
+  \medskip
+}
+%
+\newcommand{\h}[2][]{\selectlanguage{hebrew}}
+%#2\par\selectlanguage{english}\switchcolumn}
+
+\newcommand{\e}[2][]{%
+  \ifthenelse{\equal{s}{#1}}%
+  {\emph{P.}~}%
+  {}%
+  \ifthenelse{\equal{m}{#1}}%
+  {\emph{S.}~}%
+  {}%
+  #2\par\switchcolumn*}
+\renewcommand{\S}{\emph{S.}~}
+\newcommand{\M}{\emph{M.}~}
+\newcommand{\amen}{\l{Amen.}\e{Amen.}}
+
+}
+
+% TODO is this still used in anything?
+
+% modified from https://tex.stackexchange.com/questions/163334/using-lettrine-or-equivalent-inside-verse-environment
+
+\def\startverse#1\\#2\\{%
+  \begin{minipage}{4in}%
+    \firstline#1\relax%
+    \def\verselineB{#2}%
+    \if Q\versalletter\def\descstrut{\strut}\else\def\descstrut{}\fi%
+    \def\Versal{\textcolor{red}{%
+        \scalerel*{$\fontsize{28}{30}\selectfont\versalletter$}%
+        {\def\stacktype{L}\stackon{T\descstrut}{T}}}}%
+    \setbox0=\hbox{\Versal\,}%
+    \def\leftoffset{-.5\wd0}%
+    \hspace*{\wd0}\hspace{\leftoffset}%
+    \verselineA\\%
+    \hspace*{\wd0}\hspace{\leftoffset}%
+    \llap{\smash{\box0}}%
+    \hspace{0.5em}\verselineB\strut%
+  \end{minipage}\\%
+}
+
+
+\def\firstline#1#2 #3\relax{\def\versalletter{#1}\def\verselineA{\textsc{#2} #3}}

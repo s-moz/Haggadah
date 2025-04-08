@@ -1,0 +1,146 @@
+\NeedsTeXFormat{LaTeX2e}[1994/06/01]
+\ProvidesPackage{titlepage}
+\RequirePackage{xcolor}
+
+% titlepage
+\newlength{\TPpreseriesskip}      %skip before series heading
+\setlength{\TPpreseriesskip}{4\baselineskip}
+\newlength{\TPpretitleskip}      %skip before title
+\setlength{\TPpretitleskip}{9\baselineskip}
+\newlength{\TPpresubtitleskip}      %skip before subtitle
+\setlength{\TPpresubtitleskip}{1.5\baselineskip}
+\definecolor{midblue}{RGB}{23,85,142}
+\definecolor{darkblue}{RGB}{0,51,102}
+
+\newcommand{\titlePage}[4]{
+  % typeset the title page for liturgy booklets
+  % First argument is title, second subtitle, third series heading, fourth image file
+  \thispagestyle{empty}
+  \frontmatter
+  {  ~\vspace{\TPpreseriesskip}
+
+    {\noindent\huge #1}\centering
+
+    \vspace{\TPpretitleskip}
+
+    {\noindent\HUGE #2}\centering
+
+    \vspace{\TPpresubtitleskip}
+
+    {\noindent\LARGE #3}\centering
+
+    \vfill
+
+    \noindent\includegraphics[width=0.4\linewidth]{#4}\centering
+
+
+    \cleardoublepage
+    \pagenumbering{arabic}
+
+  }}
+
+\newcommand{\ContentsTabular}{	
+	\begin{center}
+		\color{midblue}
+		\begin{tabular}{p{0.2\textwidth}p{0.2\textwidth}p{0.6\textwidth}}
+			1.\makecell{Hebrew\\Neirot} & czech & Candle-lighting \\ 	
+			2.\makecell{Hebrew\\Kaddeish} & czech & Kiddush cup 1 \\
+			3.\makecell{Hebrew\\Urchatz} & czech & Handwashing (no blessing) \\
+			4.\makecell{Hebrew\\Karpas} & czech & Green herbs (dip parsley in saltwater) \\
+			5.\makecell{Hebrew\\Yachatz Lachma} & czech & Breaking the Bread of Affliction\\
+			6.\makecell{Hebrew\\Maggid} & czech & beginning/intro and invitation to the seder\\	
+			7.\makecell{Hebrew\\Arba’ah} & czech & 4 questions/4 children\\
+			8.\makecell{Hebrew\\Haggadah} & czech & Story, 10 plagues, cup 2, dayyeinu, r.gamliel’s 3 things\\
+			9. \makecell{Hebrew\\Rachtzah} & czech & handwashing (blessed) \\
+			10. \makecell{Hebrew\\Pesach} & czech & Passover Sacrifice? \\			
+			11.\makecell{Hebrew\\Matzah} & czech & bread blessing and eat \\
+			12.\makecell{Hebrew\\Maror} & czech & horseradish/Bitter herbs \\
+			13.\makecell{Hebrew\\Koreich} & czech & Hillel Sandwich \\
+			14.\makecell{Hebrew\\Shulchan Oreich} & czech & Meal \\
+			15.\makecell{Hebrew\\Tzafun} & czech & Afikomen hunt \\
+			16.\makecell{Hebrew\\Bareich} & czech & Grace after meals \\
+			17.\makecell{Hebrew\\Hallel} & czech & Praise, door for elijah, cup of elijah and miriam’s cup \\
+			18.\makecell{Hebrew\\Nirtzah} & czech & Conclusion (next year in jerusalem)\\
+		\end{tabular}
+\end{center}}
+
+\newcommand{\ContentsColumnar}{
+	\begin{enumerate}	
+		\columnratio{0.3,0.3,0.3}
+		\begin{paracol}{3}	
+			\color{midblue}
+			\item Hebrew		
+			\\Neirot 
+			\switchcolumn{czech}\\
+			\switchcolumn{Candle-lighting}\\
+			\switchcolumn\item Hebrew
+			\\Kaddeish 
+			\switchcolumn{czech}\\
+			\switchcolumn{Kiddush cup 1}\\
+			\switchcolumn\item Hebrew		
+			\\Urchatz 
+			\switchcolumn{czech}\\
+			\switchcolumn{Handwashing (no blessing)}\\
+			\switchcolumn\item Hebrew		
+			\\Karpas 
+			\switchcolumn{czech}\\
+			\switchcolumn{Green herbs (dip parsley in saltwater)}\\
+			\switchcolumn\item Hebrew		
+			\\Yachatz/Lachma 
+			\switchcolumn{czech}\\
+			\switchcolumn{Breaking the Bread of Affliction}\\
+			\switchcolumn\item Hebrew		
+			\\Maggid
+			\switchcolumn{czech}\\
+			\switchcolumn{beginning/intro and invitation to the seder}\\	
+			\switchcolumn\item Hebrew		
+			\\Arba’ah
+			\switchcolumn{czech}\\
+			\switchcolumn{4 questions/4 children}
+			\switchcolumn\item Hebrew		
+			\\Haggadah
+			\switchcolumn{czech}\\
+			\switchcolumn{Story, 10 plagues, cup 2, dayyeinu, r.gamliel’s 3 things}
+			\switchcolumn\item Hebrew		
+			\\Rachtzah
+			\switchcolumn{czech}\\
+			\switchcolumn{handwashing (blessed)}\\
+			\switchcolumn\item Hebrew		
+			\\Pesach
+			\switchcolumn{czech}\\
+			\switchcolumn{Passover Sacrifice?}\\			
+			\switchcolumn\item Hebrew		
+			\\Matzah
+			\switchcolumn{czech}\\
+			\switchcolumn{bread blessing and eat}\\
+			\switchcolumn\item Hebrew		
+			\\Maror
+			\switchcolumn{czech}\\
+			\switchcolumn{horseradish/Bitter herbs}\\
+			\switchcolumn\item Hebrew		
+			\\Koreich
+			\switchcolumn{czech}\\
+			\switchcolumn{Hillel Sandwich}\\
+			\switchcolumn\item Hebrew		
+			\\Shulchan Oreich
+			\switchcolumn{czech}\\
+			\switchcolumn{~time to read the whole shulchan aruch~ Meal}
+			\switchcolumn\item Hebrew		
+			\\Tzafun
+			\switchcolumn{czech}\\
+			\switchcolumn{Afikomen hunt}\\
+			\switchcolumn\item Hebrew		
+			\\Bareich
+			\switchcolumn{czech}\\
+			\switchcolumn{Grace after meals}\\
+			\switchcolumn\item Hebrew		
+			\\Hallel
+			\switchcolumn{czech}\\
+			\switchcolumn{Praise, door for elijah, cup of elijah and miriam’s cup}
+			\switchcolumn \item Hebrew		
+			\\Nirtzah
+			\switchcolumn{czech}\\
+			\switchcolumn{Conclusion (next year in jerusalem)}\\
+			\colseprulecolor{white}
+		\end{paracol}
+\end{enumerate}}

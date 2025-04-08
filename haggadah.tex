@@ -1,0 +1,215 @@
+\documentclass[a5paper,10pt]{memoir}
+% Force use LuaLaTeX
+%!TEX TS-program = lualatex 
+%!TEX encoding = UTF-8 Unicode
+
+% Packages
+\usepackage[nobottomtitles]{titlesec}
+\usepackage{microtype}
+\usepackage[yyyymmdd,hhmmss]{datetime}
+\usepackage{graphicx}
+\usepackage{multicol}
+\usepackage{makecell}
+\usepackage{paracol}
+\usepackage{polyglossia}
+%\setdefaultlanguage{english}
+%\setotherlanguage{hebrew}
+%\newfontfamily{\hebrewfont}[Script=Hebrew]{New Peninim MT}
+%\newfontfamily{\hebrewfont}{Ezra SIL SR Regular}
+%
+\setmainlanguage{english} % Keep English as the main language
+\setotherlanguage{hebrew}
+
+\newfontfamily\hebrewfont[Script=Hebrew]{New Peninim MT} % Set Hebrew font
+
+
+% local
+%\input{rubrics.sty}
+\input{styling.sty}
+\input{titlepage.sty}
+\input{couching}
+\input{blessings}
+\input{readings}
+
+% Config
+\copypagestyle{versionplain}{plain}
+\newcommand{\version}{\tiny Release: v1.0.0 (template v2.3.0)}
+\makeevenfoot{versionplain}{\thepage}{}{\version}
+\makeoddfoot{versionplain}{\version}{}{\thepage}
+\pagestyle{versionplain}
+\thispagestyle{empty}
+% =========
+% per-document styling: we don't set this in `styling.sty' as we might want
+% different layouts.
+% =========
+% layout
+\setulmarginsandblock{0.5in}{0.7in}{*}
+\setlrmarginsandblock{0.5in}{0.5in}{*}
+\checkandfixthelayout
+% headers
+\setsecnumdepth{chapter}
+\setsecheadstyle{\Large\scshape\raggedright\centering}
+\setsubsubsecheadstyle{\color{darkblue}\large\scshape\raggedright\centering}
+\setparaheadstyle{\color{red}\large\raggedright\centering}
+\setafterparaskip{1.5ex plus .2ex}
+\setlength{\parskip}{\medskipamount}
+\setlength{\parindent}{0em}
+\midsloppy
+
+% define colors
+\usepackage{xcolor}
+\definecolor{sectioncolour}{RGB}{23,85,142}
+\definecolor{chaptercolour}{RGB}{0,51,102}
+\definecolor{subsectioncolour}{RGB}{23,85,142}
+
+\setsecheadstyle{\Large\bfseries\color{sectioncolour}}% Set \section style
+\setsubsecheadstyle{\large\bfseries\color{subsectioncolour}}% Set \subsection style
+%\renewcommand{\chapnamefont}{\normalfont\large\scshape\raggedleft\color{chaptercolour}}
+%\renewcommand{\chapnumfont}{\Huge\bfseries\color{chaptercolour}}
+%\renewcommand{\chaptitlefont}{\normalfont\Huge\bfseries\sffamily\raggedleft\color{chaptercolour}}
+	
+%\newcommand{\red}[2][\centering]{%do the red....
+	% call with empty optional argument for justified text; or
+	%\raggedright
+	% \filbreak
+	%{\noindent\textcolor{midblue}{\shape#2}#1\par\nopagebreak\medskip\nopagebreak}\nopagebreak}
+
+\begin{document}
+Blurb
+\onecolumn
+
+\includegraphics[width=\textwidth]{smallstarscover.png}
+
+\vspace*{-100ex}  % Tune this to the image height.
+\begin{center}
+	\noindent \HUGE \color{cyan} Haggadah\centering
+	\vfill
+	\end{center}
+\vspace*{80ex}  % The spacing above but without the minus.
+
+\section{Introduction}
+{Why do we do the seder?}\\
+\begin{center}
+	\includegraphics[width=50mm]{Sederplate}
+	\end{center}
+\onecolumn
+\section{Contents}
+\ContentsTabular
+\section{Contents}{%
+	\ContentsColumnar
+	\noindent
+{\color{cyan} \rule{\linewidth}{0.5mm}}
+}
+\onecolumn
+%
+\section{Neirot : Candle-lighting}
+
+\Neirot
+\vspace*{2ex}
+\Shehechyanu
+%preload the image of the first cup
+\hfill\includegraphics[width=10mm]{cup}
+\vspace*{-15ex}  % Tune this to the image height.
+		
+\section{Kaddeish : Cup of Sanctification}
+\columnratio{0.9}
+\begin{paracol}{2}
+	\red[]{We pour our first of four cups of grape juice or wine, which symbolise the continuity of G-d's promises to His people. This first cup reminds us that G-d 'Will Bring us Out' of difficult times:} 
+		\colseprulecolor{white}
+\end{paracol}
+\Kaddeish
+\red[]{We celebrate our chance to experience this festival by saying the Shehechyanu:}
+\Shehechyanu
+\textit{Now we drink!}
+
+\section{Urchatz : Handwashing}
+\textit{We wash our hands without a blessing}
+% 
+\\
+\vspace*{8ex}
+%preload the image of the first cup
+\hfill\includegraphics[width=10mm]{Karpas}
+\vspace*{-20ex}  % Tune this to the image height.
+\section{Karpas : Green Spring Herbs}
+ \Karpas
+
+\section{Yachatz}
+\Yachatz
+
+\section{Arba'ah : The Four}
+\MaNishtana
+\FourChildrenText
+%
+\section{Maggid : The Story}
+\Maggid
+%\Dayyeinu
+
+\section{Rachtzah : Handwashing (Blessed)}
+\Handwashing
+
+\section{Pesach}
+\red[]{Passover Sacrifice? the lamb bone which isn't a lamb bone}
+
+\section{Matzah : Unleavened Bread}
+\HaMotzi
+\Matzah
+
+\section{Maror : Bitter Herbs}
+\red[]{horseradish}
+\Maror
+
+\section{Koreich : Hillel Sandwich}
+\Koreich
+
+\section{Shulchan Oreich : The Set Table}
+\red[]{~time to read the whole shulchan aruch~ \par Let's Eat!}
+
+\section{Tzafun : Afikomen!}
+\red[]{The oldest participant must now embark upon the {\LARGE Afikomen hunt}}
+\\
+\textit{music should be played here}
+
+\section{Bareich : Grace after the meal}
+\textit{Fill your third glass}
+\BareichText
+\Kaddeish
+
+\section{Hallel : Praise}
+Psalms, door for Elijah, cup of Elijah and Miriam’s cup
+
+\Hallel
+\Elijah
+\Miriam
+% 
+
+\section{Nirtzah : Conclusion}
+\red[]{Conclusion (next year in Jerusalem)}
+\Nirtzah
+% 
+Thank you for sharing in this Festival with me.\\
+\textit{music, dancing, and games may follow}
+\begin{center}
+	{end}
+\end{center}
+
+\ChadGayahText
+
+\vfill
+%
+Typeset by Sarah Morris in ten-point Palatino.  Translations from the
+MyJewishLearning.com SOURCES, and my own.
+
+% 
+The latest version of this booklet can be found at
+\url{ https://github.com/ }. Comments?
+Suggestion? Found a mistake? Open an issue in the repository.
+% 
+
+{\centering\footnotesize\texttt{Compositum \today\ hora \currenttime}\par}
+
+\end{document}
+
+%%% Local Variables:
+%%% mode: latex
+%%% TeX-engine: luatex
+%%% End:

@@ -1,0 +1,134 @@
+% This file defines the blessings to be inserted into haggadah.tex  In this way
+% multiple formats can be typeset very quickly.  haggadah.tex should not normally
+% need changing.  Note that this is not the most readable way to insert text
+% into a LaTeX document, but it is the most powerful: the macros defined here
+% are directly excecuted when building the document.
+
+%!TEX TS-program = lualatex 
+%!TEX encoding = UTF-8 Unicode
+%\usepackage{fontspec}
+%\usepackage{polyglossia}
+%\setdefaultlanguage{english}
+%\setotherlanguages{czech, hebrew}
+%thia line is a bug \renewfontfamily{\hebrewfont}{Ezra SIL SR Regular}
+% 
+
+\newcommand{\CandlesBlessingHeb}{
+	\begin{center}
+			%\textdir TRT
+			\texthebrew{\Large בָּרוּךְ אַתָּה אֲ-דֹנָי אֱ-לֹהֵינוּ מֶלֶךְ הָעוֹלָם, אֲשֶׁר קִדְּשָׁנוּ בְּמִצְוֹתָיו	}\\\texthebrew{\LARGE וְצִוָּנוּ לְהַדְלִיק נֵר שֶׁל יוֹם טוֹב}
+	\end{center}
+\vspace*{2ex}
+}
+\newcommand{\CandlesBlessingTlit}{%
+	Baruch atah Adonai eloheinu melech ha-olam asher kidd’shanu
+	b’mitzvotav v’tzivvanu l’hadlik ner shel (shabbat v’shel) yom tov.}
+	
+\newcommand{\CandlesBlessingEng}
+	{ May you be blessed, Lord our G-d, ruler of the universe, who sanctifies us via his commandments and who commands us to light the lights of Shabbat and festivals.}
+
+\newcommand{\WineBlessingHeb}{
+	\begin{center}
+	%\textdir TRT
+	\texthebrew{\Large בָּרוּךְ אַתָּה אֲ-דֹנָי אֱ-לֹהֵינוּ מֶלֶךְ הָעוֹלָם}\\
+	\texthebrew{\LARGE בּוֹרֵא פְּרִי הַגָּפֶן}
+	\end{center}
+	\vspace*{2ex}
+	}
+	
+\newcommand{\WineBlessingTlit}{%
+		Baruch atah Adonai eloheinu melech ha-olam borei p’ri ha-gafen.}
+		
+\newcommand{\WineBlessingEng}
+		{We thank You Lord our God, ruler of the universe, for making the fruit of the vine.}
+
+\newcommand{\ShehechyanuBlessingHeb}{	
+	\begin{center}
+		%\textdir TRT
+		\texthebrew{\Large בָּרוּךְ אַתָּה אֲ-דֹנָי אֱ-לֹהֵינוּ מֶלֶךְ הָעוֹלָם}\\
+		\texthebrew{\LARGE שֶׁהֶחֱיָנוּ וְקִיְּמָנוּ וְהִגִּיעָנוּ לִזְמַן הַזֶּה}
+	\end{center}
+	\vspace*{2ex}
+	}
+\newcommand{\ShehechyanuBlessingEng}{%
+	We praise You, Eternal God, Ruler of the universe, for keeping us alive,
+	sustaining us, and enabling us to reach this season.
+}
+%
+\newcommand{\ShehechyanuBlessingTlit}{%
+	Baruch atah Adonai eloheinu melech ha-olam Shehechyanu V'kiymanu v'higiyanu lazman ha-zeh.
+}
+% 
+\newcommand{\KarpasBlessingHeb}{	
+	\begin{center}
+		%\textdir TRT
+		\texthebrew{\Large בָּרוּךְ אַתָּה אֲ-דֹנָי אֱ-לֹהֵינוּ מֶלֶךְ הָעוֹלָם}\\
+		\texthebrew{\LARGE בּוֹרֵא פְּרִי הָאֲדָמָה}
+	\end{center}
+	\vspace*{2ex}
+}
+\newcommand{\KarpasBlessingTlit}{%
+	Baruch atah Adonai eloheinu melech ha-olam borei p’ri ha-adamah.
+}
+
+\newcommand{\KarpasBlessingEng}{%
+	We thank You God, for making food grow from the ground.
+}
+% 
+
+\newcommand{\NetilatYadayim}{
+	\begin{center}
+		%\textdir TRT
+		\texthebrew{\Large בָּרוּךְ אַתָּה אֲ-דֹנָי אֱ-לֹהֵינוּ מֶלֶךְ הָעוֹלָםאֲ שֶּ ר קִ ד ש ָּ נוְּ ּבמִ צֹו תָּ יו,}\\
+		\texthebrew{\LARGE  וְצִוָּנוּ עַל נְטִילַת יָדַיִם}
+	\end{center}
+	\vspace*{2ex}ְָּּ 
+	Baruch Atah Adonai, Eloheinu Melech ha-olam, asher kid’shanu b’mitzvotav
+	v’tzivanu al n’tilat yadayim.}
+%	
+\newcommand{\HaMotziBlessingHeb}{	
+	\begin{center}
+		%\textdir TRT
+		\texthebrew{\Large בָּרוּךְ אַתָּה אֲ-דֹנָי אֱ-לֹהֵינוּ מֶלֶךְ הָעוֹלָם}\\
+		\texthebrew{\LARGE הַמּוֹצִיא לֶחֶם מִן הָאָרֶץ}
+	\end{center}
+	\vspace*{2ex}
+}
+\newcommand{\HaMotziBlessingTlit}{%
+	Baruch ata Adonai Eloheinu melech ha’olam hamotzi lechem min ha’aretz.}
+%
+\newcommand{\HaMotziBlessingEng}{%
+	Blessed are you, Lord our God, ruler of the universe who brings forth bread from the earth.}
+%
+
+
+	
+\newcommand{\MatzahBlessingHeb}{
+	\begin{center}
+	\texthebrew{\Large בָּרוּךְ אַתָּה אֲ-דֹנָי אֱ-לֹהֵינוּ מֶלֶךְ הָעוֹלָםאֲ שֶּ ר קִ ד ש ָּ נוְּ ּבמִ צֹו תָּ יו,}\\
+	\texthebrew{\LARGE וְצִוָּנוּ עַל אֲכִילַת מַצָּה}
+	\end{center}}
+\newcommand{\MatzahBlessingTlit}{%
+	Baruch Atah Adonai, Eloheinu Melech ha-olam, asher kid’shanu b’mitzvotav
+	v’tzivanu al achilat matzah.}
+\newcommand{\MatzahBlessingEng}{%
+	We praise God, Ruler of Everything, who made us holy through obligations, commanding us to eat matzah.}
+%
+\newcommand{\MarorBlessingHeb}{
+	\begin{center}
+			\texthebrew{\Large בָּרוּךְ אַתָּה אֲ-דֹנָי אֱ-לֹהֵינוּ מֶלֶךְ הָעוֹלָםאֲ שֶּ ר קִ ד ש ָּ נוְּ ּבמִ צֹו תָּ יו,}\\
+			\texthebrew{\LARGE  צ וִ ּנ ָּוְּ ּע ַל אֲ כיִ לתְַּ מרֹורְּ}
+	\end{center}}
+\newcommand{\MarorBlessingTlit}{%
+	Baruch Atah Adonai, Eloheinu Melech ha-olam, asher kid’shanu b’mitzvotav
+v’tzivanu al achilat maror.}
+\newcommand{\MarorBlessingEng}{%
+	We praise God, Ruler of Everything, who made us holy through obligations, commanding us to eat bitter herbs.}
+
+\newcommand{\MiriamBlessing}{
+include a blessing here for water and also for women}
+\newcommand{\NirtzahBlessing}{%
+	לשָּ נהְָּּ הַ באָּ ּה ביִ רושָּ לי ָּ ִםְּ
+	L’shana haba-ah biy’rushalayim NEXT
+	YEAR IN JERUSALEM!}
+

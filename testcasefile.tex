@@ -1,0 +1,128 @@
+\documentclass[a5paper,10pt]{memoir}
+
+%!TEX TS-program = lualatex 
+%!TEX encoding = UTF-8 Unicode
+\usepackage{fontspec}
+\usepackage{polyglossia}
+\usepackage{multicol}
+\usepackage{graphicx}
+\RequirePackage{suffix}         %for starred commands
+\RequirePackage{ifthen}
+\RequirePackage{paracol}
+\RequirePackage{scalerel}
+\RequirePackage{verse,anyfontsize}
+\RequirePackage{stackengine}
+\RequirePackage[hidelinks, final]{hyperref}
+\RequirePackage{etoolbox}
+\RequirePackage{xcolor}
+
+% define colors
+\definecolor{midblue}{RGB}{23,85,142}
+\definecolor{darkblue}{RGB}{0,51,102}
+
+\setmainlanguage{english} % Keep English as the main language
+\setotherlanguage{hebrew}
+
+\newfontfamily\hebrewfont[Script=Hebrew]{New Peninim MT} % Set Hebrew font
+
+%uncomment one line at a time from here
+% Packages
+\usepackage[nobottomtitles]{titlesec}
+\usepackage{microtype}
+\usepackage[yyyymmdd,hhmmss]{datetime}
+\usepackage{graphics}
+\usepackage{multicol}
+\usepackage{makecell}
+\usepackage{paracol}
+%\usepackage{polyglossia}
+%\setdefaultlanguage{english}
+%\setotherlanguage{hebrew}
+%\newfontfamily{\hebrewfont}{New Peninim MT}
+%\newfontfamily{\hebrewfont}{Ezra SIL SR Regular}
+%
+
+% local
+%\input{rubrics.sty}
+\input{styling.sty}
+\input{titlepage.sty}
+\input{couching}
+\input{blessings}
+\input{readings}
+
+% Config
+\copypagestyle{versionplain}{plain}
+\newcommand{\version}{\tiny Release: v1.0.0 (template v2.3.0)}
+\makeevenfoot{versionplain}{\thepage}{}{\version}
+\makeoddfoot{versionplain}{\version}{}{\thepage}
+\pagestyle{versionplain}
+\thispagestyle{empty}
+% =========
+% per-document styling: we don't set this in `styling.sty' as we might want
+% different layouts.
+% =========
+% layout
+\setulmarginsandblock{0.5in}{0.7in}{*}
+\setlrmarginsandblock{0.5in}{0.5in}{*}
+\checkandfixthelayout
+% headers
+\setsecnumdepth{chapter}
+\setsecheadstyle{\Large\scshape\raggedright\centering}
+\setsubsubsecheadstyle{\color{darkblue}\large\scshape\raggedright\centering}
+\setparaheadstyle{\color{red}\large\raggedright\centering}
+\setafterparaskip{1.5ex plus .2ex}
+\setlength{\parskip}{\medskipamount}
+\setlength{\parindent}{0em}
+\midsloppy
+
+% define colors
+\usepackage{xcolor}
+\definecolor{sectioncolour}{RGB}{23,85,142}
+\definecolor{chaptercolour}{RGB}{0,51,102}
+\definecolor{subsectioncolour}{RGB}{23,85,142}
+
+\setsecheadstyle{\Large\bfseries\color{sectioncolour}}% Set \section style
+\setsubsecheadstyle{\large\bfseries\color{subsectioncolour}}% Set \subsection style
+\renewcommand{\chapnamefont}{\normalfont\large\scshape\raggedleft\color{chaptercolour}}
+\renewcommand{\chapnumfont}{\Huge\bfseries\color{chaptercolour}}
+\renewcommand{\chaptitlefont}{\normalfont\Huge\bfseries\sffamily\raggedleft\color{chaptercolour}}
+
+
+
+
+
+\begin{document}
+
+%
+%\newcommand{\CandlesBlessingHeb}{
+%	\begin{center}
+%		%\textdir TRT
+%		\texthebrew{\Large בָּרוּךְ אַתָּה אֲ-דֹנָי אֱ-לֹהֵינוּ מֶלֶךְ הָעוֹלָם, אֲשֶׁר קִדְּשָׁנוּ בְּמִצְוֹתָיו	}\\\texthebrew{\LARGE וְצִוָּנוּ לְהַדְלִיק נֵר שֶׁל יוֹם טוֹב}
+%	\end{center}
+%	\vspace*{2ex}
+%}
+
+%\newcommand{\CandlesBlessingTlit}{%
+%	Baruch atah Adonai eloheinu melech ha-olam asher kidd’shanu
+%	b’mitzvotav v’tzivvanu l’hadlik ner shel (shabbat v’shel) yom tov.}
+
+%\newcommand{\CandlesBlessingEng}{%
+%May you be blessed, Lord our G-d, ruler of the universe, who sanctifies us via his commandments and who commands us to light the lights of Shabbat and festivals.}
+
+%\newcommand{\Neirot}{
+%	{%\centering
+%		\noindent\color{midblue}We \\
+%		normally begin after Havdalah by lighting the festival candles, but today we will come back to this once the sun has set fully, so we can sleep on time.}
+	%
+%	\CandlesBlessingHeb 
+%	\begin{multicols}{2}
+%		\CandlesBlessingTlit
+		
+%		\columnbreak 
+%		\CandlesBlessingEng
+%	\end{multicols}
+%}
+
+\Neirot
+
+
+\end{document}
