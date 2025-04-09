@@ -13,7 +13,10 @@
 %\newfontfamily{\hebrewfont}{New Peninim MT}
 % 
 \usepackage{enumerate}
-
+\usepackage{xcolor}
+% define colors
+\definecolor{midblue}{RGB}{23,85,142}
+\definecolor{darkblue}{RGB}{0,51,102}
 
 \newcommand{\HaLachmaTlit}{%
 	Ha lachma anya di achalu
@@ -30,55 +33,46 @@
 %
 \newcommand{\MaNishtanaHeb}{%
 	Mah nishtanah ha-lailah ha-zeh mi-kol ha-leilot!
-	\begin{enumerate}
-		\item \largehebrew{שֶׁבְּכָל הַלֵּילוֹת אָנוּ אוֹכְלִין חָמֵץ וּמַצָּה, הַלַּיְלָה הַזֶּה – כֻּלּוֹ מַצָּה?}
-		\item \largehebrew{שֶׁבְּכָל הַלֵּילוֹת אָנוּ אוֹכְלִין שְׁאָר יְרָקוֹת – הַלַּיְלָה הַזֶּה (כֻּלּוֹ) מָרוֹר?}
-		\item \largehebrew{שֶׁבְּכָל הַלֵּילוֹת אֵין אָנוּ מַטְבִּילִין אֲפִילוּ פַּעַם אֶחָת – הַלַּיְלָה הַזֶּה שְׁתֵּי פְעָמִים?}
-		\item \largehebrew{שֶׁבְּכָל הַלֵּילוֹת אָנוּ אוֹכְלִין בֵּין יוֹשְׁבִין וּבֵין מְסֻבִּין – הַלַּיְלָה הַזֶּה כֻּלָּנוּ מְסֻבִּין?}
-	\end{enumerate}
-}
-
+\newcommand{\MaNishtanaHebi}{\largehebrew{שֶׁבְּכָל הַלֵּילוֹת אָנוּ אוֹכְלִין חָמֵץ וּמַצָּה, הַלַּיְלָה הַזֶּה – כֻּלּוֹ מַצָּה?}}
+\newcommand{\MaNishtanaHebii}{\largehebrew{שֶׁבְּכָל הַלֵּילוֹת אָנוּ אוֹכְלִין שְׁאָר יְרָקוֹת – הַלַּיְלָה הַזֶּה (כֻּלּוֹ) מָרוֹר?}}
+\newcommand{\MaNishtanaHebiii}{\largehebrew{שֶׁבְּכָל הַלֵּילוֹת אֵין אָנוּ מַטְבִּילִין אֲפִילוּ פַּעַם אֶחָת – הַלַּיְלָה הַזֶּה שְׁתֵּי פְעָמִים?}}
+\newcommand{\MaNishtanaHebiv}{\largehebrew{שֶׁבְּכָל הַלֵּילוֹת אָנוּ אוֹכְלִין בֵּין יוֹשְׁבִין וּבֵין מְסֻבִּין – הַלַּיְלָה הַזֶּה כֻּלָּנוּ מְסֻבִּין?}}
+%
 \newcommand{\MaNishtanaTlit}{%
 	Mah nishtanah ha-lailah ha-zeh mi-kol ha-leilot!
-	\begin{enumerate}
-		\item She-b’chol ha-leilot anu ochlin chameitz u-matzah, ha-lailah ha-zeh kulo matzah?
-		\item She-b’chol ha-leilot anu ochlin sh’ar y’rakot, ha-lailah ha-zeh maror?
-		\item She-b’chol ha-leilot ein anu matbilin afilu pa’am achat, ha-lailah ha-zeh sh’teif’amim?
-		\item She-b’chol ha-leilot anu ochlin bein yoshvin u-vein m’subin, ha-lailah ha-zeh kullanu m’subin?
-		\end{enumerate}
-}
+\newcommand{\MaNishtanaTliti}{She-b’chol ha-leilot anu ochlin chameitz u-matzah, ha-lailah ha-zeh kulo matzah?}
+\newcommand{\MaNishtanaTlitii}{She-b’chol ha-leilot anu ochlin sh’ar y’rakot, ha-lailah ha-zeh maror?}
+\newcommand{\MaNishtanaTlitiii}{She-b’chol ha-leilot ein anu matbilin afilu pa’am achat, ha-lailah ha-zeh sh’teif’amim?}
+\newcommand{\MaNishtanaTlitiv}{She-b’chol ha-leilot anu ochlin bein yoshvin u-vein m’subin, ha-lailah ha-zeh kullanu m’subin?}
+%
 \newcommand{\MaNishtanaEng}{%
-	How different this night is from all other nights!
-	\begin{enumerate}
-		\item On all other nights we eat either leavened or unleavened bread…why only unleavened bread tonight?
-		\item On all other nights we eat different types of herbs and vegetables…why bitter herbs tonight?
-		\item On all other nights we do not even dip once…why do we dip twice tonight?
-		\item On all other nights we eat either sitting or leaning…why do we all lean tonight?
-		\end{enumerate}
-}
+	How different this night is from all other nights!}
+\newcommand{\MaNishtanaEngi}{On all other nights we eat either leavened or unleavened bread…why only unleavened bread tonight?}
+\newcommand{\MaNishtanaEngii}{On all other nights we eat different types of herbs and vegetables…why bitter herbs tonight?}
+\newcommand{\MaNishtanaEngiii}{On all other nights we do not even dip once…why do we dip twice tonight?}
+\newcommand{\MaNishtanaEngiv}{On all other nights we eat either sitting or leaning…why do we all lean tonight?}
+%
 \newcommand{\MaNishtanaCz}{%
-	Co odlišuje tuto noc ode všech ostatních nocí?
-	\begin{enumerate}
-		\item  proč každé jiné noci jíme jak kvašený, tak nekvašený chléb, a tuto noc jenom nekvašený?
-		\item Proč každé jiné noci jíme všechnu zeleninu, ale dnešní noci pouze hořkou?
-		\item Proč každé jiné noci ani jednou nenamáčíme do slané vody, a této noci dvakrát?
-		\item Proč každé jiné noci jíme vsedě ale teto noci jíme vleže?
-	\end{enumerate}
-}
+	Co odlišuje tuto noc ode všech ostatních nocí?}
+\newcommand{\MaNishtanaCzi}{Proč každé jiné noci jíme jak kvašený, tak nekvašený chléb, a tuto noc jenom nekvašený?}
+\newcommand{\MaNishtanaCzii}{Proč každé jiné noci jíme všechnu zeleninu, ale dnešní noci pouze hořkou?}
+\newcommand{\MaNishtanaCziii}{Proč každé jiné noci ani jednou nenamáčíme do slané vody, a této noci dvakrát?}
+\newcommand{\MaNishtanaCziv}{Proč každé jiné noci jíme vsedě ale teto noci jíme vleže?}
+%
 \newcommand{\MaNishtanaAnswerCz}{A byli jsme  Egyptě faraonovými otroky, ale Hospodin, náš Bůh, nás odtamtud vyvedl pevnou rukou a vztaženou paží, velkou hrůzou, znameními a zázraky. A kdyby Svatý, buď požehnán, nevyvedl naše předky z Egypta, byli bychom dodnes my a naše děti a děti našich dětí faraonem zotročeni v Egyptě.}
 \newcommand{\MaNishtanaAnswerEng}{We do these things to remember that we were slaves in Egypt, but the Lord our G-d brought us out from that place with a strong hand and an outstretched arm, with great terrors, signs and wonders. And if the Holy One, blessed be He, had not brought our ancestors out of Egypt, we and our children and our children's children would still be enslaved in Egypt by Pharoah.}
 
 \newcommand{\FourChildrenText}{
 	The Talmud describes four types of children at the Pesach table, and how to respond to them
-	\begin{enumerate}
+		\begin{enumerate}
 		\item \raggedright{The wise child, who asks: What are the testimonies and laws which God commanded you?} \\
-		\raggedleft{and should be taught the rules of the holiday.}
+		\raggedleft{\textit{\textcolor{darkblue}{...and should be taught the rules of the holiday.}}}
 		\item \raggedright{The wicked child, who removes himself from the question and asks: What does this service mean to you individually?} \\
-		\raggedleft{and should be taught about community and put in his place}
-		\item The simple child who asks, What is this about? \\
-		\raggedleft{and should be told of G-d's mighty deliverence plainly}
-		\item The child who doesn’t know how to ask a question\\
-		\raggedleft{who should be aided and told the story}
+		\raggedleft\textit{\textcolor{darkblue}{ ...and should be taught about community and put in his place}}
+		\item \raggedright{The simple child who asks, What is this about?} \\
+		\raggedleft\textit{\textcolor{darkblue}{...and should be told of G-d's mighty deliverance plainly}}
+		\item \raggedright\textit{The child who doesn’t know how to ask a question...}\\
+		\raggedleft{\textcolor{darkblue}{...who should be aided and told the story}}
 		\end{enumerate}
 }
 %
@@ -380,13 +374,24 @@
 	Maror : the pungent flavour reminds us of the equally bitter prison of slavery the israelites endured.
 }
 \newcommand{\EveryGenerationText}{
-בכ לָּ־דוֹּ ר ודָּ ֹור חיַּבְָּּ אָּ דָּ ם לר ִ אֹות אֶּ ת־עַ צמ ֹו, כּאִ לו ּהוּא יצָּאְָּּ מִ מִ צר ָּ ְַֽיִ םְּ
-B’chol dor vador chayav adam lirot et-atzmo, k’ilu hu yatzav mimitzrayim.
+\largehebrew{בכ לָּ־דוֹּ ר ודָּ ֹור חיַּבְָּּ אָּ דָּ ם לר ִ אֹות אֶּ ת־עַ צמ ֹו, כּאִ לו ּהוּא יצָּאְָּּ מִ מִ צר ָּ ְַֽיִ םְּ}\\
+\textit{B’chol dor vador chayav adam lirot et-atzmo, k’ilu hu yatzav mimitzrayim.}
+\vspace*{2ex}
 In every generation, everyone must to see themselves as though they personally left Egypt.
+\vspace*{2ex}
+V každém pokolení je povinností každého Žida vidět sama sebe, jako 
+by on sám vyšel z Egypta, jak je řečeno: „Tohoto dne pověz svému synu, 
+aby říkal: Jelikož tohle učinil Hospodin mně při mém východu z Egypta.“ 
+Bože náš, jemuž žehnáme, nevykoupil pouze naše předky, ale s nimi 
+vykoupil také nás, jak je řečeno; „I nás vyvedl odtamtud, aby nás přivedl 
+a dal nám tu zemi, jak přísahal našim otcům.“ 
+
 }
 
 \newcommand{\KoreichText}{
-	During temple times, the lamb sacrifice would be eaten at a festive meal for Pesach. In those times the great sage Hillel made a tradition of sandwiching meat, maror and matzah together. We no longer have lamb because we no longer have the temple, but now we make a sandwich using matzah, maror, and anything else you'd like to include. Think about the significance of each part as you construct and eat them}
+	During temple times, the lamb sacrifice would be eaten at a festive meal for Pesach. In those times the great sage Hillel made a tradition of sandwiching meat, maror and matzah together. We no longer have lamb because we no longer have the temple, but now we make a sandwich using matzah, maror, and anything else you'd like to include. Think about the significance of each part as you construct and eat them
+	\vspace*{2ex}
+	\textit{Hilel v době, kdy Chrám existoval, dělával toto - skládal dohromady maces a trpké byliny a pojídal je zároveň.}}
 	
 
 
