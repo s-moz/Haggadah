@@ -11,6 +11,7 @@
 %\newfontfamily{\hebrewfont}{New Peninim MT}
 
 \usepackage{multicol}
+\usepackage{changepage}
 \usepackage{enumitem} %for the manishtana
 % For the title page
 \newcommand{\contents}{}
@@ -52,8 +53,9 @@
 		\end{multicols}}
 
 \newcommand{\urchatz}{
-	\textit{Pour water on each of your hands three times, alternating between your
+	\textit{Druhým bodem večeře je Urchac – rituální očista. }	\textit{Pour water on each of your hands three times, alternating between your
 	hands}}
+
  
 \newcommand{\Karpas}{
 {\noindent\color{midblue}We dip Parsley into salt water to symbolise the sweat and tears of the slaves}
@@ -67,6 +69,7 @@
 \end{multicols}
 }
 \newcommand{\Yachatz}{%
+\noindent{rozlome střední maces (levi), jednu polovinu z něho odloží jako zákusek (afikoman) na závěr pesachové hostiny a zbývající polovinu vrátí na její místo.}
 {\noindent\color{midblue}We break the middle of 3 matzah and replace the smaller half, as all three are lifted and the following Aramaic passage is read to commemorate the hardship felt by the israelites in egypt:}
 \begin{multicols}{2}
 	\HaLachmaTlit
@@ -77,10 +80,12 @@
 }
 %
 \newcommand{\MaNishtana}{%
-{\noindent\color{midblue}What 4 ways is this night different than all other nights?}
+\textit{\noindent\color{midblue}We take turns to read these questions}
 
 \MaNishtanaEng
 \MaNishtanaTlit
+\MaNishtanaCz
+\MaNishtanaHeb
 	\begin{enumerate}[label=\Roman*.]
 		\item First item, first list.
 		\begin{enumerate}[label=\arabic*., series=second]
@@ -100,9 +105,11 @@
 			\item Eighth item, second list.
 		\end{enumerate}
 	\end{enumerate}
-}
 
-\newcommand{\Maggid}{%
+\newcommand{\MaNishtanaAnswerCz}
+\newcommand{\MaNishtanaAnswerEng}}
+
+\newcommand{\MaggidIntro}{%
 	\centering\textit{Pour the second glass. Do not drink it yet.}\\
 	\MaggidText
 	\\
@@ -113,7 +120,28 @@
 	\\
 	\centering\textit{now put the glass down without drinking}\\
 	%
-	\centering{\PlaguesText}
+
+}
+\newcommand{\Plagues}{
+	{\noindent\color{midblue}{G-d brought about 10 Plagues upon the Egyptians in Egypt:\\}
+		\textit{Deset ran přivedl Svatý – buď požehnán – na Egypťany v Egyptě:}}
+	image of plagues
+	As we read the name of each plague we spill a drop of drink on each one, like a tear for the suffering they caused in the world.
+	\begin{adjustwidth}{15mm}{15mm}
+		\begin{multicols}{3}
+			\PlaguesTextCz
+		
+			\columnbreak 
+			\PlaguesTextEng
+			
+			\columnbreak
+			\PlaguesTextHeb
+		\end{multicols}
+			\lipsum[2]
+	\end{adjustwidth}
+}
+
+\newcommand{\Dayyeinu}{
 	%\textit{
 	%	Persian Jews hit each other with a Spring Onion at each of the following lines, to symbolise the whips of the slavemasters.\\
 	%	{\large Sarah is allergic to onion so is exempt from being whacked}
@@ -132,7 +160,9 @@
 	\WineBlessingHeb
 	\WineBlessingTlit
 	\WineBlessingEng
-	}
+	
+	\textit{Opřeni o levý loket vyprázdníme druhý pohár.}
+	Now we drink!}
 %
 \newcommand{\Handwashing}{
 \textit{pour water three times on your right hand then three times on your left hand and then read:}
@@ -149,6 +179,12 @@
 	\end{multicols}
 }
 \newcommand{\Matzah}{
+	\textit{Vypravěč ukáže stolovníkům macesy a říká:} 
+	Z jakého důvodu jíme tuto maca? Proto, že než se našim předkům 
+	zjevil Svatý, buď požehnán, a vykoupil je, nestačilo jim vykynout těsto. Je 
+	přec řečeno: „Z těsta, které vynesli z Egypta a které nezkvasilo, pekli 
+	macesové placky, jelikož byli z Egypta vyhnáni a nemohli se zdržovat a 
+	neudělali si ani zásoby na cestu.“ 
 \textit{We recite the blessing over Matzah because consuming it is a specific Torah command:}
 \MatzahBlessingHeb
 \textit{\MatzahBlessingTlit}
@@ -162,6 +198,12 @@
 \newcommand{\Maror}{
  In creating a holiday about the joy of freedom, we turn the story of our bitter
 history into a sweet celebration. \\ We recognize this by dipping our bitter horseradish (křen) into the sweet charoset. Try to taste both the flavours at once.\\
+\vspace*{2ex}
+\textit{Vypravěč ukáže maror a říká:}
+Proč jíme tuto hořkost (maror)? Proto, že Egypťané ztrpčovali život 
+našich předků v Egyptě, jak je řečeno: „Ztrpčovali jejich život dřinou s 
+hlínou a cihlami a vší tou prací na poli a všemi dalšími pracemi, jimiž jim 
+otročili při nucených pracích.“\\
 \vspace*{2ex}
 \textit{namáčíme náš křen do charosetu}\\
 \MarorBlessingHeb
