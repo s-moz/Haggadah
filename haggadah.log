@@ -1,4 +1,4 @@
-This is LuaHBTeX, Version 1.21.0 (MiKTeX 25.3) (format=lualatex 2025.4.3)  9 APR 2025 19:05
+This is LuaHBTeX, Version 1.21.0 (MiKTeX 25.3) (format=lualatex 2025.4.3)  9 APR 2025 22:27
  restricted system commands enabled.
 **haggadah.tex
 (./haggadah.tex
@@ -903,19 +903,6 @@ Package: enumitem 2025/02/06 v3.11 Customized lists
 Package polyglossia Info: Default language is english
 
 )
-Runaway argument?
-{Mah nishtanah ha-lailah ha-zeh mi-kol ha-leilot! \newcommand {\MaNishtanaHebi 
-\ETC.
-! File ended while scanning use of \@argdef.
-<inserted text> 
-                \par 
-l.33 \input{readings}
-                     
-I suspect you have forgotten a `}', causing me
-to read past where you wanted me to stop.
-I'll try to recover; but if the error is serious,
-you'd better type `E' or `X' now and fix your file.
-
 
 ******************************************************
 Stock height and width: 597.50787pt by 421.10078pt
@@ -2032,172 +2019,177 @@ Package microtype Info: Character `textquestiondown ' is missing
 (microtype)             in font `TU/NewPeninimMT(0)/m/n/10'.
 (microtype)             Ignoring protrusion settings for this character.
 Package microtype Info: Character `A' is missing
-(microtype)             in font `TU/NewPeninimMT(0)/m/n/12'.
+(microtype)             in font `TU/NewPeninimMT(0)/m/n/14.4'.
 (microtype)             Ignoring protrusion settings for this character.
 Package microtype Info: Character `F' is missing
-(microtype)             in font `TU/NewPeninimMT(0)/m/n/12'.
+(microtype)             in font `TU/NewPeninimMT(0)/m/n/14.4'.
 (microtype)             Ignoring protrusion settings for this character.
 Package microtype Info: Character `J' is missing
-(microtype)             in font `TU/NewPeninimMT(0)/m/n/12'.
+(microtype)             in font `TU/NewPeninimMT(0)/m/n/14.4'.
 (microtype)             Ignoring protrusion settings for this character.
 Package microtype Info: Character `K' is missing
-(microtype)             in font `TU/NewPeninimMT(0)/m/n/12'.
+(microtype)             in font `TU/NewPeninimMT(0)/m/n/14.4'.
 (microtype)             Ignoring protrusion settings for this character.
 Package microtype Info: Character `L' is missing
-(microtype)             in font `TU/NewPeninimMT(0)/m/n/12'.
+(microtype)             in font `TU/NewPeninimMT(0)/m/n/14.4'.
 (microtype)             Ignoring protrusion settings for this character.
 Package microtype Info: Character `T' is missing
-(microtype)             in font `TU/NewPeninimMT(0)/m/n/12'.
+(microtype)             in font `TU/NewPeninimMT(0)/m/n/14.4'.
 (microtype)             Ignoring protrusion settings for this character.
 Package microtype Info: Character `V' is missing
-(microtype)             in font `TU/NewPeninimMT(0)/m/n/12'.
+(microtype)             in font `TU/NewPeninimMT(0)/m/n/14.4'.
 (microtype)             Ignoring protrusion settings for this character.
 Package microtype Info: Character `W' is missing
-(microtype)             in font `TU/NewPeninimMT(0)/m/n/12'.
+(microtype)             in font `TU/NewPeninimMT(0)/m/n/14.4'.
 (microtype)             Ignoring protrusion settings for this character.
 Package microtype Info: Character `X' is missing
-(microtype)             in font `TU/NewPeninimMT(0)/m/n/12'.
+(microtype)             in font `TU/NewPeninimMT(0)/m/n/14.4'.
 (microtype)             Ignoring protrusion settings for this character.
 Package microtype Info: Character `Y' is missing
-(microtype)             in font `TU/NewPeninimMT(0)/m/n/12'.
+(microtype)             in font `TU/NewPeninimMT(0)/m/n/14.4'.
 (microtype)             Ignoring protrusion settings for this character.
 Package microtype Info: Character `k' is missing
-(microtype)             in font `TU/NewPeninimMT(0)/m/n/12'.
+(microtype)             in font `TU/NewPeninimMT(0)/m/n/14.4'.
 (microtype)             Ignoring protrusion settings for this character.
 Package microtype Info: Character `r' is missing
-(microtype)             in font `TU/NewPeninimMT(0)/m/n/12'.
+(microtype)             in font `TU/NewPeninimMT(0)/m/n/14.4'.
 (microtype)             Ignoring protrusion settings for this character.
 Package microtype Info: Character `v' is missing
-(microtype)             in font `TU/NewPeninimMT(0)/m/n/12'.
+(microtype)             in font `TU/NewPeninimMT(0)/m/n/14.4'.
 (microtype)             Ignoring protrusion settings for this character.
 Package microtype Info: Character `w' is missing
-(microtype)             in font `TU/NewPeninimMT(0)/m/n/12'.
+(microtype)             in font `TU/NewPeninimMT(0)/m/n/14.4'.
 (microtype)             Ignoring protrusion settings for this character.
 Package microtype Info: Character `x' is missing
-(microtype)             in font `TU/NewPeninimMT(0)/m/n/12'.
+(microtype)             in font `TU/NewPeninimMT(0)/m/n/14.4'.
 (microtype)             Ignoring protrusion settings for this character.
 Package microtype Info: Character `y' is missing
-(microtype)             in font `TU/NewPeninimMT(0)/m/n/12'.
+(microtype)             in font `TU/NewPeninimMT(0)/m/n/14.4'.
 (microtype)             Ignoring protrusion settings for this character.
 Package microtype Info: Character `@' is missing
-(microtype)             in font `TU/NewPeninimMT(0)/m/n/12'.
+(microtype)             in font `TU/NewPeninimMT(0)/m/n/14.4'.
 (microtype)             Ignoring protrusion settings for this character.
 Package microtype Info: Character `~ (= ~)' is missing
-(microtype)             in font `TU/NewPeninimMT(0)/m/n/12'.
+(microtype)             in font `TU/NewPeninimMT(0)/m/n/14.4'.
 (microtype)             Ignoring protrusion settings for this character.
 Package microtype Info: Character `AE ' is missing
-(microtype)             in font `TU/NewPeninimMT(0)/m/n/12'.
+(microtype)             in font `TU/NewPeninimMT(0)/m/n/14.4'.
 (microtype)             Ignoring protrusion settings for this character.
 Package microtype Info: Character `_' is missing
-(microtype)             in font `TU/NewPeninimMT(0)/m/n/12'.
+(microtype)             in font `TU/NewPeninimMT(0)/m/n/14.4'.
 (microtype)             Ignoring protrusion settings for this character.
 Package microtype Info: Character `quotesinglbase ' is missing
-(microtype)             in font `TU/NewPeninimMT(0)/m/n/12'.
+(microtype)             in font `TU/NewPeninimMT(0)/m/n/14.4'.
 (microtype)             Ignoring protrusion settings for this character.
 Package microtype Info: Character `guilsinglleft ' is missing
-(microtype)             in font `TU/NewPeninimMT(0)/m/n/12'.
+(microtype)             in font `TU/NewPeninimMT(0)/m/n/14.4'.
 (microtype)             Ignoring protrusion settings for this character.
 Package microtype Info: Character `guilsinglright ' is missing
-(microtype)             in font `TU/NewPeninimMT(0)/m/n/12'.
+(microtype)             in font `TU/NewPeninimMT(0)/m/n/14.4'.
 (microtype)             Ignoring protrusion settings for this character.
 Package microtype Info: Character `guillemotleft ' is missing
-(microtype)             in font `TU/NewPeninimMT(0)/m/n/12'.
+(microtype)             in font `TU/NewPeninimMT(0)/m/n/14.4'.
 (microtype)             Ignoring protrusion settings for this character.
 Package microtype Info: Character `guillemotright ' is missing
-(microtype)             in font `TU/NewPeninimMT(0)/m/n/12'.
+(microtype)             in font `TU/NewPeninimMT(0)/m/n/14.4'.
 (microtype)             Ignoring protrusion settings for this character.
 Package microtype Info: Character `textexclamdown ' is missing
-(microtype)             in font `TU/NewPeninimMT(0)/m/n/12'.
+(microtype)             in font `TU/NewPeninimMT(0)/m/n/14.4'.
 (microtype)             Ignoring protrusion settings for this character.
 Package microtype Info: Character `textquestiondown ' is missing
-(microtype)             in font `TU/NewPeninimMT(0)/m/n/12'.
+(microtype)             in font `TU/NewPeninimMT(0)/m/n/14.4'.
 (microtype)             Ignoring protrusion settings for this character.
 Package microtype Info: Character `A' is missing
-(microtype)             in font `TU/NewPeninimMT(0)/m/n/14.4'.
+(microtype)             in font `TU/NewPeninimMT(0)/m/n/20.74'.
 (microtype)             Ignoring protrusion settings for this character.
 Package microtype Info: Character `F' is missing
-(microtype)             in font `TU/NewPeninimMT(0)/m/n/14.4'.
+(microtype)             in font `TU/NewPeninimMT(0)/m/n/20.74'.
 (microtype)             Ignoring protrusion settings for this character.
 Package microtype Info: Character `J' is missing
-(microtype)             in font `TU/NewPeninimMT(0)/m/n/14.4'.
+(microtype)             in font `TU/NewPeninimMT(0)/m/n/20.74'.
 (microtype)             Ignoring protrusion settings for this character.
 Package microtype Info: Character `K' is missing
-(microtype)             in font `TU/NewPeninimMT(0)/m/n/14.4'.
+(microtype)             in font `TU/NewPeninimMT(0)/m/n/20.74'.
 (microtype)             Ignoring protrusion settings for this character.
 Package microtype Info: Character `L' is missing
-(microtype)             in font `TU/NewPeninimMT(0)/m/n/14.4'.
+(microtype)             in font `TU/NewPeninimMT(0)/m/n/20.74'.
 (microtype)             Ignoring protrusion settings for this character.
 Package microtype Info: Character `T' is missing
-(microtype)             in font `TU/NewPeninimMT(0)/m/n/14.4'.
+(microtype)             in font `TU/NewPeninimMT(0)/m/n/20.74'.
 (microtype)             Ignoring protrusion settings for this character.
 Package microtype Info: Character `V' is missing
-(microtype)             in font `TU/NewPeninimMT(0)/m/n/14.4'.
+(microtype)             in font `TU/NewPeninimMT(0)/m/n/20.74'.
 (microtype)             Ignoring protrusion settings for this character.
 Package microtype Info: Character `W' is missing
-(microtype)             in font `TU/NewPeninimMT(0)/m/n/14.4'.
+(microtype)             in font `TU/NewPeninimMT(0)/m/n/20.74'.
 (microtype)             Ignoring protrusion settings for this character.
 Package microtype Info: Character `X' is missing
-(microtype)             in font `TU/NewPeninimMT(0)/m/n/14.4'.
+(microtype)             in font `TU/NewPeninimMT(0)/m/n/20.74'.
 (microtype)             Ignoring protrusion settings for this character.
 Package microtype Info: Character `Y' is missing
-(microtype)             in font `TU/NewPeninimMT(0)/m/n/14.4'.
+(microtype)             in font `TU/NewPeninimMT(0)/m/n/20.74'.
 (microtype)             Ignoring protrusion settings for this character.
 Package microtype Info: Character `k' is missing
-(microtype)             in font `TU/NewPeninimMT(0)/m/n/14.4'.
+(microtype)             in font `TU/NewPeninimMT(0)/m/n/20.74'.
 (microtype)             Ignoring protrusion settings for this character.
 Package microtype Info: Character `r' is missing
-(microtype)             in font `TU/NewPeninimMT(0)/m/n/14.4'.
+(microtype)             in font `TU/NewPeninimMT(0)/m/n/20.74'.
 (microtype)             Ignoring protrusion settings for this character.
 Package microtype Info: Character `v' is missing
-(microtype)             in font `TU/NewPeninimMT(0)/m/n/14.4'.
+(microtype)             in font `TU/NewPeninimMT(0)/m/n/20.74'.
 (microtype)             Ignoring protrusion settings for this character.
 Package microtype Info: Character `w' is missing
-(microtype)             in font `TU/NewPeninimMT(0)/m/n/14.4'.
+(microtype)             in font `TU/NewPeninimMT(0)/m/n/20.74'.
 (microtype)             Ignoring protrusion settings for this character.
 Package microtype Info: Character `x' is missing
-(microtype)             in font `TU/NewPeninimMT(0)/m/n/14.4'.
+(microtype)             in font `TU/NewPeninimMT(0)/m/n/20.74'.
 (microtype)             Ignoring protrusion settings for this character.
 Package microtype Info: Character `y' is missing
-(microtype)             in font `TU/NewPeninimMT(0)/m/n/14.4'.
+(microtype)             in font `TU/NewPeninimMT(0)/m/n/20.74'.
 (microtype)             Ignoring protrusion settings for this character.
 Package microtype Info: Character `@' is missing
-(microtype)             in font `TU/NewPeninimMT(0)/m/n/14.4'.
+(microtype)             in font `TU/NewPeninimMT(0)/m/n/20.74'.
 (microtype)             Ignoring protrusion settings for this character.
 Package microtype Info: Character `~ (= ~)' is missing
-(microtype)             in font `TU/NewPeninimMT(0)/m/n/14.4'.
+(microtype)             in font `TU/NewPeninimMT(0)/m/n/20.74'.
 (microtype)             Ignoring protrusion settings for this character.
 Package microtype Info: Character `AE ' is missing
-(microtype)             in font `TU/NewPeninimMT(0)/m/n/14.4'.
+(microtype)             in font `TU/NewPeninimMT(0)/m/n/20.74'.
 (microtype)             Ignoring protrusion settings for this character.
 Package microtype Info: Character `_' is missing
-(microtype)             in font `TU/NewPeninimMT(0)/m/n/14.4'.
+(microtype)             in font `TU/NewPeninimMT(0)/m/n/20.74'.
 (microtype)             Ignoring protrusion settings for this character.
 Package microtype Info: Character `quotesinglbase ' is missing
-(microtype)             in font `TU/NewPeninimMT(0)/m/n/14.4'.
+(microtype)             in font `TU/NewPeninimMT(0)/m/n/20.74'.
 (microtype)             Ignoring protrusion settings for this character.
 Package microtype Info: Character `guilsinglleft ' is missing
-(microtype)             in font `TU/NewPeninimMT(0)/m/n/14.4'.
+(microtype)             in font `TU/NewPeninimMT(0)/m/n/20.74'.
 (microtype)             Ignoring protrusion settings for this character.
 Package microtype Info: Character `guilsinglright ' is missing
-(microtype)             in font `TU/NewPeninimMT(0)/m/n/14.4'.
+(microtype)             in font `TU/NewPeninimMT(0)/m/n/20.74'.
 (microtype)             Ignoring protrusion settings for this character.
 Package microtype Info: Character `guillemotleft ' is missing
-(microtype)             in font `TU/NewPeninimMT(0)/m/n/14.4'.
+(microtype)             in font `TU/NewPeninimMT(0)/m/n/20.74'.
 (microtype)             Ignoring protrusion settings for this character.
 Package microtype Info: Character `guillemotright ' is missing
-(microtype)             in font `TU/NewPeninimMT(0)/m/n/14.4'.
+(microtype)             in font `TU/NewPeninimMT(0)/m/n/20.74'.
 (microtype)             Ignoring protrusion settings for this character.
 Package microtype Info: Character `textexclamdown ' is missing
-(microtype)             in font `TU/NewPeninimMT(0)/m/n/14.4'.
+(microtype)             in font `TU/NewPeninimMT(0)/m/n/20.74'.
 (microtype)             Ignoring protrusion settings for this character.
 Package microtype Info: Character `textquestiondown ' is missing
-(microtype)             in font `TU/NewPeninimMT(0)/m/n/14.4'.
+(microtype)             in font `TU/NewPeninimMT(0)/m/n/20.74'.
 (microtype)             Ignoring protrusion settings for this character.
 <cup.png, id=28, 198.7425pt x 315.579pt>
 File: cup.png Graphic file (type png)
 <use cup.png>
 Package luatex.def Info: cup.png  used on input line 109.
 (luatex.def)             Requested size: 28.45274pt x 45.17752pt.
+
+
+[7
+
+<./cup.png>]
 ! Undefined control sequence.
 <argument> \shape 
                   We pour our first of four cups of grape juice or wine, whi...
@@ -2209,11 +2201,6 @@ misspelled it (e.g., `\hobx'), type `I' and the correct
 spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
-
-
-[7
-
-<./cup.png>]
 ! Undefined control sequence.
 <argument> \shape 
                   We celebrate our chance to experience this festival by say...
@@ -2225,61 +2212,34 @@ misspelled it (e.g., `\hobx'), type `I' and the correct
 spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
-<Karpas.png, id=34, 69.25874pt x 122.25674pt>
+
+
+[8]
+<Karpas.png, id=37, 69.25874pt x 122.25674pt>
 File: Karpas.png Graphic file (type png)
 <use Karpas.png>
 Package luatex.def Info: Karpas.png  used on input line 130.
 (luatex.def)             Requested size: 28.45274pt x 50.22446pt.
 
 
-[8<./Karpas.png>]
-! Undefined control sequence.
-\MaNishtana ...ad these questions} \MaNishtanaHeb 
-                                                  \MaNishtanaTlit \MaNishtan...
+[9<./Karpas.png>]
+
+! LaTeX Error: There's no line here to end.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
 l.139 \MaNishtana
                  
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
 
 ! Undefined control sequence.
-\MaNishtana ...ns} \MaNishtanaHeb \MaNishtanaTlit 
-                                                  \MaNishtanaEng \MaNishtana...
-l.139 \MaNishtana
-                 
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
+<argument> \shape 
+                  שֶׁבְּכָל הַלֵּילוֹת אָנוּ אוֹכ...
 
-! Undefined control sequence.
-\MaNishtana ...Heb \MaNishtanaTlit \MaNishtanaEng 
-                                                  \MaNishtanaCz \begin {enum...
-l.139 \MaNishtana
-                 
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-! Undefined control sequence.
-\MaNishtana ...aTlit \MaNishtanaEng \MaNishtanaCz 
-                                                  \begin {enumerate} \item \...
-l.139 \MaNishtana
-                 
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-! Undefined control sequence.
-<recently read> \MaNishtanaHebi 
-                                
 l.139 \MaNishtana
                  
 The control sequence at the end of the top line
@@ -2302,8 +2262,33 @@ Type  I <command> <return>  to replace it with another command,
 or  <return>  to continue without it.
 
 ! Undefined control sequence.
-<recently read> \MaNishtanaTliti 
-                                 
+<argument> \shape 
+                  שֶׁבְּכָל הַלֵּילוֹת אָנוּ אוֹכ...
+
+l.139 \MaNishtana
+                 
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+<argument> \shape 
+                  שֶׁבְּכָל הַלֵּילוֹת אֵין אָנוּ...
+
+l.139 \MaNishtana
+                 
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+<argument> \shape 
+                  שֶׁבְּכָל הַלֵּילוֹת אָנוּ אוֹכ...
+
 l.139 \MaNishtana
                  
 The control sequence at the end of the top line
@@ -2313,7 +2298,8 @@ spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
 
-! LaTeX Error: There's no line here to end.
+! LaTeX Error: Command \MaNishtanaAnswerCz already defined.
+               Or name \end... illegal, see p.192 of the manual.
 
 See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
@@ -2325,17 +2311,9 @@ Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
 or  <return>  to continue without it.
 
-! Undefined control sequence.
-<recently read> \MaNishtanaEngi 
-                                
-l.139 \MaNishtana
-                 
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
 
+
+[10]
 
 ! LaTeX Error: There's no line here to end.
 
@@ -2343,398 +2321,15 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.139 \MaNishtana
-                 
+l.144 \Plagues
+              
 Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
 or  <return>  to continue without it.
 
 ! Undefined control sequence.
-<recently read> \MaNishtanaCzi 
-                               
-l.139 \MaNishtana
-                 
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-
-! LaTeX Error: There's no line here to end.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.139 \MaNishtana
-                 
-Your command was ignored.
-Type  I <command> <return>  to replace it with another command,
-or  <return>  to continue without it.
-
-! Undefined control sequence.
-<recently read> \MaNishtanaHebii 
-                                 
-l.139 \MaNishtana
-                 
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-
-! LaTeX Error: There's no line here to end.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.139 \MaNishtana
-                 
-Your command was ignored.
-Type  I <command> <return>  to replace it with another command,
-or  <return>  to continue without it.
-
-! Undefined control sequence.
-<recently read> \MaNishtanaTlitii 
-                                  
-l.139 \MaNishtana
-                 
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-
-! LaTeX Error: There's no line here to end.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.139 \MaNishtana
-                 
-Your command was ignored.
-Type  I <command> <return>  to replace it with another command,
-or  <return>  to continue without it.
-
-! Undefined control sequence.
-<recently read> \MaNishtanaEngii 
-                                 
-l.139 \MaNishtana
-                 
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-
-! LaTeX Error: There's no line here to end.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.139 \MaNishtana
-                 
-Your command was ignored.
-Type  I <command> <return>  to replace it with another command,
-or  <return>  to continue without it.
-
-! Undefined control sequence.
-<recently read> \MaNishtanaCzii 
-                                
-l.139 \MaNishtana
-                 
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-
-! LaTeX Error: There's no line here to end.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.139 \MaNishtana
-                 
-Your command was ignored.
-Type  I <command> <return>  to replace it with another command,
-or  <return>  to continue without it.
-
-! Undefined control sequence.
-<recently read> \MaNishtanaHebiii 
-                                  
-l.139 \MaNishtana
-                 
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-
-! LaTeX Error: There's no line here to end.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.139 \MaNishtana
-                 
-Your command was ignored.
-Type  I <command> <return>  to replace it with another command,
-or  <return>  to continue without it.
-
-! Undefined control sequence.
-<recently read> \MaNishtanaTlitiii 
-                                   
-l.139 \MaNishtana
-                 
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-
-! LaTeX Error: There's no line here to end.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.139 \MaNishtana
-                 
-Your command was ignored.
-Type  I <command> <return>  to replace it with another command,
-or  <return>  to continue without it.
-
-! Undefined control sequence.
-<recently read> \MaNishtanaEngiii 
-                                  
-l.139 \MaNishtana
-                 
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-
-! LaTeX Error: There's no line here to end.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.139 \MaNishtana
-                 
-Your command was ignored.
-Type  I <command> <return>  to replace it with another command,
-or  <return>  to continue without it.
-
-! Undefined control sequence.
-<recently read> \MaNishtanaCziii 
-                                 
-l.139 \MaNishtana
-                 
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-
-! LaTeX Error: There's no line here to end.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.139 \MaNishtana
-                 
-Your command was ignored.
-Type  I <command> <return>  to replace it with another command,
-or  <return>  to continue without it.
-
-! Undefined control sequence.
-<recently read> \MaNishtanaHebiv 
-                                 
-l.139 \MaNishtana
-                 
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-
-! LaTeX Error: There's no line here to end.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.139 \MaNishtana
-                 
-Your command was ignored.
-Type  I <command> <return>  to replace it with another command,
-or  <return>  to continue without it.
-
-! Undefined control sequence.
-<recently read> \MaNishtanaTlitiv 
-                                  
-l.139 \MaNishtana
-                 
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-
-! LaTeX Error: There's no line here to end.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.139 \MaNishtana
-                 
-Your command was ignored.
-Type  I <command> <return>  to replace it with another command,
-or  <return>  to continue without it.
-
-! Undefined control sequence.
-<recently read> \MaNishtanaEngiv 
-                                 
-l.139 \MaNishtana
-                 
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-
-! LaTeX Error: There's no line here to end.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.139 \MaNishtana
-                 
-Your command was ignored.
-Type  I <command> <return>  to replace it with another command,
-or  <return>  to continue without it.
-
-! Undefined control sequence.
-<recently read> \MaNishtanaCziv 
-                                
-l.139 \MaNishtana
-                 
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-
-! LaTeX Error: There's no line here to end.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.139 \MaNishtana
-                 
-Your command was ignored.
-Type  I <command> <return>  to replace it with another command,
-or  <return>  to continue without it.
-
-! Undefined control sequence.
-\MaNishtana ... \newcommand {\MaNishtanaAnswerEng 
-                                                  }
-l.139 \MaNishtana
-                 
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-! Undefined control sequence.
-l.140 \FourChildrenText
-                       
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-
-
-[9]
-! Undefined control sequence.
-<recently read> \MaggidText 
-                            
-l.143 \MaggidIntro
-                  
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-
-! LaTeX Error: There's no line here to end.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.143 \MaggidIntro
-                  
-Your command was ignored.
-Type  I <command> <return>  to replace it with another command,
-or  <return>  to continue without it.
-
-! Undefined control sequence.
-\MaggidIntro ...d together:}\\ \par \PromiseToast 
-                                                  \\ \centering \textit {now...
-l.143 \MaggidIntro
-                  
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-
-! LaTeX Error: There's no line here to end.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.143 \MaggidIntro
-                  
-Your command was ignored.
-Type  I <command> <return>  to replace it with another command,
-or  <return>  to continue without it.
-
-! Undefined control sequence.
-<recently read> \PlaguesTextCz 
-                               
+<argument> \shape 
+                  דָּם
 l.144 \Plagues
               
 The control sequence at the end of the top line
@@ -2744,8 +2339,8 @@ spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
 ! Undefined control sequence.
-<recently read> \PlaguesTextEng 
-                                
+<argument> \shape 
+                  צְפַרְדֵּעַ
 l.144 \Plagues
               
 The control sequence at the end of the top line
@@ -2755,8 +2350,86 @@ spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
 ! Undefined control sequence.
-<recently read> \PlaguesTextHeb 
-                                
+<argument> \shape 
+                  כִּנִּים
+l.144 \Plagues
+              
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+<argument> \shape 
+                  עַרוֹב
+l.144 \Plagues
+              
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+[11]
+! Undefined control sequence.
+<argument> \shape 
+                  דֶּבֶר
+l.144 \Plagues
+              
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+<argument> \shape 
+                  שְׁחִין
+l.144 \Plagues
+              
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+<argument> \shape 
+                  בָּרָד
+l.144 \Plagues
+              
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+<argument> \shape 
+                  אַרְבֶּה
+l.144 \Plagues
+              
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+<argument> \shape 
+                  חוֹשֶׁךְ
+l.144 \Plagues
+              
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+<argument> \shape 
+                  מַכַּת בְּכוֹרוֹת
 l.144 \Plagues
               
 The control sequence at the end of the top line
@@ -2777,8 +2450,114 @@ spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
 ! Undefined control sequence.
-<recently read> \DayyeinuIntro 
-                               
+<argument> \shape 
+                  אִלּוּ הוֹצִיאָנוּ מִמִּצְרָיִ...
+l.145 \Dayyeinu
+               
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+
+[12]
+! Undefined control sequence.
+<argument> \shape 
+                  וְלֹא עָשָׂה בָּהֶם שְׁפָטִים...
+l.145 \Dayyeinu
+               
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+Package microtype Info: Character `A' is missing
+(microtype)             in font `TU/NewPeninimMT(0)/m/n/24.88'.
+(microtype)             Ignoring protrusion settings for this character.
+Package microtype Info: Character `F' is missing
+(microtype)             in font `TU/NewPeninimMT(0)/m/n/24.88'.
+(microtype)             Ignoring protrusion settings for this character.
+Package microtype Info: Character `J' is missing
+(microtype)             in font `TU/NewPeninimMT(0)/m/n/24.88'.
+(microtype)             Ignoring protrusion settings for this character.
+Package microtype Info: Character `K' is missing
+(microtype)             in font `TU/NewPeninimMT(0)/m/n/24.88'.
+(microtype)             Ignoring protrusion settings for this character.
+Package microtype Info: Character `L' is missing
+(microtype)             in font `TU/NewPeninimMT(0)/m/n/24.88'.
+(microtype)             Ignoring protrusion settings for this character.
+Package microtype Info: Character `T' is missing
+(microtype)             in font `TU/NewPeninimMT(0)/m/n/24.88'.
+(microtype)             Ignoring protrusion settings for this character.
+Package microtype Info: Character `V' is missing
+(microtype)             in font `TU/NewPeninimMT(0)/m/n/24.88'.
+(microtype)             Ignoring protrusion settings for this character.
+Package microtype Info: Character `W' is missing
+(microtype)             in font `TU/NewPeninimMT(0)/m/n/24.88'.
+(microtype)             Ignoring protrusion settings for this character.
+Package microtype Info: Character `X' is missing
+(microtype)             in font `TU/NewPeninimMT(0)/m/n/24.88'.
+(microtype)             Ignoring protrusion settings for this character.
+Package microtype Info: Character `Y' is missing
+(microtype)             in font `TU/NewPeninimMT(0)/m/n/24.88'.
+(microtype)             Ignoring protrusion settings for this character.
+Package microtype Info: Character `k' is missing
+(microtype)             in font `TU/NewPeninimMT(0)/m/n/24.88'.
+(microtype)             Ignoring protrusion settings for this character.
+Package microtype Info: Character `r' is missing
+(microtype)             in font `TU/NewPeninimMT(0)/m/n/24.88'.
+(microtype)             Ignoring protrusion settings for this character.
+Package microtype Info: Character `v' is missing
+(microtype)             in font `TU/NewPeninimMT(0)/m/n/24.88'.
+(microtype)             Ignoring protrusion settings for this character.
+Package microtype Info: Character `w' is missing
+(microtype)             in font `TU/NewPeninimMT(0)/m/n/24.88'.
+(microtype)             Ignoring protrusion settings for this character.
+Package microtype Info: Character `x' is missing
+(microtype)             in font `TU/NewPeninimMT(0)/m/n/24.88'.
+(microtype)             Ignoring protrusion settings for this character.
+Package microtype Info: Character `y' is missing
+(microtype)             in font `TU/NewPeninimMT(0)/m/n/24.88'.
+(microtype)             Ignoring protrusion settings for this character.
+Package microtype Info: Character `@' is missing
+(microtype)             in font `TU/NewPeninimMT(0)/m/n/24.88'.
+(microtype)             Ignoring protrusion settings for this character.
+Package microtype Info: Character `~ (= ~)' is missing
+(microtype)             in font `TU/NewPeninimMT(0)/m/n/24.88'.
+(microtype)             Ignoring protrusion settings for this character.
+Package microtype Info: Character `AE ' is missing
+(microtype)             in font `TU/NewPeninimMT(0)/m/n/24.88'.
+(microtype)             Ignoring protrusion settings for this character.
+Package microtype Info: Character `_' is missing
+(microtype)             in font `TU/NewPeninimMT(0)/m/n/24.88'.
+(microtype)             Ignoring protrusion settings for this character.
+Package microtype Info: Character `quotesinglbase ' is missing
+(microtype)             in font `TU/NewPeninimMT(0)/m/n/24.88'.
+(microtype)             Ignoring protrusion settings for this character.
+Package microtype Info: Character `guilsinglleft ' is missing
+(microtype)             in font `TU/NewPeninimMT(0)/m/n/24.88'.
+(microtype)             Ignoring protrusion settings for this character.
+Package microtype Info: Character `guilsinglright ' is missing
+(microtype)             in font `TU/NewPeninimMT(0)/m/n/24.88'.
+(microtype)             Ignoring protrusion settings for this character.
+Package microtype Info: Character `guillemotleft ' is missing
+(microtype)             in font `TU/NewPeninimMT(0)/m/n/24.88'.
+(microtype)             Ignoring protrusion settings for this character.
+Package microtype Info: Character `guillemotright ' is missing
+(microtype)             in font `TU/NewPeninimMT(0)/m/n/24.88'.
+(microtype)             Ignoring protrusion settings for this character.
+Package microtype Info: Character `textexclamdown ' is missing
+(microtype)             in font `TU/NewPeninimMT(0)/m/n/24.88'.
+(microtype)             Ignoring protrusion settings for this character.
+Package microtype Info: Character `textquestiondown ' is missing
+(microtype)             in font `TU/NewPeninimMT(0)/m/n/24.88'.
+(microtype)             Ignoring protrusion settings for this character.
+! Undefined control sequence.
+<argument> \shape 
+                  אִלּוּ עָשָׂה בָּהֶם שְׁפָטִים...
 l.145 \Dayyeinu
                
 The control sequence at the end of the top line
@@ -2788,8 +2567,8 @@ spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
 ! Undefined control sequence.
-\Dayyeinu ...einu*\\ \DayyeinuIntro \DayyeinuText 
-                                                  \vspace *{2ex} \RabbiGamli...
+<argument> \shape 
+                  ...וְלֹא עָשָׂה בֵּאלֹהֵיהֶם...
 l.145 \Dayyeinu
                
 The control sequence at the end of the top line
@@ -2799,8 +2578,8 @@ spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
 ! Undefined control sequence.
-\Dayyeinu ...inuText \vspace *{2ex} \RabbiGamliel 
-                                                  \vspace *{2ex} \EveryGener...
+<argument> \shape 
+                  אִלּוּ עָשָׂה בֵּאלֹהֵיהֶם...
 l.145 \Dayyeinu
                
 The control sequence at the end of the top line
@@ -2810,8 +2589,31 @@ spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
 ! Undefined control sequence.
-\Dayyeinu ... \vspace *{2ex} \EveryGenerationText 
-                                                  \par We remember how G-d r...
+<argument> \shape 
+                  ...וְלֹא הָרַג אֶת בְּכוֹרֵיהֶם...
+l.145 \Dayyeinu
+               
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+<argument> \shape 
+                  אִלּוּ הָרַג אֶת בְּכוֹרֵיהֶם...
+l.145 \Dayyeinu
+               
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+<argument> \shape 
+                  ...וְלֹא נָתַן לָנוּ אֶת מָמוֹנָם...
+
 l.145 \Dayyeinu
                
 The control sequence at the end of the top line
@@ -2821,6 +2623,269 @@ spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
 
+
+[13]
+! Undefined control sequence.
+<argument> \shape 
+                  אִלּוּ נָתַן לָנוּ אֶת מָמוֹנָם...
+l.145 \Dayyeinu
+               
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+<argument> \shape 
+                  ...ןלא קָרַע לָנוּ אֶת הַיָּם...
+l.145 \Dayyeinu
+               
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+<argument> \shape 
+                  אִלּוּ קָרַע לָנוּ אֶת הַיָּם...
+l.145 \Dayyeinu
+               
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+<argument> \shape 
+                  ...וְלֹא הֶעֱבִירָנוּ בְּתוֹכוֹ ...
+l.145 \Dayyeinu
+               
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+<argument> \shape 
+                  אִלּוּ הֶעֱבִירָנוּ בְּתוֹכוֹ ב...
+
+l.145 \Dayyeinu
+               
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+<argument> \shape 
+                  ...וְלֹא שִׁקַע צָרֵינוּ בְּתוֹכ...
+l.145 \Dayyeinu
+               
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+
+[14]
+! Undefined control sequence.
+<argument> \shape 
+                  אִלּוּ שִׁקַע צָרֵינוּ בְּתוֹכו...
+
+l.145 \Dayyeinu
+               
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+<argument> \shape 
+                  ...וְלֹא סִפֵּק צָרַכֵּנוּ בַּמִ...
+l.145 \Dayyeinu
+               
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+<argument> \shape 
+                  אִלּוּ סִפֵּק צָרַכֵּנוּ בַּמִּ...
+
+l.145 \Dayyeinu
+               
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+<argument> \shape 
+                  ...וְלֹא הֶאֱכִילָנוּ אֶת הַמָּן...
+l.145 \Dayyeinu
+               
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+<argument> \shape 
+                  אִלּוּ הֶאֱכִילָנוּ אֶת הַמָּן...
+l.145 \Dayyeinu
+               
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+<argument> \shape 
+                  ...וְלֹא נָתַן לָנוּ אֶת הַשַּׁבָ...
+
+l.145 \Dayyeinu
+               
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+<argument> \shape 
+                  אִלּוּ נָתַן לָנוּ אֶת הַשַּׁבָ...
+l.145 \Dayyeinu
+               
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+<argument> \shape 
+                  ...וְלֹא קֵרְבָנוּ לִפְנֵי הַר סִ...
+
+l.145 \Dayyeinu
+               
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+Underfull \vbox (badness 3514) has occurred while \output is active []
+
+
+
+[15]
+! Undefined control sequence.
+<argument> \shape 
+                  אִלּוּ קֵרְבָנוּ לִפְנֵי הַר סִ...
+l.145 \Dayyeinu
+               
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+<argument> \shape 
+                  ...וְלֹא נָתַן לָנוּ אֶת הַתּוֹרָ...
+
+l.145 \Dayyeinu
+               
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+<argument> \shape 
+                  אִלּוּ נָתַן לָנוּ אֶת הַתּוֹרָ...
+l.145 \Dayyeinu
+               
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+<argument> \shape 
+                  ...וְלֹא הִכְנִיסָנוּ לְאֶרֶץ יִ...
+l.145 \Dayyeinu
+               
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+<argument> \shape 
+                  אִלּוּ הִכְנִיסָנוּ לְאֶרֶץ יִש...
+
+l.145 \Dayyeinu
+               
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+<argument> \shape 
+                  ...וְלֹא בָּנָה לָנוּ אֶת בֵּית ה...
+l.145 \Dayyeinu
+               
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [16]
+! Undefined control sequence.
+<argument> \shape 
+                  בכ לָּ־דוֹּ ר ודָּ ֹור חיַּבְָּּ...
+
+l.145 \Dayyeinu
+               
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+
+[17]
 Underfull \hbox (badness 10000) in paragraph at lines 147--147
 |\TU/lmr/bx/n/12 Rachtzah : Hand-wash-ing (Blessed) : Rachca|
  []
@@ -2837,8 +2902,6 @@ spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
 
-
-[10]
 Underfull \hbox (badness 10000) in paragraph at lines 150--150
 |\TU/lmr/bx/n/12 Pe-sach : Pe-sa-chova|
  []
@@ -2860,11 +2923,8 @@ Underfull \hbox (badness 10000) in paragraph at lines 153--153
  []
 
 
-Overfull \vbox (3.91936pt too high) has occurred while \output is active []
 
-
-
-[11]
+[18]
 Underfull \hbox (badness 10000) in paragraph at lines 157--157
 |\TU/lmr/bx/n/12 Maror : Bit-ter Herbs : Maror|
  []
@@ -2881,20 +2941,11 @@ spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
 
+
+[19]
 Underfull \hbox (badness 10000) in paragraph at lines 161--161
 |\TU/lmr/bx/n/12 Ko-r-e-ich : Hil-lel Sand-wich Ko-resch|
  []
-
-! Undefined control sequence.
-\Koreich -> \KoreichText 
-                         
-l.162 \Koreich
-              
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
 
 Runaway argument?
 {\shape ~time to read the whole shulchan aruch~ 
@@ -2916,8 +2967,6 @@ You've closed more groups than you opened.
 Such booboos are generally harmless, so keep going.
 
 
-
-[12]
 Underfull \hbox (badness 10000) in paragraph at lines 168--168
 |\TU/lmr/bx/n/12 Tza-fun : Afikomen! : Ca-fun|
  []
@@ -2926,7 +2975,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 168--168
 <argument> \shape 
                   The oldest participant must now embark upon the {\LARGE Af...
 l.169 ...w embark upon the {\LARGE Afikomen hunt}}
-                                                  
+                                                  \\
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
 misspelled it (e.g., `\hobx'), type `I' and the correct
@@ -2940,21 +2989,21 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.170 \\
-        
+l.169 ...embark upon the {\LARGE Afikomen hunt}}\\
+                                                  
 Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
 or  <return>  to continue without it.
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 173--173
+Underfull \hbox (badness 10000) in paragraph at lines 172--172
 |\TU/lmr/bx/n/12 Bare-ich : Grace af-ter the meal : Barech|
  []
 
 ! Undefined control sequence.
 <argument> \centered 
                      
-l.175 \Bareich
+l.174 \Bareich
               
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -2965,7 +3014,7 @@ and I'll forget about whatever was undefined.
 ! Undefined control sequence.
 <argument> \centered 
                      
-l.175 \Bareich
+l.174 \Bareich
               
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -2976,7 +3025,7 @@ and I'll forget about whatever was undefined.
 ! Undefined control sequence.
 <argument> \centered 
                      
-l.175 \Bareich
+l.174 \Bareich
               
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -2987,7 +3036,7 @@ and I'll forget about whatever was undefined.
 ! Undefined control sequence.
 \BareichEng ...cy and continued support \centered 
                                                   {\LARGE Amen}\\ \\BirkatHa...
-l.175 \Bareich
+l.174 \Bareich
               
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -3002,16 +3051,19 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.175 \Bareich
+l.174 \Bareich
               
 Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
 or  <return>  to continue without it.
 
+
+
+[20]
 ! Undefined control sequence.
 \BareichEng ...ngs God bestows upon us. \centered 
                                                   {\LARGE Amen}\\ \\Harahama...
-l.175 \Bareich
+l.174 \Bareich
               
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -3026,7 +3078,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.175 \Bareich
+l.174 \Bareich
               
 Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
@@ -3035,7 +3087,7 @@ or  <return>  to continue without it.
 ! Undefined control sequence.
 <argument> \centered 
                      
-l.175 \Bareich
+l.174 \Bareich
               
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -3044,16 +3096,14 @@ spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
 
-
-[13]
-Underfull \hbox (badness 10000) in paragraph at lines 178--178
+Underfull \hbox (badness 10000) in paragraph at lines 177--177
 |\TU/lmr/bx/n/12 Hal-lel : Praise : Halel|
  []
 
 ! Undefined control sequence.
-\Hallel ->{\HallelHeb 
-                      \begin {multicols}{2} \HallelTlit \columnbreak \Hallel...
-l.181 \Hallel
+<argument> \shape 
+                  \Large הַֽלְלוּ הַֽלְלוּ הַֽלְלוּ ...
+l.180 \Hallel
              
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -3061,10 +3111,92 @@ misspelled it (e.g., `\hobx'), type `I' and the correct
 spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
+Package microtype Info: Character `A' is missing
+(microtype)             in font `TU/NewPeninimMT(0)/m/n/12'.
+(microtype)             Ignoring protrusion settings for this character.
+Package microtype Info: Character `F' is missing
+(microtype)             in font `TU/NewPeninimMT(0)/m/n/12'.
+(microtype)             Ignoring protrusion settings for this character.
+Package microtype Info: Character `J' is missing
+(microtype)             in font `TU/NewPeninimMT(0)/m/n/12'.
+(microtype)             Ignoring protrusion settings for this character.
+Package microtype Info: Character `K' is missing
+(microtype)             in font `TU/NewPeninimMT(0)/m/n/12'.
+(microtype)             Ignoring protrusion settings for this character.
+Package microtype Info: Character `L' is missing
+(microtype)             in font `TU/NewPeninimMT(0)/m/n/12'.
+(microtype)             Ignoring protrusion settings for this character.
+Package microtype Info: Character `T' is missing
+(microtype)             in font `TU/NewPeninimMT(0)/m/n/12'.
+(microtype)             Ignoring protrusion settings for this character.
+Package microtype Info: Character `V' is missing
+(microtype)             in font `TU/NewPeninimMT(0)/m/n/12'.
+(microtype)             Ignoring protrusion settings for this character.
+Package microtype Info: Character `W' is missing
+(microtype)             in font `TU/NewPeninimMT(0)/m/n/12'.
+(microtype)             Ignoring protrusion settings for this character.
+Package microtype Info: Character `X' is missing
+(microtype)             in font `TU/NewPeninimMT(0)/m/n/12'.
+(microtype)             Ignoring protrusion settings for this character.
+Package microtype Info: Character `Y' is missing
+(microtype)             in font `TU/NewPeninimMT(0)/m/n/12'.
+(microtype)             Ignoring protrusion settings for this character.
+Package microtype Info: Character `k' is missing
+(microtype)             in font `TU/NewPeninimMT(0)/m/n/12'.
+(microtype)             Ignoring protrusion settings for this character.
+Package microtype Info: Character `r' is missing
+(microtype)             in font `TU/NewPeninimMT(0)/m/n/12'.
+(microtype)             Ignoring protrusion settings for this character.
+Package microtype Info: Character `v' is missing
+(microtype)             in font `TU/NewPeninimMT(0)/m/n/12'.
+(microtype)             Ignoring protrusion settings for this character.
+Package microtype Info: Character `w' is missing
+(microtype)             in font `TU/NewPeninimMT(0)/m/n/12'.
+(microtype)             Ignoring protrusion settings for this character.
+Package microtype Info: Character `x' is missing
+(microtype)             in font `TU/NewPeninimMT(0)/m/n/12'.
+(microtype)             Ignoring protrusion settings for this character.
+Package microtype Info: Character `y' is missing
+(microtype)             in font `TU/NewPeninimMT(0)/m/n/12'.
+(microtype)             Ignoring protrusion settings for this character.
+Package microtype Info: Character `@' is missing
+(microtype)             in font `TU/NewPeninimMT(0)/m/n/12'.
+(microtype)             Ignoring protrusion settings for this character.
+Package microtype Info: Character `~ (= ~)' is missing
+(microtype)             in font `TU/NewPeninimMT(0)/m/n/12'.
+(microtype)             Ignoring protrusion settings for this character.
+Package microtype Info: Character `AE ' is missing
+(microtype)             in font `TU/NewPeninimMT(0)/m/n/12'.
+(microtype)             Ignoring protrusion settings for this character.
+Package microtype Info: Character `_' is missing
+(microtype)             in font `TU/NewPeninimMT(0)/m/n/12'.
+(microtype)             Ignoring protrusion settings for this character.
+Package microtype Info: Character `quotesinglbase ' is missing
+(microtype)             in font `TU/NewPeninimMT(0)/m/n/12'.
+(microtype)             Ignoring protrusion settings for this character.
+Package microtype Info: Character `guilsinglleft ' is missing
+(microtype)             in font `TU/NewPeninimMT(0)/m/n/12'.
+(microtype)             Ignoring protrusion settings for this character.
+Package microtype Info: Character `guilsinglright ' is missing
+(microtype)             in font `TU/NewPeninimMT(0)/m/n/12'.
+(microtype)             Ignoring protrusion settings for this character.
+Package microtype Info: Character `guillemotleft ' is missing
+(microtype)             in font `TU/NewPeninimMT(0)/m/n/12'.
+(microtype)             Ignoring protrusion settings for this character.
+Package microtype Info: Character `guillemotright ' is missing
+(microtype)             in font `TU/NewPeninimMT(0)/m/n/12'.
+(microtype)             Ignoring protrusion settings for this character.
+Package microtype Info: Character `textexclamdown ' is missing
+(microtype)             in font `TU/NewPeninimMT(0)/m/n/12'.
+(microtype)             Ignoring protrusion settings for this character.
+Package microtype Info: Character `textquestiondown ' is missing
+(microtype)             in font `TU/NewPeninimMT(0)/m/n/12'.
+(microtype)             Ignoring protrusion settings for this character.
 ! Undefined control sequence.
-<recently read> \HallelTlit 
-                            
-l.181 \Hallel
+<argument> \shape 
+                  \LARGE כֹּ֣ל הַ֭נְּשָׁמָה תְּהַלֵּ...
+
+l.180 \Hallel
              
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -3072,54 +3204,44 @@ misspelled it (e.g., `\hobx'), type `I' and the correct
 spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
-! Undefined control sequence.
-<recently read> \HallelEng 
-                           
-l.181 \Hallel
-             
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
 
-! Undefined control sequence.
-\Elijah -> \ElijahText 
-                       \StrangersText \par \textit {We sing this song before...
-l.182 \Elijah
-             
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
 
-! Undefined control sequence.
-\Elijah -> \ElijahText \StrangersText 
-                                      \par \textit {We sing this song before...
-l.182 \Elijah
-             
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-! Undefined control sequence.
-\Elijah ...efore closing the door:} \EliahuHaNavi 
-                                                  
-l.182 \Elijah
-             
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
+[21
+Missing character: There is no ֽ (U+05BD) in font "name:New Peninim MT:mode=har
+f;script=hebr;language=dflt;"!
+Missing character: There is no ֽ (U+05BD) in font "name:New Peninim MT:mode=har
+f;script=hebr;language=dflt;"!
+Missing character: There is no ֽ (U+05BD) in font "name:New Peninim MT:mode=har
+f;script=hebr;language=dflt;"!
+Missing character: There is no ֽ (U+05BD) in font "name:New Peninim MT:mode=har
+f;script=hebr;language=dflt;"!
+Missing character: There is no ֽ (U+05BD) in font "name:New Peninim MT:mode=har
+f;script=hebr;language=dflt;"!
+Missing character: There is no ֥ (U+05A5) in font "name:New Peninim MT:mode=har
+f;script=hebr;language=dflt;"!
+Missing character: There is no ֨ (U+05A8) in font "name:New Peninim MT:mode=har
+f;script=hebr;language=dflt;"!
+Missing character: There is no ֣ (U+05A3) in font "name:New Peninim MT:mode=har
+f;script=hebr;language=dflt;"!
+Missing character: There is no ֭ (U+05AD) in font "name:New Peninim MT:mode=har
+f;script=hebr;language=dflt;"!
+Missing character: There is no ֥ (U+05A5) in font "name:New Peninim MT:mode=har
+f;script=hebr;language=dflt;"!
+Missing character: There is no ֗ (U+0597) in font "name:New Peninim MT:mode=har
+f;script=hebr;language=dflt;"!
+Missing character: There is no ֽ (U+05BD) in font "name:New Peninim MT:mode=har
+f;script=hebr;language=dflt;"!
+Missing character: There is no ֽ (U+05BD) in font "name:New Peninim MT:mode=har
+f;script=hebr;language=dflt;"!
+Missing character: There is no ֥ (U+05A5) in font "name:New Peninim MT:mode=har
+f;script=hebr;language=dflt;"!
+Missing character: There is no ֨ (U+05A8) in font "name:New Peninim MT:mode=har
+f;script=hebr;language=dflt;"!
+]
 ! Undefined control sequence.
 \Miriam -> \Miriamreading 
                           \MiriamBlessing 
-l.183 \Miriam
+l.182 \Miriam
              
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -3128,14 +3250,14 @@ spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 186--186
+Underfull \hbox (badness 10000) in paragraph at lines 185--185
 |\TU/lmr/bx/n/12 Nirtzah : Con-clu-sion : Nirca|
  []
 
 ! Undefined control sequence.
 <argument> \shape 
                   Conclusion (next year in Jerusalem)
-l.187 \red[]{Conclusion (next year in Jerusalem)}
+l.186 \red[]{Conclusion (next year in Jerusalem)}
                                                  
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -3144,8 +3266,10 @@ spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
 ! Undefined control sequence.
-l.196 \ChadGayahText
-                    
+<argument> \shape 
+                  לשָּ נהְָּּ הַ באָּ ּה ביִ רושָּ...
+l.187 \Nirtzah
+              
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
 misspelled it (e.g., `\hobx'), type `I' and the correct
@@ -3153,7 +3277,7 @@ spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
 ! Undefined control sequence.
-l.205 \url
+l.204 \url
           { https://github.com/ }. Comments?
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -3161,48 +3285,296 @@ misspelled it (e.g., `\hobx'), type `I' and the correct
 spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
+
+
+[22
+Missing character: There is no ו (U+05D5) in font [lmroman10-regular]:+tlig;!
+Missing character: There is no ְ (U+05B0) in font [lmroman10-regular]:+tlig;!
+Missing character: There is no ג (U+05D2) in font [lmroman10-regular]:+tlig;!
+Missing character: There is no ֵ (U+05B5) in font [lmroman10-regular]:+tlig;!
+Missing character: There is no ֖ (U+0596) in font [lmroman10-regular]:+tlig;!
+Missing character: There is no ר (U+05E8) in font [lmroman10-regular]:+tlig;!
+Missing character: There is no ל (U+05DC) in font [lmroman10-regular]:+tlig;!
+Missing character: There is no ֹ (U+05B9) in font [lmroman10-regular]:+tlig;!
+Missing character: There is no ֣ (U+05A3) in font [lmroman10-regular]:+tlig;!
+Missing character: There is no א (U+05D0) in font [lmroman10-regular]:+tlig;!
+Missing character: There is no ת (U+05EA) in font [lmroman10-regular]:+tlig;!
+Missing character: There is no ִ (U+05B4) in font [lmroman10-regular]:+tlig;!
+Missing character: There is no ל (U+05DC) in font [lmroman10-regular]:+tlig;!
+Missing character: There is no ְ (U+05B0) in font [lmroman10-regular]:+tlig;!
+Missing character: There is no ח (U+05D7) in font [lmroman10-regular]:+tlig;!
+Missing character: There is no ָ (U+05B8) in font [lmroman10-regular]:+tlig;!
+Missing character: There is no ֑ (U+0591) in font [lmroman10-regular]:+tlig;!
+Missing character: There is no ץ (U+05E5) in font [lmroman10-regular]:+tlig;!
+Missing character: There is no ו (U+05D5) in font [lmroman10-regular]:+tlig;!
+Missing character: There is no ְ (U+05B0) in font [lmroman10-regular]:+tlig;!
+Missing character: There is no א (U+05D0) in font [lmroman10-regular]:+tlig;!
+Missing character: There is no ַ (U+05B7) in font [lmroman10-regular]:+tlig;!
+Missing character: There is no ת (U+05EA) in font [lmroman10-regular]:+tlig;!
+Missing character: There is no ֶ (U+05B6) in font [lmroman10-regular]:+tlig;!
+Missing character: There is no ּ (U+05BC) in font [lmroman10-regular]:+tlig;!
+Missing character: There is no ֗ (U+0597) in font [lmroman10-regular]:+tlig;!
+Missing character: There is no ם (U+05DD) in font [lmroman10-regular]:+tlig;!
+Missing character: There is no י (U+05D9) in font [lmroman10-regular]:+tlig;!
+Missing character: There is no ְ (U+05B0) in font [lmroman10-regular]:+tlig;!
+Missing character: There is no ד (U+05D3) in font [lmroman10-regular]:+tlig;!
+Missing character: There is no ַ (U+05B7) in font [lmroman10-regular]:+tlig;!
+Missing character: There is no ע (U+05E2) in font [lmroman10-regular]:+tlig;!
+Missing character: There is no ְ (U+05B0) in font [lmroman10-regular]:+tlig;!
+Missing character: There is no ת (U+05EA) in font [lmroman10-regular]:+tlig;!
+Missing character: There is no ֶ (U+05B6) in font [lmroman10-regular]:+tlig;!
+Missing character: There is no ּ (U+05BC) in font [lmroman10-regular]:+tlig;!
+Missing character: There is no ם (U+05DD) in font [lmroman10-regular]:+tlig;!
+Missing character: There is no ֙ (U+0599) in font [lmroman10-regular]:+tlig;!
+Missing character: There is no א (U+05D0) in font [lmroman10-regular]:+tlig;!
+Missing character: There is no ֶ (U+05B6) in font [lmroman10-regular]:+tlig;!
+Missing character: There is no ת (U+05EA) in font [lmroman10-regular]:+tlig;!
+Missing character: There is no ־ (U+05BE) in font [lmroman10-regular]:+tlig;!
+Missing character: There is no נ (U+05E0) in font [lmroman10-regular]:+tlig;!
+Missing character: There is no ֶ (U+05B6) in font [lmroman10-regular]:+tlig;!
+Missing character: There is no ֣ (U+05A3) in font [lmroman10-regular]:+tlig;!
+Missing character: There is no פ (U+05E4) in font [lmroman10-regular]:+tlig;!
+Missing character: There is no ֶ (U+05B6) in font [lmroman10-regular]:+tlig;!
+Missing character: There is no ש (U+05E9) in font [lmroman10-regular]:+tlig;!
+Missing character: There is no ׁ (U+05C1) in font [lmroman10-regular]:+tlig;!
+Missing character: There is no ה (U+05D4) in font [lmroman10-regular]:+tlig;!
+Missing character: There is no ַ (U+05B7) in font [lmroman10-regular]:+tlig;!
+Missing character: There is no ג (U+05D2) in font [lmroman10-regular]:+tlig;!
+Missing character: There is no ֵ (U+05B5) in font [lmroman10-regular]:+tlig;!
+Missing character: There is no ּ (U+05BC) in font [lmroman10-regular]:+tlig;!
+Missing character: There is no ֔ (U+0594) in font [lmroman10-regular]:+tlig;!
+Missing character: There is no ר (U+05E8) in font [lmroman10-regular]:+tlig;!
+Missing character: There is no כ (U+05DB) in font [lmroman10-regular]:+tlig;!
+Missing character: There is no ִ (U+05B4) in font [lmroman10-regular]:+tlig;!
+Missing character: There is no ּ (U+05BC) in font [lmroman10-regular]:+tlig;!
+Missing character: There is no ֽ (U+05BD) in font [lmroman10-regular]:+tlig;!
+Missing character: There is no י (U+05D9) in font [lmroman10-regular]:+tlig;!
+Missing character: There is no ־ (U+05BE) in font [lmroman10-regular]:+tlig;!
+Missing character: There is no ג (U+05D2) in font [lmroman10-regular]:+tlig;!
+Missing character: There is no ֵ (U+05B5) in font [lmroman10-regular]:+tlig;!
+Missing character: There is no ר (U+05E8) in font [lmroman10-regular]:+tlig;!
+Missing character: There is no ִ (U+05B4) in font [lmroman10-regular]:+tlig;!
+Missing character: There is no ֥ (U+05A5) in font [lmroman10-regular]:+tlig;!
+Missing character: There is no י (U+05D9) in font [lmroman10-regular]:+tlig;!
+Missing character: There is no ם (U+05DD) in font [lmroman10-regular]:+tlig;!
+Missing character: There is no ה (U+05D4) in font [lmroman10-regular]:+tlig;!
+Missing character: There is no ֱ (U+05B1) in font [lmroman10-regular]:+tlig;!
+Missing character: There is no י (U+05D9) in font [lmroman10-regular]:+tlig;!
+Missing character: There is no ִ (U+05B4) in font [lmroman10-regular]:+tlig;!
+Missing character: There is no י (U+05D9) in font [lmroman10-regular]:+tlig;!
+Missing character: There is no ת (U+05EA) in font [lmroman10-regular]:+tlig;!
+Missing character: There is no ֶ (U+05B6) in font [lmroman10-regular]:+tlig;!
+Missing character: There is no ֖ (U+0596) in font [lmroman10-regular]:+tlig;!
+Missing character: There is no ם (U+05DD) in font [lmroman10-regular]:+tlig;!
+Missing character: There is no ב (U+05D1) in font [lmroman10-regular]:+tlig;!
+Missing character: There is no ְ (U+05B0) in font [lmroman10-regular]:+tlig;!
+Missing character: There is no ּ (U+05BC) in font [lmroman10-regular]:+tlig;!
+Missing character: There is no א (U+05D0) in font [lmroman10-regular]:+tlig;!
+Missing character: There is no ֶ (U+05B6) in font [lmroman10-regular]:+tlig;!
+Missing character: There is no ֥ (U+05A5) in font [lmroman10-regular]:+tlig;!
+Missing character: There is no ר (U+05E8) in font [lmroman10-regular]:+tlig;!
+Missing character: There is no ֶ (U+05B6) in font [lmroman10-regular]:+tlig;!
+Missing character: There is no ץ (U+05E5) in font [lmroman10-regular]:+tlig;!
+Missing character: There is no מ (U+05DE) in font [lmroman10-regular]:+tlig;!
+Missing character: There is no ִ (U+05B4) in font [lmroman10-regular]:+tlig;!
+Missing character: There is no צ (U+05E6) in font [lmroman10-regular]:+tlig;!
+Missing character: There is no ְ (U+05B0) in font [lmroman10-regular]:+tlig;!
+Missing character: There is no ר (U+05E8) in font [lmroman10-regular]:+tlig;!
+Missing character: There is no ָ (U+05B8) in font [lmroman10-regular]:+tlig;!
+Missing character: There is no ֽ (U+05BD) in font [lmroman10-regular]:+tlig;!
+Missing character: There is no י (U+05D9) in font [lmroman10-regular]:+tlig;!
+Missing character: There is no ִ (U+05B4) in font [lmroman10-regular]:+tlig;!
+Missing character: There is no ם (U+05DD) in font [lmroman10-regular]:+tlig;!
+Missing character: There is no ׃ (U+05C3) in font [lmroman10-regular]:+tlig;!
+Missing character: There is no א (U+05D0) in font [lmroman10-regular]:+tlig;!
+Missing character: There is no ֵ (U+05B5) in font [lmroman10-regular]:+tlig;!
+Missing character: There is no ל (U+05DC) in font [lmroman10-regular]:+tlig;!
+Missing character: There is no י (U+05D9) in font [lmroman10-regular]:+tlig;!
+Missing character: There is no ִ (U+05B4) in font [lmroman10-regular]:+tlig;!
+Missing character: There is no ּ (U+05BC) in font [lmroman10-regular]:+tlig;!
+Missing character: There is no ה (U+05D4) in font [lmroman10-regular]:+tlig;!
+Missing character: There is no ָ (U+05B8) in font [lmroman10-regular]:+tlig;!
+Missing character: There is no ּ (U+05BC) in font [lmroman10-regular]:+tlig;!
+Missing character: There is no ו (U+05D5) in font [lmroman10-regular]:+tlig;!
+Missing character: There is no ּ (U+05BC) in font [lmroman10-regular]:+tlig;!
+Missing character: There is no ה (U+05D4) in font [lmroman10-regular]:+tlig;!
+Missing character: There is no ַ (U+05B7) in font [lmroman10-regular]:+tlig;!
+Missing character: There is no נ (U+05E0) in font [lmroman10-regular]:+tlig;!
+Missing character: There is no ּ (U+05BC) in font [lmroman10-regular]:+tlig;!
+Missing character: There is no ב (U+05D1) in font [lmroman10-regular]:+tlig;!
+Missing character: There is no ָ (U+05B8) in font [lmroman10-regular]:+tlig;!
+Missing character: There is no ּ (U+05BC) in font [lmroman10-regular]:+tlig;!
+Missing character: There is no י (U+05D9) in font [lmroman10-regular]:+tlig;!
+Missing character: There is no ִ (U+05B4) in font [lmroman10-regular]:+tlig;!
+Missing character: There is no א (U+05D0) in font [lmroman10-regular]:+tlig;!
+Missing character: There is no א (U+05D0) in font [lmroman10-regular]:+tlig;!
+Missing character: There is no ֵ (U+05B5) in font [lmroman10-regular]:+tlig;!
+Missing character: There is no ל (U+05DC) in font [lmroman10-regular]:+tlig;!
+Missing character: There is no י (U+05D9) in font [lmroman10-regular]:+tlig;!
+Missing character: There is no ִ (U+05B4) in font [lmroman10-regular]:+tlig;!
+Missing character: There is no ּ (U+05BC) in font [lmroman10-regular]:+tlig;!
+Missing character: There is no ה (U+05D4) in font [lmroman10-regular]:+tlig;!
+Missing character: There is no ָ (U+05B8) in font [lmroman10-regular]:+tlig;!
+Missing character: There is no ּ (U+05BC) in font [lmroman10-regular]:+tlig;!
+Missing character: There is no ו (U+05D5) in font [lmroman10-regular]:+tlig;!
+Missing character: There is no ְ (U+05B0) in font [lmroman10-regular]:+tlig;!
+Missing character: There is no ּ (U+05BC) in font [lmroman10-regular]:+tlig;!
+Missing character: There is no ּ (U+05BC) in font [lmroman10-regular]:+tlig;!
+Missing character: There is no ה (U+05D4) in font [lmroman10-regular]:+tlig;!
+Missing character: There is no ַ (U+05B7) in font [lmroman10-regular]:+tlig;!
+Missing character: There is no ת (U+05EA) in font [lmroman10-regular]:+tlig;!
+Missing character: There is no ִ (U+05B4) in font [lmroman10-regular]:+tlig;!
+Missing character: There is no ש (U+05E9) in font [lmroman10-regular]:+tlig;!
+Missing character: There is no ב (U+05D1) in font [lmroman10-regular]:+tlig;!
+Missing character: There is no י (U+05D9) in font [lmroman10-regular]:+tlig;!
+Missing character: There is no ִ (U+05B4) in font [lmroman10-regular]:+tlig;!
+Missing character: There is no א (U+05D0) in font [lmroman10-regular]:+tlig;!
+Missing character: There is no ֵ (U+05B5) in font [lmroman10-regular]:+tlig;!
+Missing character: There is no ל (U+05DC) in font [lmroman10-regular]:+tlig;!
+Missing character: There is no י (U+05D9) in font [lmroman10-regular]:+tlig;!
+Missing character: There is no ִ (U+05B4) in font [lmroman10-regular]:+tlig;!
+Missing character: There is no ּ (U+05BC) in font [lmroman10-regular]:+tlig;!
+Missing character: There is no ה (U+05D4) in font [lmroman10-regular]:+tlig;!
+Missing character: There is no ָ (U+05B8) in font [lmroman10-regular]:+tlig;!
+Missing character: There is no ּ (U+05BC) in font [lmroman10-regular]:+tlig;!
+Missing character: There is no ו (U+05D5) in font [lmroman10-regular]:+tlig;!
+Missing character: There is no ּ (U+05BC) in font [lmroman10-regular]:+tlig;!
+Missing character: There is no א (U+05D0) in font [lmroman10-regular]:+tlig;!
+Missing character: There is no ֵ (U+05B5) in font [lmroman10-regular]:+tlig;!
+Missing character: There is no ל (U+05DC) in font [lmroman10-regular]:+tlig;!
+Missing character: There is no י (U+05D9) in font [lmroman10-regular]:+tlig;!
+Missing character: There is no ִ (U+05B4) in font [lmroman10-regular]:+tlig;!
+Missing character: There is no ּ (U+05BC) in font [lmroman10-regular]:+tlig;!
+Missing character: There is no ה (U+05D4) in font [lmroman10-regular]:+tlig;!
+Missing character: There is no ָ (U+05B8) in font [lmroman10-regular]:+tlig;!
+Missing character: There is no ּ (U+05BC) in font [lmroman10-regular]:+tlig;!
+Missing character: There is no ו (U+05D5) in font [lmroman10-regular]:+tlig;!
+Missing character: There is no ּ (U+05BC) in font [lmroman10-regular]:+tlig;!
+Missing character: There is no א (U+05D0) in font [lmroman10-regular]:+tlig;!
+Missing character: There is no ֵ (U+05B5) in font [lmroman10-regular]:+tlig;!
+Missing character: There is no ל (U+05DC) in font [lmroman10-regular]:+tlig;!
+Missing character: There is no י (U+05D9) in font [lmroman10-regular]:+tlig;!
+Missing character: There is no ִ (U+05B4) in font [lmroman10-regular]:+tlig;!
+Missing character: There is no ּ (U+05BC) in font [lmroman10-regular]:+tlig;!
+Missing character: There is no ה (U+05D4) in font [lmroman10-regular]:+tlig;!
+Missing character: There is no ָ (U+05B8) in font [lmroman10-regular]:+tlig;!
+Missing character: There is no ּ (U+05BC) in font [lmroman10-regular]:+tlig;!
+Missing character: There is no ו (U+05D5) in font [lmroman10-regular]:+tlig;!
+Missing character: There is no ְ (U+05B0) in font [lmroman10-regular]:+tlig;!
+Missing character: There is no ּ (U+05BC) in font [lmroman10-regular]:+tlig;!
+Missing character: There is no ּ (U+05BC) in font [lmroman10-regular]:+tlig;!
+Missing character: There is no ה (U+05D4) in font [lmroman10-regular]:+tlig;!
+Missing character: There is no ַ (U+05B7) in font [lmroman10-regular]:+tlig;!
+Missing character: There is no ג (U+05D2) in font [lmroman10-regular]:+tlig;!
+Missing character: There is no ּ (U+05BC) in font [lmroman10-regular]:+tlig;!
+Missing character: There is no ל (U+05DC) in font [lmroman10-regular]:+tlig;!
+Missing character: There is no ִ (U+05B4) in font [lmroman10-regular]:+tlig;!
+Missing character: There is no ע (U+05E2) in font [lmroman10-regular]:+tlig;!
+Missing character: There is no ָ (U+05B8) in font [lmroman10-regular]:+tlig;!
+Missing character: There is no ּ (U+05BC) in font [lmroman10-regular]:+tlig;!
+Missing character: There is no ד (U+05D3) in font [lmroman10-regular]:+tlig;!
+Missing character: There is no ִ (U+05B4) in font [lmroman10-regular]:+tlig;!
+Missing character: There is no י (U+05D9) in font [lmroman10-regular]:+tlig;!
+Missing character: There is no ב (U+05D1) in font [lmroman10-regular]:+tlig;!
+Missing character: There is no מ (U+05DE) in font [lmroman10-regular]:+tlig;!
+Missing character: There is no ִ (U+05B4) in font [lmroman10-regular]:+tlig;!
+Missing character: There is no ה (U+05D4) in font [lmroman10-regular]:+tlig;!
+Missing character: There is no ֵ (U+05B5) in font [lmroman10-regular]:+tlig;!
+Missing character: There is no ר (U+05E8) in font [lmroman10-regular]:+tlig;!
+Missing character: There is no ָ (U+05B8) in font [lmroman10-regular]:+tlig;!
+Missing character: There is no ּ (U+05BC) in font [lmroman10-regular]:+tlig;!
+Missing character: There is no ה (U+05D4) in font [lmroman10-regular]:+tlig;!
+Missing character: There is no ב (U+05D1) in font [lmroman10-regular]:+tlig;!
+Missing character: There is no י (U+05D9) in font [lmroman10-regular]:+tlig;!
+Missing character: There is no מ (U+05DE) in font [lmroman10-regular]:+tlig;!
+Missing character: There is no ֵ (U+05B5) in font [lmroman10-regular]:+tlig;!
+Missing character: There is no ָ (U+05B8) in font [lmroman10-regular]:+tlig;!
+Missing character: There is no ּ (U+05BC) in font [lmroman10-regular]:+tlig;!
+Missing character: There is no נ (U+05E0) in font [lmroman10-regular]:+tlig;!
+Missing character: There is no ו (U+05D5) in font [lmroman10-regular]:+tlig;!
+Missing character: There is no ְ (U+05B0) in font [lmroman10-regular]:+tlig;!
+Missing character: There is no ּ (U+05BC) in font [lmroman10-regular]:+tlig;!
+Missing character: There is no י (U+05D9) in font [lmroman10-regular]:+tlig;!
+Missing character: There is no ב (U+05D1) in font [lmroman10-regular]:+tlig;!
+Missing character: There is no ָ (U+05B8) in font [lmroman10-regular]:+tlig;!
+Missing character: There is no ּ (U+05BC) in font [lmroman10-regular]:+tlig;!
+Missing character: There is no ֹ (U+05B9) in font [lmroman10-regular]:+tlig;!
+Missing character: There is no ו (U+05D5) in font [lmroman10-regular]:+tlig;!
+Missing character: There is no א (U+05D0) in font [lmroman10-regular]:+tlig;!
+Missing character: There is no ֵ (U+05B5) in font [lmroman10-regular]:+tlig;!
+Missing character: There is no א (U+05D0) in font [lmroman10-regular]:+tlig;!
+Missing character: There is no ל (U+05DC) in font [lmroman10-regular]:+tlig;!
+Missing character: There is no י (U+05D9) in font [lmroman10-regular]:+tlig;!
+Missing character: There is no ֵ (U+05B5) in font [lmroman10-regular]:+tlig;!
+Missing character: There is no נ (U+05E0) in font [lmroman10-regular]:+tlig;!
+Missing character: There is no ו (U+05D5) in font [lmroman10-regular]:+tlig;!
+Missing character: There is no ּ (U+05BC) in font [lmroman10-regular]:+tlig;!
+Missing character: There is no ע (U+05E2) in font [lmroman10-regular]:+tlig;!
+Missing character: There is no ִ (U+05B4) in font [lmroman10-regular]:+tlig;!
+Missing character: There is no ם (U+05DD) in font [lmroman10-regular]:+tlig;!
+Missing character: There is no מ (U+05DE) in font [lmroman10-regular]:+tlig;!
+Missing character: There is no ָ (U+05B8) in font [lmroman10-regular]:+tlig;!
+Missing character: There is no ּ (U+05BC) in font [lmroman10-regular]:+tlig;!
+Missing character: There is no ש (U+05E9) in font [lmroman10-regular]:+tlig;!
+Missing character: There is no ְ (U+05B0) in font [lmroman10-regular]:+tlig;!
+Missing character: There is no ִ (U+05B4) in font [lmroman10-regular]:+tlig;!
+Missing character: There is no ּ (U+05BC) in font [lmroman10-regular]:+tlig;!
+Missing character: There is no י (U+05D9) in font [lmroman10-regular]:+tlig;!
+Missing character: There is no ח (U+05D7) in font [lmroman10-regular]:+tlig;!
+Missing character: There is no ְ (U+05B0) in font [lmroman10-regular]:+tlig;!
+Missing character: There is no ַ (U+05B7) in font [lmroman10-regular]:+tlig;!
+Missing character: There is no ּ (U+05BC) in font [lmroman10-regular]:+tlig;!
+Missing character: There is no ב (U+05D1) in font [lmroman10-regular]:+tlig;!
+Missing character: There is no ן (U+05DF) in font [lmroman10-regular]:+tlig;!
+Missing character: There is no ּ (U+05BC) in font [lmroman10-regular]:+tlig;!
+Missing character: There is no ְ (U+05B0) in font [lmroman10-regular]:+tlig;!
+Missing character: There is no ֶ (U+05B6) in font [lmroman10-regular]:+tlig;!
+Missing character: There is no ּ (U+05BC) in font [lmroman10-regular]:+tlig;!
+Missing character: There is no ּ (U+05BC) in font [lmroman10-regular]:+tlig;!
+Missing character: There is no ד (U+05D3) in font [lmroman10-regular]:+tlig;!
+Missing character: There is no ָ (U+05B8) in font [lmroman10-regular]:+tlig;!
+Missing character: There is no ּ (U+05BC) in font [lmroman10-regular]:+tlig;!
+Missing character: There is no ו (U+05D5) in font [lmroman10-regular]:+tlig;!
+Missing character: There is no ד (U+05D3) in font [lmroman10-regular]:+tlig;!
+Missing character: There is no ִ (U+05B4) in font [lmroman10-regular]:+tlig;!
+Missing character: There is no ע (U+05E2) in font [lmroman10-regular]:+tlig;!
+Missing character: There is no ם (U+05DD) in font [lmroman10-regular]:+tlig;!
+Missing character: There is no ְ (U+05B0) in font [lmroman10-regular]:+tlig;!
+Missing character: There is no ִ (U+05B4) in font [lmroman10-regular]:+tlig;!
+Missing character: There is no ּ (U+05BC) in font [lmroman10-regular]:+tlig;!
+Missing character: There is no מ (U+05DE) in font [lmroman10-regular]:+tlig;!
+Missing character: There is no ָ (U+05B8) in font [lmroman10-regular]:+tlig;!
+Missing character: There is no ּ (U+05BC) in font [lmroman10-regular]:+tlig;!
+Missing character: There is no ש (U+05E9) in font [lmroman10-regular]:+tlig;!
+Missing character: There is no ִ (U+05B4) in font [lmroman10-regular]:+tlig;!
+Missing character: There is no י (U+05D9) in font [lmroman10-regular]:+tlig;!
+Missing character: There is no ח (U+05D7) in font [lmroman10-regular]:+tlig;!
+Missing character: There is no ְ (U+05B0) in font [lmroman10-regular]:+tlig;!
+Missing character: There is no ַ (U+05B7) in font [lmroman10-regular]:+tlig;!
+Missing character: There is no ּ (U+05BC) in font [lmroman10-regular]:+tlig;!
+Missing character: There is no ב (U+05D1) in font [lmroman10-regular]:+tlig;!
+Missing character: There is no ן (U+05DF) in font [lmroman10-regular]:+tlig;!
+Missing character: There is no ּ (U+05BC) in font [lmroman10-regular]:+tlig;!
+Missing character: There is no ְ (U+05B0) in font [lmroman10-regular]:+tlig;!
+Missing character: There is no ֶ (U+05B6) in font [lmroman10-regular]:+tlig;!
+Missing character: There is no ּ (U+05BC) in font [lmroman10-regular]:+tlig;!
+Missing character: There is no ּ (U+05BC) in font [lmroman10-regular]:+tlig;!
+Missing character: There is no ד (U+05D3) in font [lmroman10-regular]:+tlig;!
+Missing character: There is no ָ (U+05B8) in font [lmroman10-regular]:+tlig;!
+Missing character: There is no ּ (U+05BC) in font [lmroman10-regular]:+tlig;!
+Missing character: There is no ו (U+05D5) in font [lmroman10-regular]:+tlig;!
+Missing character: There is no ד (U+05D3) in font [lmroman10-regular]:+tlig;!
+Missing character: There is no ְ (U+05B0) in font [lmroman10-regular]:+tlig;!
+Missing character: There is no ִ (U+05B4) in font [lmroman10-regular]:+tlig;!
+Missing character: There is no ּ (U+05BC) in font [lmroman10-regular]:+tlig;!
+]
 Package microtype Info: Loading generic protrusion settings for font family
 (microtype)             `lmtt' (encoding: TU).
 (microtype)             For optimal results, create family-specific settings.
 (microtype)             See the microtype manual for details.
 
 
-[14
-Missing character: There is no ל (U+05DC) in font [lmroman10-regular]:+tlig;!
-Missing character: There is no ש (U+05E9) in font [lmroman10-regular]:+tlig;!
-Missing character: There is no ָ (U+05B8) in font [lmroman10-regular]:+tlig;!
-Missing character: There is no ּ (U+05BC) in font [lmroman10-regular]:+tlig;!
-Missing character: There is no נ (U+05E0) in font [lmroman10-regular]:+tlig;!
-Missing character: There is no ה (U+05D4) in font [lmroman10-regular]:+tlig;!
-Missing character: There is no ְ (U+05B0) in font [lmroman10-regular]:+tlig;!
-Missing character: There is no ָ (U+05B8) in font [lmroman10-regular]:+tlig;!
-Missing character: There is no ּ (U+05BC) in font [lmroman10-regular]:+tlig;!
-Missing character: There is no ּ (U+05BC) in font [lmroman10-regular]:+tlig;!
-Missing character: There is no ה (U+05D4) in font [lmroman10-regular]:+tlig;!
-Missing character: There is no ַ (U+05B7) in font [lmroman10-regular]:+tlig;!
-Missing character: There is no ב (U+05D1) in font [lmroman10-regular]:+tlig;!
-Missing character: There is no א (U+05D0) in font [lmroman10-regular]:+tlig;!
-Missing character: There is no ָ (U+05B8) in font [lmroman10-regular]:+tlig;!
-Missing character: There is no ּ (U+05BC) in font [lmroman10-regular]:+tlig;!
-Missing character: There is no ּ (U+05BC) in font [lmroman10-regular]:+tlig;!
-Missing character: There is no ה (U+05D4) in font [lmroman10-regular]:+tlig;!
-Missing character: There is no ב (U+05D1) in font [lmroman10-regular]:+tlig;!
-Missing character: There is no י (U+05D9) in font [lmroman10-regular]:+tlig;!
-Missing character: There is no ִ (U+05B4) in font [lmroman10-regular]:+tlig;!
-Missing character: There is no ר (U+05E8) in font [lmroman10-regular]:+tlig;!
-Missing character: There is no ו (U+05D5) in font [lmroman10-regular]:+tlig;!
-Missing character: There is no ש (U+05E9) in font [lmroman10-regular]:+tlig;!
-Missing character: There is no ָ (U+05B8) in font [lmroman10-regular]:+tlig;!
-Missing character: There is no ּ (U+05BC) in font [lmroman10-regular]:+tlig;!
-Missing character: There is no ל (U+05DC) in font [lmroman10-regular]:+tlig;!
-Missing character: There is no י (U+05D9) in font [lmroman10-regular]:+tlig;!
-Missing character: There is no ָ (U+05B8) in font [lmroman10-regular]:+tlig;!
-Missing character: There is no ּ (U+05BC) in font [lmroman10-regular]:+tlig;!
-Missing character: There is no ִ (U+05B4) in font [lmroman10-regular]:+tlig;!
-Missing character: There is no ם (U+05DD) in font [lmroman10-regular]:+tlig;!
-Missing character: There is no ְ (U+05B0) in font [lmroman10-regular]:+tlig;!
-Missing character: There is no ּ (U+05BC) in font [lmroman10-regular]:+tlig;!
-] (./haggadah.aux)
+[23] (./haggadah.aux)
  ***********
 LaTeX2e <2024-11-01> patch level 2
 L3 programming layer <2020/03/25>
@@ -3210,29 +3582,30 @@ L3 programming layer <2020/03/25>
 )
 
 Here is how much of LuaTeX's memory you used:
- 15118 strings out of 475506
- 125061,953878 words of node,token memory allocated
- 1300 words of node memory still in use:
-   5 hlist, 1 vlist, 1 rule, 1 local_par, 8 glue, 3 kern, 1 penalty, 3 glyph, 11
- attribute, 204 glue_spec, 11 attribute_list, 2 write nodes
-   avail lists: 1:1,2:1211,3:708,4:336,5:299,6:135,7:4197,8:5,9:1255,10:20,11:16
-6
- 37840 multiletter control sequences out of 65536+600000
- 44 fonts using 3248855 bytes
+ 15126 strings out of 475506
+ 125061,1144653 words of node,token memory allocated
+ 2424 words of node memory still in use:
+   5 hlist, 1 vlist, 1 rule, 1 local_par, 92 glue, 3 kern, 1 penalty, 3 glyph, 9
+5 attribute, 244 glue_spec, 95 attribute_list, 2 write nodes
+   avail lists: 1:1,2:1043,3:708,4:336,5:379,6:135,7:5866,8:5,9:1255,10:41,11:22
+2
+ 37848 multiletter control sequences out of 65536+600000
+ 48 fonts using 3605751 bytes
  85i,15n,91p,1010b,1109s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <c:/users/gamergurl/appdata/local/programs/miktex/fonts/opentype/public/lm/lmmon
 o8-regular.otf><c:/users/gamergurl/appdata/local/programs/miktex/fonts/opentype/
 public/lm/lmroman12-regular.otf><c:/users/gamergurl/appdata/local/programs/mikte
-x/fonts/opentype/public/lm/lmroman10-italic.otf><C:/Users/Gamergurl/AppData/Loca
-l/Microsoft/Windows/Fonts/new-peninim-mt-2.ttf><c:/users/gamergurl/appdata/local
-/programs/miktex/fonts/opentype/public/lm/lmroman12-bold.otf><c:/users/gamergurl
-/appdata/local/programs/miktex/fonts/opentype/public/lm/lmroman6-regular.otf><c:
-/users/gamergurl/appdata/local/programs/miktex/fonts/opentype/public/lm/lmroman1
-7-regular.otf><c:/users/gamergurl/appdata/local/programs/miktex/fonts/opentype/p
-ublic/lm/lmroman10-regular.otf>
-Output written on haggadah.pdf (14 pages, 681922 bytes).
+x/fonts/opentype/public/lm/lmroman12-italic.otf><c:/users/gamergurl/appdata/loca
+l/programs/miktex/fonts/opentype/public/lm/lmroman10-italic.otf><C:/Users/Gamerg
+url/AppData/Local/Microsoft/Windows/Fonts/new-peninim-mt-2.ttf><c:/users/gamergu
+rl/appdata/local/programs/miktex/fonts/opentype/public/lm/lmroman12-bold.otf><c:
+/users/gamergurl/appdata/local/programs/miktex/fonts/opentype/public/lm/lmroman6
+-regular.otf><c:/users/gamergurl/appdata/local/programs/miktex/fonts/opentype/pu
+blic/lm/lmroman17-regular.otf><c:/users/gamergurl/appdata/local/programs/miktex/
+fonts/opentype/public/lm/lmroman10-regular.otf>
+Output written on haggadah.pdf (23 pages, 709700 bytes).
 
-PDF statistics: 110 PDF objects out of 1000 (max. 8388607)
+PDF statistics: 145 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 131072)
  1 words of extra memory for PDF output out of 10000 (max. 100000000)
 
