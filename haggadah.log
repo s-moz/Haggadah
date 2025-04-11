@@ -1,4 +1,4 @@
-This is LuaHBTeX, Version 1.21.0 (MiKTeX 25.3) (format=lualatex 2025.4.3)  11 APR 2025 10:41
+This is LuaHBTeX, Version 1.21.0 (MiKTeX 25.3) (format=lualatex 2025.4.3)  11 APR 2025 10:45
  restricted system commands enabled.
 **haggadah.tex
 (./haggadah.tex
@@ -2516,17 +2516,17 @@ and I'll forget about whatever was undefined.
 <Miriam.png, id=28, 181.8795pt x 315.579pt>
 File: Miriam.png Graphic file (type png)
 <use Miriam.png>
-Package luatex.def Info: Miriam.png  used on input line 176.
+Package luatex.def Info: Miriam.png  used on input line 177.
 (luatex.def)             Requested size: 28.45274pt x 49.36687pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 181--181
+Underfull \hbox (badness 10000) in paragraph at lines 182--182
 
  []
 
 <Karpas.png, id=29, 69.25874pt x 122.25674pt>
 File: Karpas.png Graphic file (type png)
 <use Karpas.png>
-Package luatex.def Info: Karpas.png  used on input line 185.
+Package luatex.def Info: Karpas.png  used on input line 186.
 (luatex.def)             Requested size: 28.45274pt x 50.22446pt.
 
 
@@ -2534,7 +2534,7 @@ Package luatex.def Info: Karpas.png  used on input line 185.
 ! Undefined control sequence.
 <argument> \shape 
                   כַּרְפַּס
-l.187 ...} : Karpas : Green Spring Herbs : Karpas}
+l.188 ...} : Karpas : Green Spring Herbs : Karpas}
                                                   
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -2545,7 +2545,7 @@ and I'll forget about whatever was undefined.
 ! Undefined control sequence.
 \largehebrew #1->\LARGE \texthebrew {\shape 
                                             #1} \normalsize 
-l.187 ...} : Karpas : Green Spring Herbs : Karpas}
+l.188 ...} : Karpas : Green Spring Herbs : Karpas}
                                                   
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -2556,7 +2556,7 @@ and I'll forget about whatever was undefined.
 ! Undefined control sequence.
 \largehebrew #1->\LARGE \texthebrew {\shape 
                                             #1} \normalsize 
-l.187 ...} : Karpas : Green Spring Herbs : Karpas}
+l.188 ...} : Karpas : Green Spring Herbs : Karpas}
                                                   
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -2567,7 +2567,7 @@ and I'll forget about whatever was undefined.
 ! Undefined control sequence.
 \largehebrew #1->\LARGE \texthebrew {\shape 
                                             #1} \normalsize 
-l.187 ...} : Karpas : Green Spring Herbs : Karpas}
+l.188 ...} : Karpas : Green Spring Herbs : Karpas}
                                                   
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -2578,7 +2578,7 @@ and I'll forget about whatever was undefined.
 ! Undefined control sequence.
 \largehebrew #1->\LARGE \texthebrew {\shape 
                                             #1} \normalsize 
-l.187 ...} : Karpas : Green Spring Herbs : Karpas}
+l.188 ...} : Karpas : Green Spring Herbs : Karpas}
                                                   
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -2589,7 +2589,7 @@ and I'll forget about whatever was undefined.
 ! Undefined control sequence.
 <argument> \shape 
                   יַחַץ
-l.190 ... : Yachatz: Bread of Affliction : Jachac}
+l.191 ... : Yachatz: Bread of Affliction : Jachac}
                                                   
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -2600,7 +2600,7 @@ and I'll forget about whatever was undefined.
 ! Undefined control sequence.
 \largehebrew #1->\LARGE \texthebrew {\shape 
                                             #1} \normalsize 
-l.190 ... : Yachatz: Bread of Affliction : Jachac}
+l.191 ... : Yachatz: Bread of Affliction : Jachac}
                                                   
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -2611,7 +2611,7 @@ and I'll forget about whatever was undefined.
 ! Undefined control sequence.
 \largehebrew #1->\LARGE \texthebrew {\shape 
                                             #1} \normalsize 
-l.190 ... : Yachatz: Bread of Affliction : Jachac}
+l.191 ... : Yachatz: Bread of Affliction : Jachac}
                                                   
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -2622,7 +2622,7 @@ and I'll forget about whatever was undefined.
 ! Undefined control sequence.
 \largehebrew #1->\LARGE \texthebrew {\shape 
                                             #1} \normalsize 
-l.190 ... : Yachatz: Bread of Affliction : Jachac}
+l.191 ... : Yachatz: Bread of Affliction : Jachac}
                                                   
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -2633,7 +2633,7 @@ and I'll forget about whatever was undefined.
 ! Undefined control sequence.
 \largehebrew #1->\LARGE \texthebrew {\shape 
                                             #1} \normalsize 
-l.190 ... : Yachatz: Bread of Affliction : Jachac}
+l.191 ... : Yachatz: Bread of Affliction : Jachac}
                                                   
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -2647,7 +2647,7 @@ and I'll forget about whatever was undefined.
 ! Undefined control sequence.
 <argument> \shape 
                   ארבעה
-l.193 ...e Four : čtyři otázky a čtyři děti}
+l.194 ...e Four : čtyři otázky a čtyři děti}
                                                   
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -2658,7 +2658,7 @@ and I'll forget about whatever was undefined.
 ! Undefined control sequence.
 \largehebrew #1->\LARGE \texthebrew {\shape 
                                             #1} \normalsize 
-l.193 ...e Four : čtyři otázky a čtyři děti}
+l.194 ...e Four : čtyři otázky a čtyři děti}
                                                   
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -2669,7 +2669,7 @@ and I'll forget about whatever was undefined.
 ! Undefined control sequence.
 \largehebrew #1->\LARGE \texthebrew {\shape 
                                             #1} \normalsize 
-l.193 ...e Four : čtyři otázky a čtyři děti}
+l.194 ...e Four : čtyři otázky a čtyři děti}
                                                   
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -2680,7 +2680,7 @@ and I'll forget about whatever was undefined.
 ! Undefined control sequence.
 \largehebrew #1->\LARGE \texthebrew {\shape 
                                             #1} \normalsize 
-l.193 ...e Four : čtyři otázky a čtyři děti}
+l.194 ...e Four : čtyři otázky a čtyři děti}
                                                   
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -2691,7 +2691,7 @@ and I'll forget about whatever was undefined.
 ! Undefined control sequence.
 \largehebrew #1->\LARGE \texthebrew {\shape 
                                             #1} \normalsize 
-l.193 ...e Four : čtyři otázky a čtyři děti}
+l.194 ...e Four : čtyři otázky a čtyři děti}
                                                   
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -2702,7 +2702,7 @@ and I'll forget about whatever was undefined.
 ! Undefined control sequence.
 \MaNishtana -> {\doublespacing 
                                \vspace *{2ex} \color {black}Ty čtyři otáz...
-l.197 \MaNishtana
+l.198 \MaNishtana
                  
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -2795,7 +2795,7 @@ Package microtype Info: Character `textquestiondown ' is missing
 <argument> \shape 
                   מַה נִּשְׁתַּנָּה הַלַּיְלָה הַ...
 
-l.197 \MaNishtana
+l.198 \MaNishtana
                  
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -2810,7 +2810,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.197 \MaNishtana
+l.198 \MaNishtana
                  
 Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
@@ -2820,7 +2820,7 @@ or  <return>  to continue without it.
 <argument> \shape 
                   שֶׁבְּכָל הַלֵּילוֹת אָנוּ אוֹכ...
 
-l.197 \MaNishtana
+l.198 \MaNishtana
                  
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -2835,7 +2835,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.197 \MaNishtana
+l.198 \MaNishtana
                  
 Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
@@ -2844,7 +2844,7 @@ or  <return>  to continue without it.
 ! Undefined control sequence.
 <argument> \shape 
                   ...הַלַּיְלָה הַזֶּה כֻּלּוֹ מַצ...
-l.197 \MaNishtana
+l.198 \MaNishtana
                  
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -2859,7 +2859,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.197 \MaNishtana
+l.198 \MaNishtana
                  
 Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
@@ -2869,7 +2869,7 @@ or  <return>  to continue without it.
 <argument> \shape 
                   שֶׁבְּכָל הַלֵּילוֹת אָנוּ אוֹכ...
 
-l.197 \MaNishtana
+l.198 \MaNishtana
                  
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -2884,7 +2884,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.197 \MaNishtana
+l.198 \MaNishtana
                  
 Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
@@ -2896,7 +2896,7 @@ or  <return>  to continue without it.
 ! Undefined control sequence.
 <argument> \shape 
                   ...הַלַּיְלָה הַזֶּה כֻּלּוֹ מָר...
-l.197 \MaNishtana
+l.198 \MaNishtana
                  
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -2911,7 +2911,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.197 \MaNishtana
+l.198 \MaNishtana
                  
 Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
@@ -2921,7 +2921,7 @@ or  <return>  to continue without it.
 <argument> \shape 
                   שֶׁבְּכָל הַלֵּילוֹת אֵין אָנוּ...
 
-l.197 \MaNishtana
+l.198 \MaNishtana
                  
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -2936,7 +2936,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.197 \MaNishtana
+l.198 \MaNishtana
                  
 Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
@@ -2945,7 +2945,7 @@ or  <return>  to continue without it.
 ! Undefined control sequence.
 <argument> \shape 
                   ...הַלַּיְלָה הַזֶּה שְׁתֵּי פְע...
-l.197 \MaNishtana
+l.198 \MaNishtana
                  
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -2960,7 +2960,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.197 \MaNishtana
+l.198 \MaNishtana
                  
 Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
@@ -2970,7 +2970,7 @@ or  <return>  to continue without it.
 <argument> \shape 
                   שֶׁבְּכָל הַלֵּילוֹת אָנוּ אוֹכ...
 
-l.197 \MaNishtana
+l.198 \MaNishtana
                  
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -2985,7 +2985,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.197 \MaNishtana
+l.198 \MaNishtana
                  
 Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
@@ -2995,7 +2995,7 @@ or  <return>  to continue without it.
 <argument> \shape 
                   ...הַלַּיְלָה הַזֶּה כֻּלָּנוּ מ...
 
-l.197 \MaNishtana
+l.198 \MaNishtana
                  
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -3011,7 +3011,7 @@ Overfull \vbox (8.57404pt too high) has occurred while \output is active []
 [9
 
 ]
-Underfull \hbox (badness 10000) in paragraph at lines 201--201
+Underfull \hbox (badness 10000) in paragraph at lines 202--202
 
  []
 
@@ -3021,7 +3021,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 201--201
 ! Undefined control sequence.
 <argument> \shape 
                   מַגִּיד
-l.204 ...ִּיד}	 : Maggid : The Story : Magid}
+l.205 ...ִּיד}	 : Maggid : The Story : Magid}
                                                   
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -3032,7 +3032,7 @@ and I'll forget about whatever was undefined.
 ! Undefined control sequence.
 \largehebrew #1->\LARGE \texthebrew {\shape 
                                             #1} \normalsize 
-l.204 ...ִּיד}	 : Maggid : The Story : Magid}
+l.205 ...ִּיד}	 : Maggid : The Story : Magid}
                                                   
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -3043,7 +3043,7 @@ and I'll forget about whatever was undefined.
 ! Undefined control sequence.
 \largehebrew #1->\LARGE \texthebrew {\shape 
                                             #1} \normalsize 
-l.204 ...ִּיד}	 : Maggid : The Story : Magid}
+l.205 ...ִּיד}	 : Maggid : The Story : Magid}
                                                   
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -3054,7 +3054,7 @@ and I'll forget about whatever was undefined.
 ! Undefined control sequence.
 \largehebrew #1->\LARGE \texthebrew {\shape 
                                             #1} \normalsize 
-l.204 ...ִּיד}	 : Maggid : The Story : Magid}
+l.205 ...ִּיד}	 : Maggid : The Story : Magid}
                                                   
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -3065,7 +3065,7 @@ and I'll forget about whatever was undefined.
 ! Undefined control sequence.
 \largehebrew #1->\LARGE \texthebrew {\shape 
                                             #1} \normalsize 
-l.204 ...ִּיד}	 : Maggid : The Story : Magid}
+l.205 ...ִּיד}	 : Maggid : The Story : Magid}
                                                   
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -3076,7 +3076,7 @@ and I'll forget about whatever was undefined.
 ! Undefined control sequence.
 \MaggidIntro ...rink it yet.}\\} {\onehalfspacing 
                                                   \color {black} \MaggidText...
-l.205 \MaggidIntro
+l.206 \MaggidIntro
                   
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -3087,7 +3087,7 @@ and I'll forget about whatever was undefined.
 ! Undefined control sequence.
 <argument> \shape 
                   הַבֶּט־נָא הַשָּׁמַיְמָה וּסְפ...
-l.205 \MaggidIntro
+l.206 \MaggidIntro
                   
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -3099,7 +3099,7 @@ and I'll forget about whatever was undefined.
 <argument> \shape 
                   אֲנִי יְהֹוָה אֲשֶׁר הוֹצֵאתִיך...
 
-l.205 \MaggidIntro
+l.206 \MaggidIntro
                   
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -3110,7 +3110,7 @@ and I'll forget about whatever was undefined.
 ! Undefined control sequence.
 <argument> \shape 
                   יִהְיֶה זַרְעֲךָ בְּאֶרֶץ לֹא ל...
-l.205 \MaggidIntro
+l.206 \MaggidIntro
                   
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -3121,7 +3121,7 @@ and I'll forget about whatever was undefined.
 ! Undefined control sequence.
 <argument> \shape 
                   ...וְגַם אֶת־הַגּוֹי אֲשֶׁר יַעֲ...
-l.205 \MaggidIntro
+l.206 \MaggidIntro
                   
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -3135,7 +3135,7 @@ and I'll forget about whatever was undefined.
 ! Undefined control sequence.
 <argument> \shape 
                   וְהִיא שֶׁעָמְדָה לַאֲבוֹתֵינו...
-l.205 \MaggidIntro
+l.206 \MaggidIntro
                   
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -3153,7 +3153,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.212 \Plagues
+l.213 \Plagues
               
 Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
@@ -3162,7 +3162,7 @@ or  <return>  to continue without it.
 ! Undefined control sequence.
 <argument> \shape 
                   דָּם
-l.212 \Plagues
+l.213 \Plagues
               
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -3173,7 +3173,7 @@ and I'll forget about whatever was undefined.
 ! Undefined control sequence.
 <argument> \shape 
                   צְפַרְדֵּעַ
-l.212 \Plagues
+l.213 \Plagues
               
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -3184,7 +3184,7 @@ and I'll forget about whatever was undefined.
 ! Undefined control sequence.
 <argument> \shape 
                   כִּנִּים
-l.212 \Plagues
+l.213 \Plagues
               
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -3195,7 +3195,7 @@ and I'll forget about whatever was undefined.
 ! Undefined control sequence.
 <argument> \shape 
                   עַרוֹב
-l.212 \Plagues
+l.213 \Plagues
               
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -3206,7 +3206,7 @@ and I'll forget about whatever was undefined.
 ! Undefined control sequence.
 <argument> \shape 
                   דֶּבֶר
-l.212 \Plagues
+l.213 \Plagues
               
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -3217,7 +3217,7 @@ and I'll forget about whatever was undefined.
 ! Undefined control sequence.
 <argument> \shape 
                   שְׁחִין
-l.212 \Plagues
+l.213 \Plagues
               
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -3228,7 +3228,7 @@ and I'll forget about whatever was undefined.
 ! Undefined control sequence.
 <argument> \shape 
                   בָּרָד
-l.212 \Plagues
+l.213 \Plagues
               
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -3239,7 +3239,7 @@ and I'll forget about whatever was undefined.
 ! Undefined control sequence.
 <argument> \shape 
                   אַרְבֶּה
-l.212 \Plagues
+l.213 \Plagues
               
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -3250,7 +3250,7 @@ and I'll forget about whatever was undefined.
 ! Undefined control sequence.
 <argument> \shape 
                   חוֹשֶׁךְ
-l.212 \Plagues
+l.213 \Plagues
               
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -3261,7 +3261,7 @@ and I'll forget about whatever was undefined.
 ! Undefined control sequence.
 <argument> \shape 
                   מַכַּת בְּכוֹרוֹת
-l.212 \Plagues
+l.213 \Plagues
               
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -3281,7 +3281,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.217 \Dayyeinu
+l.218 \Dayyeinu
                
 Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
@@ -3290,7 +3290,7 @@ or  <return>  to continue without it.
 ! Undefined control sequence.
 <argument> \shape 
                   \color {darkblue} אִלּוּ הוֹצִיאָנוּ מִ...
-l.217 \Dayyeinu
+l.218 \Dayyeinu
                
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -3302,7 +3302,7 @@ and I'll forget about whatever was undefined.
 <argument> \shape 
                   \color {darkblue}...וְלֹא נָתַן לָנוּ אֶת...
 
-l.217 \Dayyeinu
+l.218 \Dayyeinu
                
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -3394,7 +3394,7 @@ Package microtype Info: Character `textquestiondown ' is missing
 ! Undefined control sequence.
 <argument> \shape 
                   \color {darkblue}אִלּוּ נָתַן לָנוּ אֶת...
-l.217 \Dayyeinu
+l.218 \Dayyeinu
                
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -3410,7 +3410,7 @@ and I'll forget about whatever was undefined.
 ! Undefined control sequence.
 <argument> \shape 
                   \color {darkblue}...ןלא קָרַע לָנוּ אֶת ה...
-l.217 \Dayyeinu
+l.218 \Dayyeinu
                
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -3421,7 +3421,7 @@ and I'll forget about whatever was undefined.
 ! Undefined control sequence.
 <argument> \shape 
                   \color {darkblue}אִלּוּ קָרַע לָנוּ אֶת...
-l.217 \Dayyeinu
+l.218 \Dayyeinu
                
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -3432,7 +3432,7 @@ and I'll forget about whatever was undefined.
 ! Undefined control sequence.
 <argument> \shape 
                   \color {darkblue}...וְלֹא סִפֵּק צָרַכֵּ...
-l.217 \Dayyeinu
+l.218 \Dayyeinu
                
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -3444,7 +3444,7 @@ and I'll forget about whatever was undefined.
 <argument> \shape 
                   \color {darkblue}אִלּוּ סִפֵּק צָרַכֵּנ...
 
-l.217 \Dayyeinu
+l.218 \Dayyeinu
                
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -3455,7 +3455,7 @@ and I'll forget about whatever was undefined.
 ! Undefined control sequence.
 <argument> \shape 
                   \color {darkblue}...וְלֹא הֶאֱכִילָנוּ א...
-l.217 \Dayyeinu
+l.218 \Dayyeinu
                
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -3467,7 +3467,7 @@ and I'll forget about whatever was undefined.
 <argument> \shape 
                   \color {darkblue}אִלּוּ הֶאֱכִילָנוּ אֶ...
 
-l.217 \Dayyeinu
+l.218 \Dayyeinu
                
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -3479,7 +3479,7 @@ and I'll forget about whatever was undefined.
 <argument> \shape 
                   \color {darkblue}...וְלֹא נָתַן לָנוּ אֶת...
 
-l.217 \Dayyeinu
+l.218 \Dayyeinu
                
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -3497,7 +3497,7 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 ! Undefined control sequence.
 <argument> \shape 
                   \color {darkblue}אִלּוּ נָתַן לָנוּ אֶת...
-l.217 \Dayyeinu
+l.218 \Dayyeinu
                
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -3509,7 +3509,7 @@ and I'll forget about whatever was undefined.
 <argument> \shape 
                   \color {darkblue}...וְלֹא נָתַן לָנוּ אֶת...
 
-l.217 \Dayyeinu
+l.218 \Dayyeinu
                
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -3520,22 +3520,22 @@ and I'll forget about whatever was undefined.
 <Zeroa.png, id=65, 69.25874pt x 122.25674pt>
 File: Zeroa.png Graphic file (type png)
 <use Zeroa.png>
-Package luatex.def Info: Zeroa.png  used on input line 224.
+Package luatex.def Info: Zeroa.png  used on input line 225.
 (luatex.def)             Requested size: 42.67912pt x 75.33762pt.
 <Maror.png, id=66, 69.25874pt x 122.25674pt>
 File: Maror.png Graphic file (type png)
 <use Maror.png>
-Package luatex.def Info: Maror.png  used on input line 224.
+Package luatex.def Info: Maror.png  used on input line 225.
 (luatex.def)             Requested size: 34.1433pt x 60.2701pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 227--227
+Underfull \hbox (badness 10000) in paragraph at lines 228--228
 
  []
 
 ! Undefined control sequence.
 <argument> \shape 
                   בְּכָל-דּוֹר וָדוֹר חַיָּב אָדָ...
-l.232 \EveryGeneration
+l.233 \EveryGeneration
                       
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -3548,7 +3548,7 @@ and I'll forget about whatever was undefined.
 [16<./Zeroa.png><./Maror.png>]
 File: cup.png Graphic file (type png)
 <use cup.png>
-Package luatex.def Info: cup.png  used on input line 236.
+Package luatex.def Info: cup.png  used on input line 237.
 (luatex.def)             Requested size: 28.45274pt x 45.17752pt.
 
 
@@ -3556,7 +3556,7 @@ Package luatex.def Info: cup.png  used on input line 236.
 ! Undefined control sequence.
 <argument> \shape 
                   רָחְצָה
-l.246 ...achtzah : Handwashing (Blessed) : Rachca}
+l.247 ...achtzah : Handwashing (Blessed) : Rachca}
                                                   
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -3567,7 +3567,7 @@ and I'll forget about whatever was undefined.
 ! Undefined control sequence.
 \largehebrew #1->\LARGE \texthebrew {\shape 
                                             #1} \normalsize 
-l.246 ...achtzah : Handwashing (Blessed) : Rachca}
+l.247 ...achtzah : Handwashing (Blessed) : Rachca}
                                                   
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -3578,7 +3578,7 @@ and I'll forget about whatever was undefined.
 ! Undefined control sequence.
 \largehebrew #1->\LARGE \texthebrew {\shape 
                                             #1} \normalsize 
-l.246 ...achtzah : Handwashing (Blessed) : Rachca}
+l.247 ...achtzah : Handwashing (Blessed) : Rachca}
                                                   
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -3589,7 +3589,7 @@ and I'll forget about whatever was undefined.
 ! Undefined control sequence.
 \largehebrew #1->\LARGE \texthebrew {\shape 
                                             #1} \normalsize 
-l.246 ...achtzah : Handwashing (Blessed) : Rachca}
+l.247 ...achtzah : Handwashing (Blessed) : Rachca}
                                                   
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -3600,7 +3600,7 @@ and I'll forget about whatever was undefined.
 ! Undefined control sequence.
 \largehebrew #1->\LARGE \texthebrew {\shape 
                                             #1} \normalsize 
-l.246 ...achtzah : Handwashing (Blessed) : Rachca}
+l.247 ...achtzah : Handwashing (Blessed) : Rachca}
                                                   
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -3609,14 +3609,14 @@ spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 247--247
+Underfull \hbox (badness 10000) in paragraph at lines 248--248
 
  []
 
 ! Undefined control sequence.
 <argument> \shape 
                   מַצָּה
-l.249 ...ּה} : Matzah : Unleavened Bread : Maca}
+l.250 ...ּה} : Matzah : Unleavened Bread : Maca}
                                                   
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -3627,7 +3627,7 @@ and I'll forget about whatever was undefined.
 ! Undefined control sequence.
 \largehebrew #1->\LARGE \texthebrew {\shape 
                                             #1} \normalsize 
-l.249 ...ּה} : Matzah : Unleavened Bread : Maca}
+l.250 ...ּה} : Matzah : Unleavened Bread : Maca}
                                                   
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -3638,7 +3638,7 @@ and I'll forget about whatever was undefined.
 ! Undefined control sequence.
 \largehebrew #1->\LARGE \texthebrew {\shape 
                                             #1} \normalsize 
-l.249 ...ּה} : Matzah : Unleavened Bread : Maca}
+l.250 ...ּה} : Matzah : Unleavened Bread : Maca}
                                                   
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -3649,7 +3649,7 @@ and I'll forget about whatever was undefined.
 ! Undefined control sequence.
 \largehebrew #1->\LARGE \texthebrew {\shape 
                                             #1} \normalsize 
-l.249 ...ּה} : Matzah : Unleavened Bread : Maca}
+l.250 ...ּה} : Matzah : Unleavened Bread : Maca}
                                                   
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -3660,7 +3660,7 @@ and I'll forget about whatever was undefined.
 ! Undefined control sequence.
 \largehebrew #1->\LARGE \texthebrew {\shape 
                                             #1} \normalsize 
-l.249 ...ּה} : Matzah : Unleavened Bread : Maca}
+l.250 ...ּה} : Matzah : Unleavened Bread : Maca}
                                                   
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -3673,23 +3673,23 @@ and I'll forget about whatever was undefined.
 [18
 
 ]
-Underfull \hbox (badness 10000) in paragraph at lines 251--251
+Underfull \hbox (badness 10000) in paragraph at lines 252--252
 
  []
 
 <Charoset.png, id=78, 69.25874pt x 122.25674pt>
 File: Charoset.png Graphic file (type png)
 <use Charoset.png>
-Package luatex.def Info: Charoset.png  used on input line 254.
+Package luatex.def Info: Charoset.png  used on input line 255.
 (luatex.def)             Requested size: 42.67912pt x 75.33762pt.
 File: Maror.png Graphic file (type png)
 <use Maror.png>
-Package luatex.def Info: Maror.png  used on input line 254.
+Package luatex.def Info: Maror.png  used on input line 255.
 (luatex.def)             Requested size: 39.83385pt x 70.31572pt.
 ! Undefined control sequence.
 <argument> \shape 
                   מָרוֹר
-l.256 ...Maror : Bitter Herbs/Horseradish : Maror}
+l.257 ...Maror : Bitter Herbs/Horseradish : Maror}
                                                   
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -3700,7 +3700,7 @@ and I'll forget about whatever was undefined.
 ! Undefined control sequence.
 \largehebrew #1->\LARGE \texthebrew {\shape 
                                             #1} \normalsize 
-l.256 ...Maror : Bitter Herbs/Horseradish : Maror}
+l.257 ...Maror : Bitter Herbs/Horseradish : Maror}
                                                   
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -3711,7 +3711,7 @@ and I'll forget about whatever was undefined.
 ! Undefined control sequence.
 \largehebrew #1->\LARGE \texthebrew {\shape 
                                             #1} \normalsize 
-l.256 ...Maror : Bitter Herbs/Horseradish : Maror}
+l.257 ...Maror : Bitter Herbs/Horseradish : Maror}
                                                   
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -3722,7 +3722,7 @@ and I'll forget about whatever was undefined.
 ! Undefined control sequence.
 \largehebrew #1->\LARGE \texthebrew {\shape 
                                             #1} \normalsize 
-l.256 ...Maror : Bitter Herbs/Horseradish : Maror}
+l.257 ...Maror : Bitter Herbs/Horseradish : Maror}
                                                   
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -3733,7 +3733,7 @@ and I'll forget about whatever was undefined.
 ! Undefined control sequence.
 \largehebrew #1->\LARGE \texthebrew {\shape 
                                             #1} \normalsize 
-l.256 ...Maror : Bitter Herbs/Horseradish : Maror}
+l.257 ...Maror : Bitter Herbs/Horseradish : Maror}
                                                   
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -3744,24 +3744,24 @@ and I'll forget about whatever was undefined.
 
 
 [19<./Charoset.png>]
-Underfull \hbox (badness 10000) in paragraph at lines 257--257
+Underfull \hbox (badness 10000) in paragraph at lines 258--258
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 257--257
+Underfull \hbox (badness 10000) in paragraph at lines 258--258
 
  []
 
 <Chazeret.png, id=83, 69.25874pt x 122.25674pt>
 File: Chazeret.png Graphic file (type png)
 <use Chazeret.png>
-Package luatex.def Info: Chazeret.png  used on input line 261.
+Package luatex.def Info: Chazeret.png  used on input line 262.
 (luatex.def)             Requested size: 42.67912pt x 75.33762pt.
 ! Undefined control sequence.
 <argument> \shape 
                   כּוֹרֵךְ
-l.263 ...} : Koreich : Hillel Sandwich : Koresch}
+l.264 ...} : Koreich : Hillel Sandwich : Koresch}
                                                   
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -3772,7 +3772,7 @@ and I'll forget about whatever was undefined.
 ! Undefined control sequence.
 \largehebrew #1->\LARGE \texthebrew {\shape 
                                             #1} \normalsize 
-l.263 ...} : Koreich : Hillel Sandwich : Koresch}
+l.264 ...} : Koreich : Hillel Sandwich : Koresch}
                                                   
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -3783,7 +3783,7 @@ and I'll forget about whatever was undefined.
 ! Undefined control sequence.
 \largehebrew #1->\LARGE \texthebrew {\shape 
                                             #1} \normalsize 
-l.263 ...} : Koreich : Hillel Sandwich : Koresch}
+l.264 ...} : Koreich : Hillel Sandwich : Koresch}
                                                   
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -3794,7 +3794,7 @@ and I'll forget about whatever was undefined.
 ! Undefined control sequence.
 \largehebrew #1->\LARGE \texthebrew {\shape 
                                             #1} \normalsize 
-l.263 ...} : Koreich : Hillel Sandwich : Koresch}
+l.264 ...} : Koreich : Hillel Sandwich : Koresch}
                                                   
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -3805,7 +3805,7 @@ and I'll forget about whatever was undefined.
 ! Undefined control sequence.
 \largehebrew #1->\LARGE \texthebrew {\shape 
                                             #1} \normalsize 
-l.263 ...} : Koreich : Hillel Sandwich : Koresch}
+l.264 ...} : Koreich : Hillel Sandwich : Koresch}
                                                   
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -3819,7 +3819,7 @@ and I'll forget about whatever was undefined.
 ! Undefined control sequence.
 <argument> \shape 
                   שֻׁלְחָן ערוּך
-l.266 ... Oreich : The Set Table : Šulchan Orech}
+l.267 ... Oreich : The Set Table : Šulchan Orech}
                                                   
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -3830,7 +3830,7 @@ and I'll forget about whatever was undefined.
 ! Undefined control sequence.
 \largehebrew #1->\LARGE \texthebrew {\shape 
                                             #1} \normalsize 
-l.266 ... Oreich : The Set Table : Šulchan Orech}
+l.267 ... Oreich : The Set Table : Šulchan Orech}
                                                   
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -3841,7 +3841,7 @@ and I'll forget about whatever was undefined.
 ! Undefined control sequence.
 \largehebrew #1->\LARGE \texthebrew {\shape 
                                             #1} \normalsize 
-l.266 ... Oreich : The Set Table : Šulchan Orech}
+l.267 ... Oreich : The Set Table : Šulchan Orech}
                                                   
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -3852,7 +3852,7 @@ and I'll forget about whatever was undefined.
 ! Undefined control sequence.
 \largehebrew #1->\LARGE \texthebrew {\shape 
                                             #1} \normalsize 
-l.266 ... Oreich : The Set Table : Šulchan Orech}
+l.267 ... Oreich : The Set Table : Šulchan Orech}
                                                   
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -3863,7 +3863,7 @@ and I'll forget about whatever was undefined.
 ! Undefined control sequence.
 \largehebrew #1->\LARGE \texthebrew {\shape 
                                             #1} \normalsize 
-l.266 ... Oreich : The Set Table : Šulchan Orech}
+l.267 ... Oreich : The Set Table : Šulchan Orech}
                                                   
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -3872,14 +3872,14 @@ spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 267--268
+Underfull \hbox (badness 10000) in paragraph at lines 268--269
 
  []
 
 ! Undefined control sequence.
 <argument> \shape 
                   צָפוּן
-l.273 ...ָפוּן} : Tzafun : Afikomen! : Cafun}
+l.274 ...ָפוּן} : Tzafun : Afikomen! : Cafun}
                                                   
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -3890,7 +3890,7 @@ and I'll forget about whatever was undefined.
 ! Undefined control sequence.
 \largehebrew #1->\LARGE \texthebrew {\shape 
                                             #1} \normalsize 
-l.273 ...ָפוּן} : Tzafun : Afikomen! : Cafun}
+l.274 ...ָפוּן} : Tzafun : Afikomen! : Cafun}
                                                   
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -3901,7 +3901,7 @@ and I'll forget about whatever was undefined.
 ! Undefined control sequence.
 \largehebrew #1->\LARGE \texthebrew {\shape 
                                             #1} \normalsize 
-l.273 ...ָפוּן} : Tzafun : Afikomen! : Cafun}
+l.274 ...ָפוּן} : Tzafun : Afikomen! : Cafun}
                                                   
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -3912,7 +3912,7 @@ and I'll forget about whatever was undefined.
 ! Undefined control sequence.
 \largehebrew #1->\LARGE \texthebrew {\shape 
                                             #1} \normalsize 
-l.273 ...ָפוּן} : Tzafun : Afikomen! : Cafun}
+l.274 ...ָפוּן} : Tzafun : Afikomen! : Cafun}
                                                   
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -3923,7 +3923,7 @@ and I'll forget about whatever was undefined.
 ! Undefined control sequence.
 \largehebrew #1->\LARGE \texthebrew {\shape 
                                             #1} \normalsize 
-l.273 ...ָפוּן} : Tzafun : Afikomen! : Cafun}
+l.274 ...ָפוּן} : Tzafun : Afikomen! : Cafun}
                                                   
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -3934,7 +3934,7 @@ and I'll forget about whatever was undefined.
 ! Undefined control sequence.
 <argument> \shape 
                   The oldest participant must now embark upon the {\large Af...
-l.275 ...w embark upon the {\large Afikomen hunt}}
+l.276 ...w embark upon the {\large Afikomen hunt}}
                                                   \\
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -3949,7 +3949,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.276 \textit
+l.277 \textit
              {music should be played here}
 Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
@@ -3958,7 +3958,7 @@ or  <return>  to continue without it.
 ! Undefined control sequence.
 <argument> \shape 
                   בָּרֵךְ
-l.278 ... Bareich : Grace after the meal : Barech}
+l.279 ... Bareich : Grace after the meal : Barech}
                                                   
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -3969,7 +3969,7 @@ and I'll forget about whatever was undefined.
 ! Undefined control sequence.
 \largehebrew #1->\LARGE \texthebrew {\shape 
                                             #1} \normalsize 
-l.278 ... Bareich : Grace after the meal : Barech}
+l.279 ... Bareich : Grace after the meal : Barech}
                                                   
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -3980,7 +3980,7 @@ and I'll forget about whatever was undefined.
 ! Undefined control sequence.
 \largehebrew #1->\LARGE \texthebrew {\shape 
                                             #1} \normalsize 
-l.278 ... Bareich : Grace after the meal : Barech}
+l.279 ... Bareich : Grace after the meal : Barech}
                                                   
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -3991,7 +3991,7 @@ and I'll forget about whatever was undefined.
 ! Undefined control sequence.
 \largehebrew #1->\LARGE \texthebrew {\shape 
                                             #1} \normalsize 
-l.278 ... Bareich : Grace after the meal : Barech}
+l.279 ... Bareich : Grace after the meal : Barech}
                                                   
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -4002,7 +4002,7 @@ and I'll forget about whatever was undefined.
 ! Undefined control sequence.
 \largehebrew #1->\LARGE \texthebrew {\shape 
                                             #1} \normalsize 
-l.278 ... Bareich : Grace after the meal : Barech}
+l.279 ... Bareich : Grace after the meal : Barech}
                                                   
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -4018,13 +4018,13 @@ Overfull \vbox (4.04309pt too high) has occurred while \output is active []
 [21]
 File: cup.png Graphic file (type png)
 <use cup.png>
-Package luatex.def Info: cup.png  used on input line 285.
+Package luatex.def Info: cup.png  used on input line 286.
 (luatex.def)             Requested size: 28.45274pt x 45.17752pt.
 
 ! Undefined control sequence.
 <argument> \shape 
                   הַלֵּל
-l.293 ...{הַלֵּל} : Hallel : Praise : Halel}
+l.294 ...{הַלֵּל} : Hallel : Praise : Halel}
                                                   
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -4035,7 +4035,7 @@ and I'll forget about whatever was undefined.
 ! Undefined control sequence.
 \largehebrew #1->\LARGE \texthebrew {\shape 
                                             #1} \normalsize 
-l.293 ...{הַלֵּל} : Hallel : Praise : Halel}
+l.294 ...{הַלֵּל} : Hallel : Praise : Halel}
                                                   
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -4046,7 +4046,7 @@ and I'll forget about whatever was undefined.
 ! Undefined control sequence.
 \largehebrew #1->\LARGE \texthebrew {\shape 
                                             #1} \normalsize 
-l.293 ...{הַלֵּל} : Hallel : Praise : Halel}
+l.294 ...{הַלֵּל} : Hallel : Praise : Halel}
                                                   
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -4057,7 +4057,7 @@ and I'll forget about whatever was undefined.
 ! Undefined control sequence.
 \largehebrew #1->\LARGE \texthebrew {\shape 
                                             #1} \normalsize 
-l.293 ...{הַלֵּל} : Hallel : Praise : Halel}
+l.294 ...{הַלֵּל} : Hallel : Praise : Halel}
                                                   
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -4068,7 +4068,7 @@ and I'll forget about whatever was undefined.
 ! Undefined control sequence.
 \largehebrew #1->\LARGE \texthebrew {\shape 
                                             #1} \normalsize 
-l.293 ...{הַלֵּל} : Hallel : Praise : Halel}
+l.294 ...{הַלֵּל} : Hallel : Praise : Halel}
                                                   
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -4079,7 +4079,7 @@ and I'll forget about whatever was undefined.
 ! Undefined control sequence.
 <argument> \shape 
                   \LARGE הַלְלוּ הַלְלוּ הַלְלוּ הַל...
-l.296 \Hallel
+l.297 \Hallel
              
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -4090,7 +4090,7 @@ and I'll forget about whatever was undefined.
 ! Undefined control sequence.
 <argument> \shape 
                   \LARGE כֹּל הַנְּשָׁמָה תְּהַלֵּל ...
-l.296 \Hallel
+l.297 \Hallel
              
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -4100,11 +4100,11 @@ and I'll forget about whatever was undefined.
 
 File: cup.png Graphic file (type png)
 <use cup.png>
-Package luatex.def Info: cup.png  used on input line 299.
+Package luatex.def Info: cup.png  used on input line 300.
 (luatex.def)             Requested size: 28.45274pt x 45.17752pt.
 File: cup.png Graphic file (type png)
 <use cup.png>
-Package luatex.def Info: cup.png  used on input line 299.
+Package luatex.def Info: cup.png  used on input line 300.
 (luatex.def)             Requested size: 28.45274pt x 45.17752pt.
 
 
@@ -4114,7 +4114,7 @@ Package luatex.def Info: cup.png  used on input line 299.
 ! Undefined control sequence.
 <argument> \shape 
                   וְגֵר לֹא תִלְחָץ וְאַתֶּם יְדַ...
-l.307 \Elijah
+l.308 \Elijah
              
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -4125,7 +4125,7 @@ and I'll forget about whatever was undefined.
 ! Undefined control sequence.
 <argument> \shape 
                   \color {black} אֵלִיָּהוּ הַנָּבִיא, א...
-l.307 \Elijah
+l.308 \Elijah
              
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -4139,13 +4139,13 @@ and I'll forget about whatever was undefined.
 <Beitza.png, id=98, 69.25874pt x 122.25674pt>
 File: Beitza.png Graphic file (type png)
 <use Beitza.png>
-Package luatex.def Info: Beitza.png  used on input line 315.
+Package luatex.def Info: Beitza.png  used on input line 316.
 (luatex.def)             Requested size: 56.9055pt x 100.45078pt.
 
 ! Undefined control sequence.
 <argument> \shape 
                   נִרְצָה
-l.317 ...ְצָה} : Nirtzah : Conclusion : Nirca}
+l.318 ...ְצָה} : Nirtzah : Conclusion : Nirca}
                                                   
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -4156,7 +4156,7 @@ and I'll forget about whatever was undefined.
 ! Undefined control sequence.
 \largehebrew #1->\LARGE \texthebrew {\shape 
                                             #1} \normalsize 
-l.317 ...ְצָה} : Nirtzah : Conclusion : Nirca}
+l.318 ...ְצָה} : Nirtzah : Conclusion : Nirca}
                                                   
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -4167,7 +4167,7 @@ and I'll forget about whatever was undefined.
 ! Undefined control sequence.
 \largehebrew #1->\LARGE \texthebrew {\shape 
                                             #1} \normalsize 
-l.317 ...ְצָה} : Nirtzah : Conclusion : Nirca}
+l.318 ...ְצָה} : Nirtzah : Conclusion : Nirca}
                                                   
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -4178,7 +4178,7 @@ and I'll forget about whatever was undefined.
 ! Undefined control sequence.
 \largehebrew #1->\LARGE \texthebrew {\shape 
                                             #1} \normalsize 
-l.317 ...ְצָה} : Nirtzah : Conclusion : Nirca}
+l.318 ...ְצָה} : Nirtzah : Conclusion : Nirca}
                                                   
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -4189,7 +4189,7 @@ and I'll forget about whatever was undefined.
 ! Undefined control sequence.
 \largehebrew #1->\LARGE \texthebrew {\shape 
                                             #1} \normalsize 
-l.317 ...ְצָה} : Nirtzah : Conclusion : Nirca}
+l.318 ...ְצָה} : Nirtzah : Conclusion : Nirca}
                                                   
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -4200,7 +4200,7 @@ and I'll forget about whatever was undefined.
 ! Undefined control sequence.
 <argument> \shape 
                   לְשָׁנָה הַבָּאָה בִּירוּשָלָי...
-l.318 \Nirtzah
+l.319 \Nirtzah
               
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -4215,7 +4215,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.323 \\
+l.324 \\
         Thank you for sharing in this Festival with me.
 Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
