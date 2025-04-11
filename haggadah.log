@@ -1,4 +1,4 @@
-This is LuaHBTeX, Version 1.21.0 (MiKTeX 25.3) (format=lualatex 2025.4.3)  11 APR 2025 01:35
+This is LuaHBTeX, Version 1.21.0 (MiKTeX 25.3) (format=lualatex 2025.4.3)  11 APR 2025 03:25
  restricted system commands enabled.
 **haggadah.tex
 (./haggadah.tex
@@ -491,83 +491,6 @@ File: microtype.cfg 2025/02/11 v3.2a microtype main configuration file (RS)
 )
 LaTeX Info: Redefining \microtypesetup on input line 3065.
 )
-(C:/Users/Gamergurl/AppData/Local/Programs/MiKTeX/tex/latex/datetime/datetime.s
-ty
-Package: datetime 2015/03/20 v2.60 Date Time Package
-
-(C:/Users/Gamergurl/AppData/Local/Programs/MiKTeX/tex/latex/fmtcount/fmtcount.s
-ty
-Package: fmtcount 2025/02/09 v3.10 Displaying the values of LaTeX counters (NT,
-VB,NE)
- (C:/Users/Gamergurl/AppData/Local/Programs/MiKTeX/tex/latex/base/ifthen.sty
-Package: ifthen 2024/03/16 v1.1e Standard LaTeX ifthen package (DPC)
-)
-(C:/Users/Gamergurl/AppData/Local/Programs/MiKTeX/tex/latex/xkeyval/xkeyval.sty
-Package: xkeyval 2022/06/16 v2.9 package option processing (HA)
-
-(C:/Users/Gamergurl/AppData/Local/Programs/MiKTeX/tex/generic/xkeyval/xkeyval.t
-ex
-(C:/Users/Gamergurl/AppData/Local/Programs/MiKTeX/tex/generic/xkeyval/xkvutils.
-tex
-\XKV@toks=\toks28
-\XKV@tempa@toks=\toks29
-)
-\XKV@depth=\count322
-File: xkeyval.tex 2014/12/03 v2.7a key=value parser (HA)
-))
-(C:/Users/Gamergurl/AppData/Local/Programs/MiKTeX/tex/latex/fmtcount/fcprefix.s
-ty
-Package: fcprefix 2012/09/28
-
-(C:/Users/Gamergurl/AppData/Local/Programs/MiKTeX/tex/latex/fmtcount/fcnumparse
-r.sty
-Package: fcnumparser 2017/06/15
-\fc@digit@counter=\count323
-))
-(C:/Users/Gamergurl/AppData/Local/Programs/MiKTeX/tex/latex/amsmath/amsgen.sty
-File: amsgen.sty 1999/11/30 v2.0 generic functions
-\@emptytoks=\toks30
-\ex@=\dimen191
-)
-\c@padzeroesN=\count324
-\fc@tmpcatcode=\count325
-\@DT@modctr=\count326
-\@ordinalctr=\count327
-\@orgargctr=\count328
-\@strctr=\count329
-\@tmpstrctr=\count330
-\@DT@loopN=\count331
-\@DT@X=\count332
-
-Package fmtcount Warning: \ordinal already defined use \FCordinal instead. on i
-nput line 438.
-
-)
-(C:/Users/Gamergurl/AppData/Local/Programs/MiKTeX/tex/latex/datetime/datetime-d
-efaults.sty
-Package: datetime-defaults 2013/09/10
-)
-\@day=\count333
-\@month=\count334
-\@year=\count335
-\c@HOUR=\count336
-\c@HOURXII=\count337
-\c@MINUTE=\count338
-\c@TOHOUR=\count339
-\c@TOMINUTE=\count340
-\c@SECOND=\count341
-\currenthour=\count342
-\currentminute=\count343
-\currentsecond=\count344
-Package datetime Info: No datetime.cfg file found, using default settings on in
-put line 308.
-\@dtctr=\count345
-\dayofyear=\count346
-\dayofweek=\count347
-LaTeX Info: Redefining \today on input line 736.
-\dt@a=\toks31
-\dt@b=\toks32
-)
 (C:/Users/Gamergurl/AppData/Local/Programs/MiKTeX/tex/latex/graphics/graphicx.s
 ty
 Package: graphicx 2021/09/16 v1.2d Enhanced LaTeX Graphics (DPC,SPQR)
@@ -589,29 +512,29 @@ Package graphics Info: Driver file: luatex.def on input line 106.
 .def
 File: luatex.def 2024/04/13 v1.2e Graphics/color driver for luatex
 ))
-\Gin@req@height=\dimen192
-\Gin@req@width=\dimen193
+\Gin@req@height=\dimen191
+\Gin@req@width=\dimen192
 )
 (C:/Users/Gamergurl/AppData/Local/Programs/MiKTeX/tex/latex/tools/multicol.sty
 Package: multicol 2024/09/14 v1.9i multicolumn formatting (FMi)
-\c@tracingmulticols=\count348
+\c@tracingmulticols=\count322
 \mult@box=\box60
-\multicol@leftmargin=\dimen194
-\c@unbalance=\count349
-\c@collectmore=\count350
-\doublecol@number=\count351
-\multicoltolerance=\count352
-\multicolpretolerance=\count353
-\full@width=\dimen195
-\page@free=\dimen196
-\premulticols=\dimen197
-\postmulticols=\dimen198
+\multicol@leftmargin=\dimen193
+\c@unbalance=\count323
+\c@collectmore=\count324
+\doublecol@number=\count325
+\multicoltolerance=\count326
+\multicolpretolerance=\count327
+\full@width=\dimen194
+\page@free=\dimen195
+\premulticols=\dimen196
+\postmulticols=\dimen197
 \multicolsep=\skip194
 \multicolbaselineskip=\skip195
 \partial@page=\box61
 \last@line=\box62
 \mc@boxedresult=\box63
-\maxbalancingoverflow=\dimen199
+\maxbalancingoverflow=\dimen198
 \mult@rightbox=\box64
 \mult@grightbox=\box65
 \mult@firstbox=\box66
@@ -652,40 +575,40 @@ Package: multicol 2024/09/14 v1.9i multicolumn formatting (FMi)
 \@tempa=\box101
 \@tempa=\box102
 \@tempa=\box103
-\c@minrows=\count354
-\c@columnbadness=\count355
-\c@finalcolumnbadness=\count356
-\last@try=\dimen256
-\multicolovershoot=\dimen257
-\multicolundershoot=\dimen258
+\c@minrows=\count328
+\c@columnbadness=\count329
+\c@finalcolumnbadness=\count330
+\last@try=\dimen199
+\multicolovershoot=\dimen256
+\multicolundershoot=\dimen257
 \mult@nat@firstbox=\box104
 \colbreak@box=\box105
-\mc@col@check@num=\count357
+\mc@col@check@num=\count331
 )
 (C:/Users/Gamergurl/AppData/Local/Programs/MiKTeX/tex/latex/makecell/makecell.s
 ty
 Package: makecell 2009/08/03 V0.1e Managing of Tab Column Heads and Cells
-\rotheadsize=\dimen259
-\c@nlinenum=\count358
-\TeXr@lab=\toks33
+\rotheadsize=\dimen258
+\c@nlinenum=\count332
+\TeXr@lab=\toks28
 )
 (C:/Users/Gamergurl/AppData/Local/Programs/MiKTeX/tex/latex/paracol/paracol.sty
 Package: paracol 2024/10/22 1.36 typeset columns in parallel
-\pcol@currcol=\count359
-\pcol@nextcol=\count360
-\pcol@ncol=\count361
-\pcol@ncolleft=\count362
-\pcol@page=\count363
-\pcol@basepage=\count364
-\pcol@toppage=\count365
-\pcol@footnotebase=\count366
-\pcol@nfootnotes=\count367
-\pcol@mcid=\count368
-\pcol@prevdepth=\dimen260
-\pcol@colht=\dimen261
-\pcol@textfloatsep=\dimen262
-\pcol@lrmargin=\dimen263
-\pagerim=\dimen264
+\pcol@currcol=\count333
+\pcol@nextcol=\count334
+\pcol@ncol=\count335
+\pcol@ncolleft=\count336
+\pcol@page=\count337
+\pcol@basepage=\count338
+\pcol@toppage=\count339
+\pcol@footnotebase=\count340
+\pcol@nfootnotes=\count341
+\pcol@mcid=\count342
+\pcol@prevdepth=\dimen259
+\pcol@colht=\dimen260
+\pcol@textfloatsep=\dimen261
+\pcol@lrmargin=\dimen262
+\pagerim=\dimen263
 \pcol@topskip=\skip196
 \belowfootnoteskip=\skip197
 \pcol@topfnotes=\box106
@@ -695,7 +618,7 @@ Package: paracol 2024/10/22 1.36 typeset columns in parallel
 \pcol@tempboxa=\box110
 \pcol@tempboxb=\box111
 \pcol@colorins=\insert247
-\pcol@everyvbox=\toks34
+\pcol@everyvbox=\toks29
 )
 (C:/Users/Gamergurl/AppData/Local/Programs/MiKTeX/tex/latex/polyglossia/polyglo
 ssia.sty
@@ -710,20 +633,20 @@ Lua module: fontspec 2024/05/11 v2.9e Font selection for XeLaTeX and LuaLaTeX
 uatex.sty
 Package: fontspec-luatex 2024/05/11 v2.9e Font selection for XeLaTeX and LuaLaT
 eX
-\l__fontspec_script_int=\count369
-\l__fontspec_language_int=\count370
-\l__fontspec_strnum_int=\count371
-\l__fontspec_tmp_int=\count372
-\l__fontspec_tmpa_int=\count373
-\l__fontspec_tmpb_int=\count374
-\l__fontspec_tmpc_int=\count375
-\l__fontspec_em_int=\count376
-\l__fontspec_emdef_int=\count377
-\l__fontspec_strong_int=\count378
-\l__fontspec_strongdef_int=\count379
-\l__fontspec_tmpa_dim=\dimen265
-\l__fontspec_tmpb_dim=\dimen266
-\l__fontspec_tmpc_dim=\dimen267
+\l__fontspec_script_int=\count343
+\l__fontspec_language_int=\count344
+\l__fontspec_strnum_int=\count345
+\l__fontspec_tmp_int=\count346
+\l__fontspec_tmpa_int=\count347
+\l__fontspec_tmpb_int=\count348
+\l__fontspec_tmpc_int=\count349
+\l__fontspec_em_int=\count350
+\l__fontspec_emdef_int=\count351
+\l__fontspec_strong_int=\count352
+\l__fontspec_strongdef_int=\count353
+\l__fontspec_tmpa_dim=\dimen264
+\l__fontspec_tmpb_dim=\dimen265
+\l__fontspec_tmpc_dim=\dimen266
 
 (C:/Users/Gamergurl/AppData/Local/Programs/MiKTeX/tex/latex/base/fontenc.sty
 Package: fontenc 2021/04/29 v2.0v Standard LaTeX package
@@ -731,7 +654,7 @@ Package: fontenc 2021/04/29 v2.0v Standard LaTeX package
 (C:/Users/Gamergurl/AppData/Local/Programs/MiKTeX/tex/latex/fontspec/fontspec.c
 fg)))
 Lua module: polyglossia 2013/05/11 v1.3 Polyglossia
-\l_xpg_alias_keyvals_int=\count380
+\l_xpg_alias_keyvals_int=\count354
 
 (C:/Users/Gamergurl/AppData/Local/Programs/MiKTeX/tex/latex/polyglossia/gloss-l
 atex.ldf
@@ -768,17 +691,17 @@ m hebcal.sty in Babel)
 
 (C:/Users/Gamergurl/AppData/Local/Programs/MiKTeX/tex/latex/polyglossia/cal-uti
 l.def
-\c@tmpA=\count381
-\c@tmpB=\count382
-\c@tmpC=\count383
-\c@tmpD=\count384
-\c@tmpE=\count385
-\c@tmpF=\count386
+\c@tmpA=\count355
+\c@tmpB=\count356
+\c@tmpC=\count357
+\c@tmpD=\count358
+\c@tmpE=\count359
+\c@tmpF=\count360
 )
-\hebrewday=\count387
-\hebrewmonth=\count388
-\hebrewyear=\count389
-\@common=\count390
+\hebrewday=\count361
+\hebrewmonth=\count362
+\hebrewyear=\count363
+\@common=\count364
 )
 (C:/Users/Gamergurl/AppData/Local/Programs/MiKTeX/tex/latex/polyglossia/babel-h
 ebrewalph.def
@@ -911,15 +834,56 @@ Package: ragged2e 2023/06/22 v3.6 ragged2e Package
 ty
 Package: enumitem 2025/02/06 v3.11 Customized lists
 \labelindent=\skip272
-\enit@outerparindent=\dimen268
-\enit@toks=\toks35
+\enit@outerparindent=\dimen267
+\enit@toks=\toks30
 \enit@inbox=\box112
-\enit@count@id=\count391
-\enitdp@description=\count392
-)) (./blessings.tex) (./readings.tex
+\enit@count@id=\count365
+\enitdp@description=\count366
+)
+
+! LaTeX Error: There's no line here to end.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.211 \newcommand
+                 {\Plagues}{
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+) (./blessings.tex) (./readings.tex
 
 Package polyglossia Info: Default language is english
 
+)
+
+Class memoir Warning: The fancyhdr package is not recommended with memoir.
+(memoir)              We have our own well integrated interface to handle
+(memoir)              headers and footers. See the manual section 7.3
+(memoir)              onwards for details. on input line 37.
+
+
+(C:/Users/Gamergurl/AppData/Local/Programs/MiKTeX/tex/latex/fancyhdr/fancyhdr.s
+ty
+Package: fancyhdr 2025/02/07 v5.2 Extensive control of page headers and footers
+
+\f@nch@headwidth=\skip273
+\f@nch@offset@elh=\skip274
+\f@nch@offset@erh=\skip275
+\f@nch@offset@olh=\skip276
+\f@nch@offset@orh=\skip277
+\f@nch@offset@elf=\skip278
+\f@nch@offset@erf=\skip279
+\f@nch@offset@olf=\skip280
+\f@nch@offset@orf=\skip281
+\f@nch@height=\skip282
+\f@nch@footalignment=\skip283
+\f@nch@widthL=\skip284
+\f@nch@widthC=\skip285
+\f@nch@widthR=\skip286
+\@temptokenb=\toks31
 )
 
 ******************************************************
@@ -944,36 +908,36 @@ Sidefootvsep and sidefootheight: 12pt and 344.39996pt
 (./haggadah.aux)
 \openout1 = haggadah.aux
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 73.
-LaTeX Font Info:    ... okay on input line 73.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 73.
-LaTeX Font Info:    ... okay on input line 73.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 73.
-LaTeX Font Info:    ... okay on input line 73.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 73.
-LaTeX Font Info:    ... okay on input line 73.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 73.
-LaTeX Font Info:    ... okay on input line 73.
-LaTeX Font Info:    Checking defaults for TU/lmr/m/n on input line 73.
-LaTeX Font Info:    ... okay on input line 73.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 73.
-LaTeX Font Info:    ... okay on input line 73.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 73.
-LaTeX Font Info:    ... okay on input line 73.
-LaTeX Info: Redefining \microtypecontext on input line 73.
-Package microtype Info: Applying patch `item' on input line 73.
-Package microtype Info: Applying patch `toc' on input line 73.
-Package microtype Info: Applying patch `eqnum' on input line 73.
-Package microtype Info: Applying patch `footnote' on input line 73.
-Package microtype Info: Applying patch `verbatim' on input line 73.
-LaTeX Info: Redefining \microtypesetup on input line 73.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 84.
+LaTeX Font Info:    ... okay on input line 84.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 84.
+LaTeX Font Info:    ... okay on input line 84.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 84.
+LaTeX Font Info:    ... okay on input line 84.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 84.
+LaTeX Font Info:    ... okay on input line 84.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 84.
+LaTeX Font Info:    ... okay on input line 84.
+LaTeX Font Info:    Checking defaults for TU/lmr/m/n on input line 84.
+LaTeX Font Info:    ... okay on input line 84.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 84.
+LaTeX Font Info:    ... okay on input line 84.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 84.
+LaTeX Font Info:    ... okay on input line 84.
+LaTeX Info: Redefining \microtypecontext on input line 84.
+Package microtype Info: Applying patch `item' on input line 84.
+Package microtype Info: Applying patch `toc' on input line 84.
+Package microtype Info: Applying patch `eqnum' on input line 84.
+Package microtype Info: Applying patch `footnote' on input line 84.
+Package microtype Info: Applying patch `verbatim' on input line 84.
+LaTeX Info: Redefining \microtypesetup on input line 84.
 Package microtype Info: Generating PDF output.
 Package microtype Info: Character protrusion enabled (level 2).
 Package microtype Info: Using default protrusion set `alltext'.
 Package microtype Info: Automatic font expansion enabled (level 2),
 (microtype)             stretch: 20, shrink: 20, step: 1, non-selected.
 Package microtype Info: Using default expansion set `alltext-nott'.
-LaTeX Info: Redefining \showhyphens on input line 73.
+LaTeX Info: Redefining \showhyphens on input line 84.
 Package microtype Info: No adjustment of tracking.
 Package microtype Info: No adjustment of spacing.
 Package microtype Info: No adjustment of kerning.
@@ -986,17 +950,17 @@ ern Roman (RS)
 (C:/Users/Gamergurl/AppData/Local/Programs/MiKTeX/tex/context/base/mkii/supp-pd
 f.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count393
-\scratchdimen=\dimen269
+\scratchcounter=\count367
+\scratchdimen=\dimen268
 \scratchbox=\box113
-\nofMPsegments=\count394
-\nofMParguments=\count395
-\everyMPshowfont=\toks36
-\MPscratchCnt=\count396
-\MPscratchDim=\dimen270
-\MPnumerator=\count397
-\makeMPintoPDFobject=\count398
-\everyMPtoPDFconversion=\toks37
+\nofMPsegments=\count368
+\nofMParguments=\count369
+\everyMPshowfont=\toks32
+\MPscratchCnt=\count370
+\MPscratchDim=\dimen269
+\MPnumerator=\count371
+\makeMPintoPDFobject=\count372
+\everyMPtoPDFconversion=\toks33
 )
 (C:/Users/Gamergurl/AppData/Local/Programs/MiKTeX/tex/latex/epstopdf-pkg/epstop
 df-base.sty
@@ -1015,93 +979,68 @@ Package fontspec Info:
 
 \symlegacymaths=\mathgroup4
 LaTeX Font Info:    Overwriting symbol font `legacymaths' in version `bold'
-(Font)                  OT1/cmr/m/n --> OT1/cmr/bx/n on input line 73.
-LaTeX Font Info:    Redeclaring math accent \acute on input line 73.
-LaTeX Font Info:    Redeclaring math accent \grave on input line 73.
-LaTeX Font Info:    Redeclaring math accent \ddot on input line 73.
-LaTeX Font Info:    Redeclaring math accent \tilde on input line 73.
-LaTeX Font Info:    Redeclaring math accent \bar on input line 73.
-LaTeX Font Info:    Redeclaring math accent \breve on input line 73.
-LaTeX Font Info:    Redeclaring math accent \check on input line 73.
-LaTeX Font Info:    Redeclaring math accent \hat on input line 73.
-LaTeX Font Info:    Redeclaring math accent \dot on input line 73.
-LaTeX Font Info:    Redeclaring math accent \mathring on input line 73.
-LaTeX Font Info:    Redeclaring math symbol \colon on input line 73.
-LaTeX Font Info:    Redeclaring math symbol \Gamma on input line 73.
-LaTeX Font Info:    Redeclaring math symbol \Delta on input line 73.
-LaTeX Font Info:    Redeclaring math symbol \Theta on input line 73.
-LaTeX Font Info:    Redeclaring math symbol \Lambda on input line 73.
-LaTeX Font Info:    Redeclaring math symbol \Xi on input line 73.
-LaTeX Font Info:    Redeclaring math symbol \Pi on input line 73.
-LaTeX Font Info:    Redeclaring math symbol \Sigma on input line 73.
-LaTeX Font Info:    Redeclaring math symbol \Upsilon on input line 73.
-LaTeX Font Info:    Redeclaring math symbol \Phi on input line 73.
-LaTeX Font Info:    Redeclaring math symbol \Psi on input line 73.
-LaTeX Font Info:    Redeclaring math symbol \Omega on input line 73.
-LaTeX Font Info:    Redeclaring math symbol \mathdollar on input line 73.
-LaTeX Font Info:    Redeclaring symbol font `operators' on input line 73.
+(Font)                  OT1/cmr/m/n --> OT1/cmr/bx/n on input line 84.
+LaTeX Font Info:    Redeclaring math accent \acute on input line 84.
+LaTeX Font Info:    Redeclaring math accent \grave on input line 84.
+LaTeX Font Info:    Redeclaring math accent \ddot on input line 84.
+LaTeX Font Info:    Redeclaring math accent \tilde on input line 84.
+LaTeX Font Info:    Redeclaring math accent \bar on input line 84.
+LaTeX Font Info:    Redeclaring math accent \breve on input line 84.
+LaTeX Font Info:    Redeclaring math accent \check on input line 84.
+LaTeX Font Info:    Redeclaring math accent \hat on input line 84.
+LaTeX Font Info:    Redeclaring math accent \dot on input line 84.
+LaTeX Font Info:    Redeclaring math accent \mathring on input line 84.
+LaTeX Font Info:    Redeclaring math symbol \colon on input line 84.
+LaTeX Font Info:    Redeclaring math symbol \Gamma on input line 84.
+LaTeX Font Info:    Redeclaring math symbol \Delta on input line 84.
+LaTeX Font Info:    Redeclaring math symbol \Theta on input line 84.
+LaTeX Font Info:    Redeclaring math symbol \Lambda on input line 84.
+LaTeX Font Info:    Redeclaring math symbol \Xi on input line 84.
+LaTeX Font Info:    Redeclaring math symbol \Pi on input line 84.
+LaTeX Font Info:    Redeclaring math symbol \Sigma on input line 84.
+LaTeX Font Info:    Redeclaring math symbol \Upsilon on input line 84.
+LaTeX Font Info:    Redeclaring math symbol \Phi on input line 84.
+LaTeX Font Info:    Redeclaring math symbol \Psi on input line 84.
+LaTeX Font Info:    Redeclaring math symbol \Omega on input line 84.
+LaTeX Font Info:    Redeclaring math symbol \mathdollar on input line 84.
+LaTeX Font Info:    Redeclaring symbol font `operators' on input line 84.
 LaTeX Font Info:    Encoding `OT1' has changed to `TU' for symbol font
-(Font)              `operators' in the math version `normal' on input line 73.
+(Font)              `operators' in the math version `normal' on input line 84.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
-(Font)                  OT1/cmr/m/n --> TU/lmr/m/n on input line 73.
+(Font)                  OT1/cmr/m/n --> TU/lmr/m/n on input line 84.
 LaTeX Font Info:    Encoding `OT1' has changed to `TU' for symbol font
-(Font)              `operators' in the math version `bold' on input line 73.
+(Font)              `operators' in the math version `bold' on input line 84.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
-(Font)                  OT1/cmr/bx/n --> TU/lmr/m/n on input line 73.
+(Font)                  OT1/cmr/bx/n --> TU/lmr/m/n on input line 84.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
-(Font)                  TU/lmr/m/n --> TU/lmr/m/n on input line 73.
+(Font)                  TU/lmr/m/n --> TU/lmr/m/n on input line 84.
 LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `normal'
-(Font)                  OT1/cmr/m/it --> TU/lmr/m/it on input line 73.
+(Font)                  OT1/cmr/m/it --> TU/lmr/m/it on input line 84.
 LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `normal'
-(Font)                  OT1/cmr/bx/n --> TU/lmr/b/n on input line 73.
+(Font)                  OT1/cmr/bx/n --> TU/lmr/b/n on input line 84.
 LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `normal'
-(Font)                  OT1/cmss/m/n --> TU/lmss/m/n on input line 73.
+(Font)                  OT1/cmss/m/n --> TU/lmss/m/n on input line 84.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `normal'
-(Font)                  OT1/cmtt/m/n --> TU/lmtt/m/n on input line 73.
+(Font)                  OT1/cmtt/m/n --> TU/lmtt/m/n on input line 84.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
-(Font)                  TU/lmr/m/n --> TU/lmr/b/n on input line 73.
+(Font)                  TU/lmr/m/n --> TU/lmr/b/n on input line 84.
 LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
-(Font)                  OT1/cmr/bx/it --> TU/lmr/b/it on input line 73.
+(Font)                  OT1/cmr/bx/it --> TU/lmr/b/it on input line 84.
 LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
-(Font)                  OT1/cmss/bx/n --> TU/lmss/b/n on input line 73.
+(Font)                  OT1/cmss/bx/n --> TU/lmss/b/n on input line 84.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
-(Font)                  OT1/cmtt/m/n --> TU/lmtt/b/n on input line 73.
+(Font)                  OT1/cmtt/m/n --> TU/lmtt/b/n on input line 84.
 
 set lang czech, 2
 <smallstarscover.png, id=1, 845.0772pt x 1194.864pt>
 File: smallstarscover.png Graphic file (type png)
 <use smallstarscover.png>
-Package luatex.def Info: smallstarscover.png  used on input line 74.
+Package luatex.def Info: smallstarscover.png  used on input line 86.
 (luatex.def)             Requested size: 348.0pt x 492.03058pt.
-
-
-[1
-
-{C:/Users/Gamergurl/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}<./smallsta
-rscover.png>]
-
-[2
-
-]
-Underfull \hbox (badness 10000) in paragraph at lines 88--89
-
- []
-
-<Sederplate.png, id=13, 192.72pt x 192.72pt>
-File: Sederplate.png Graphic file (type png)
-<use Sederplate.png>
-Package luatex.def Info: Sederplate.png  used on input line 90.
-(luatex.def)             Requested size: 142.26378pt x 142.26355pt.
-
-
-[3
-
-<./Sederplate.png>]
 Package microtype Info: Loading generic protrusion settings for font family
 (microtype)             `NewPeninimMT' (encoding: TU).
 (microtype)             For optimal results, create family-specific settings.
 (microtype)             See the microtype manual for details.
-
 
 Package microtype Warning: Unknown slot number of character
 (microtype)                `\`A'
@@ -1733,6 +1672,107 @@ Package microtype Warning: Unknown slot number of character
 (microtype)                `microtype.cfg/411(protrusion)'.
 
 Package microtype Info: Character `A' is missing
+(microtype)             in font `TU/NewPeninimMT(0)/m/n/24.88'.
+(microtype)             Ignoring protrusion settings for this character.
+Package microtype Info: Character `F' is missing
+(microtype)             in font `TU/NewPeninimMT(0)/m/n/24.88'.
+(microtype)             Ignoring protrusion settings for this character.
+Package microtype Info: Character `J' is missing
+(microtype)             in font `TU/NewPeninimMT(0)/m/n/24.88'.
+(microtype)             Ignoring protrusion settings for this character.
+Package microtype Info: Character `K' is missing
+(microtype)             in font `TU/NewPeninimMT(0)/m/n/24.88'.
+(microtype)             Ignoring protrusion settings for this character.
+Package microtype Info: Character `L' is missing
+(microtype)             in font `TU/NewPeninimMT(0)/m/n/24.88'.
+(microtype)             Ignoring protrusion settings for this character.
+Package microtype Info: Character `T' is missing
+(microtype)             in font `TU/NewPeninimMT(0)/m/n/24.88'.
+(microtype)             Ignoring protrusion settings for this character.
+Package microtype Info: Character `V' is missing
+(microtype)             in font `TU/NewPeninimMT(0)/m/n/24.88'.
+(microtype)             Ignoring protrusion settings for this character.
+Package microtype Info: Character `W' is missing
+(microtype)             in font `TU/NewPeninimMT(0)/m/n/24.88'.
+(microtype)             Ignoring protrusion settings for this character.
+Package microtype Info: Character `X' is missing
+(microtype)             in font `TU/NewPeninimMT(0)/m/n/24.88'.
+(microtype)             Ignoring protrusion settings for this character.
+Package microtype Info: Character `Y' is missing
+(microtype)             in font `TU/NewPeninimMT(0)/m/n/24.88'.
+(microtype)             Ignoring protrusion settings for this character.
+Package microtype Info: Character `k' is missing
+(microtype)             in font `TU/NewPeninimMT(0)/m/n/24.88'.
+(microtype)             Ignoring protrusion settings for this character.
+Package microtype Info: Character `r' is missing
+(microtype)             in font `TU/NewPeninimMT(0)/m/n/24.88'.
+(microtype)             Ignoring protrusion settings for this character.
+Package microtype Info: Character `v' is missing
+(microtype)             in font `TU/NewPeninimMT(0)/m/n/24.88'.
+(microtype)             Ignoring protrusion settings for this character.
+Package microtype Info: Character `w' is missing
+(microtype)             in font `TU/NewPeninimMT(0)/m/n/24.88'.
+(microtype)             Ignoring protrusion settings for this character.
+Package microtype Info: Character `x' is missing
+(microtype)             in font `TU/NewPeninimMT(0)/m/n/24.88'.
+(microtype)             Ignoring protrusion settings for this character.
+Package microtype Info: Character `y' is missing
+(microtype)             in font `TU/NewPeninimMT(0)/m/n/24.88'.
+(microtype)             Ignoring protrusion settings for this character.
+Package microtype Info: Character `@' is missing
+(microtype)             in font `TU/NewPeninimMT(0)/m/n/24.88'.
+(microtype)             Ignoring protrusion settings for this character.
+Package microtype Info: Character `~ (= ~)' is missing
+(microtype)             in font `TU/NewPeninimMT(0)/m/n/24.88'.
+(microtype)             Ignoring protrusion settings for this character.
+Package microtype Info: Character `AE ' is missing
+(microtype)             in font `TU/NewPeninimMT(0)/m/n/24.88'.
+(microtype)             Ignoring protrusion settings for this character.
+Package microtype Info: Character `_' is missing
+(microtype)             in font `TU/NewPeninimMT(0)/m/n/24.88'.
+(microtype)             Ignoring protrusion settings for this character.
+Package microtype Info: Character `quotesinglbase ' is missing
+(microtype)             in font `TU/NewPeninimMT(0)/m/n/24.88'.
+(microtype)             Ignoring protrusion settings for this character.
+Package microtype Info: Character `guilsinglleft ' is missing
+(microtype)             in font `TU/NewPeninimMT(0)/m/n/24.88'.
+(microtype)             Ignoring protrusion settings for this character.
+Package microtype Info: Character `guilsinglright ' is missing
+(microtype)             in font `TU/NewPeninimMT(0)/m/n/24.88'.
+(microtype)             Ignoring protrusion settings for this character.
+Package microtype Info: Character `guillemotleft ' is missing
+(microtype)             in font `TU/NewPeninimMT(0)/m/n/24.88'.
+(microtype)             Ignoring protrusion settings for this character.
+Package microtype Info: Character `guillemotright ' is missing
+(microtype)             in font `TU/NewPeninimMT(0)/m/n/24.88'.
+(microtype)             Ignoring protrusion settings for this character.
+Package microtype Info: Character `textexclamdown ' is missing
+(microtype)             in font `TU/NewPeninimMT(0)/m/n/24.88'.
+(microtype)             Ignoring protrusion settings for this character.
+Package microtype Info: Character `textquestiondown ' is missing
+(microtype)             in font `TU/NewPeninimMT(0)/m/n/24.88'.
+(microtype)             Ignoring protrusion settings for this character.
+
+
+[1
+
+{C:/Users/Gamergurl/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}<./smallsta
+rscover.png>]
+
+[2
+
+]
+<Sederplate.png, id=12, 192.72pt x 192.72pt>
+File: Sederplate.png Graphic file (type png)
+<use Sederplate.png>
+Package luatex.def Info: Sederplate.png  used on input line 135.
+(luatex.def)             Requested size: 142.26378pt x 142.26355pt.
+
+
+[3
+
+<./Sederplate.png>]
+Package microtype Info: Character `A' is missing
 (microtype)             in font `TU/NewPeninimMT(0)/m/n/14.4'.
 (microtype)             Ignoring protrusion settings for this character.
 Package microtype Info: Character `F' is missing
@@ -1813,10 +1853,11 @@ Package microtype Info: Character `textexclamdown ' is missing
 Package microtype Info: Character `textquestiondown ' is missing
 (microtype)             in font `TU/NewPeninimMT(0)/m/n/14.4'.
 (microtype)             Ignoring protrusion settings for this character.
+
 ! Undefined control sequence.
 <argument> \shape 
                   נֵרוֹת
-l.96 	\ContentsColumnar
+l.139 \ContentsColumnar
                        
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -1825,14 +1866,14 @@ spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 96--96
+Underfull \hbox (badness 10000) in paragraph at lines 139--139
 
  []
 
 ! Undefined control sequence.
 <argument> \shape 
                   קַדֵּישׁ
-l.96 	\ContentsColumnar
+l.139 \ContentsColumnar
                        
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -1841,7 +1882,7 @@ spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 96--96
+Underfull \hbox (badness 10000) in paragraph at lines 139--139
 
  []
 
@@ -1929,7 +1970,7 @@ Package microtype Info: Character `textquestiondown ' is missing
 ! Undefined control sequence.
 <argument> \shape 
                   וּרְחַץ
-l.96 	\ContentsColumnar
+l.139 \ContentsColumnar
                        
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -1938,14 +1979,14 @@ spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 96--96
+Underfull \hbox (badness 10000) in paragraph at lines 139--139
 
  []
 
 ! Undefined control sequence.
 <argument> \shape 
                   כַּרְפַּס
-l.96 	\ContentsColumnar
+l.139 \ContentsColumnar
                        
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -1954,14 +1995,14 @@ spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 96--96
+Underfull \hbox (badness 10000) in paragraph at lines 139--139
 
  []
 
 ! Undefined control sequence.
 <argument> \shape 
                   יַחַץ
-l.96 	\ContentsColumnar
+l.139 \ContentsColumnar
                        
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -1970,14 +2011,14 @@ spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 96--96
+Underfull \hbox (badness 10000) in paragraph at lines 139--139
 
  []
 
 ! Undefined control sequence.
 <argument> \shape 
                   ארבעה
-l.96 	\ContentsColumnar
+l.139 \ContentsColumnar
                        
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -1986,14 +2027,14 @@ spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 96--96
+Underfull \hbox (badness 10000) in paragraph at lines 139--139
 
  []
 
 ! Undefined control sequence.
 <argument> \shape 
                   מַגִּיד
-l.96 	\ContentsColumnar
+l.139 \ContentsColumnar
                        
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -2002,14 +2043,14 @@ spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 96--96
+Underfull \hbox (badness 10000) in paragraph at lines 139--139
 
  []
 
 ! Undefined control sequence.
 <argument> \shape 
                   רָחְצָה
-l.96 	\ContentsColumnar
+l.139 \ContentsColumnar
                        
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -2018,14 +2059,14 @@ spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 96--96
+Underfull \hbox (badness 10000) in paragraph at lines 139--139
 
  []
 
 ! Undefined control sequence.
 <argument> \shape 
                   מַצָּה
-l.96 	\ContentsColumnar
+l.139 \ContentsColumnar
                        
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -2034,14 +2075,14 @@ spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 96--96
+Underfull \hbox (badness 10000) in paragraph at lines 139--139
 
  []
 
 ! Undefined control sequence.
 <argument> \shape 
                   מָרוֹר
-l.96 	\ContentsColumnar
+l.139 \ContentsColumnar
                        
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -2050,14 +2091,14 @@ spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 96--96
+Underfull \hbox (badness 10000) in paragraph at lines 139--139
 
  []
 
 ! Undefined control sequence.
 <argument> \shape 
                   כּוֹרֵךְ
-l.96 	\ContentsColumnar
+l.139 \ContentsColumnar
                        
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -2066,19 +2107,19 @@ spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 96--96
+Underfull \hbox (badness 10000) in paragraph at lines 139--139
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 96--96
+Underfull \hbox (badness 10000) in paragraph at lines 139--139
 []\TU/lmr/m/n/10 Šulchan
  []
 
 ! Undefined control sequence.
 <argument> \shape 
                   שֻׁלְחָן ערוּך
-l.96 	\ContentsColumnar
+l.139 \ContentsColumnar
                        
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -2087,19 +2128,19 @@ spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 96--96
+Underfull \hbox (badness 10000) in paragraph at lines 139--139
 []\TU/NewPeninimMT(0)/m/n/17.28 שֻׁלְחָן
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 96--96
+Underfull \hbox (badness 10000) in paragraph at lines 139--139
 
  []
 
 ! Undefined control sequence.
 <argument> \shape 
                   צָפוּן
-l.96 	\ContentsColumnar
+l.139 \ContentsColumnar
                        
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -2108,14 +2149,14 @@ spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 96--96
+Underfull \hbox (badness 10000) in paragraph at lines 139--139
 
  []
 
 ! Undefined control sequence.
 <argument> \shape 
                   בָּרֵךְ
-l.96 	\ContentsColumnar
+l.139 \ContentsColumnar
                        
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -2124,14 +2165,14 @@ spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 96--96
+Underfull \hbox (badness 10000) in paragraph at lines 139--139
 
  []
 
 ! Undefined control sequence.
 <argument> \shape 
                   הַלֵּל
-l.96 	\ContentsColumnar
+l.139 \ContentsColumnar
                        
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -2140,14 +2181,14 @@ spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 96--96
+Underfull \hbox (badness 10000) in paragraph at lines 139--139
 
  []
 
 ! Undefined control sequence.
 <argument> \shape 
                   נִרְצָה
-l.96 	\ContentsColumnar
+l.139 \ContentsColumnar
                        
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -2156,15 +2197,13 @@ spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 96--96
+Underfull \hbox (badness 10000) in paragraph at lines 139--139
 
  []
 
 [4
 
 ]
-
-[5]
 Package microtype Info: Character `A' is missing
 (microtype)             in font `TU/NewPeninimMT(0)/m/n/10'.
 (microtype)             Ignoring protrusion settings for this character.
@@ -2327,30 +2366,26 @@ Package microtype Info: Character `textexclamdown ' is missing
 Package microtype Info: Character `textquestiondown ' is missing
 (microtype)             in font `TU/NewPeninimMT(0)/m/n/20.74'.
 (microtype)             Ignoring protrusion settings for this character.
-<cup.png, id=26, 198.7425pt x 315.579pt>
+<cup.png, id=21, 198.7425pt x 315.579pt>
 File: cup.png Graphic file (type png)
 <use cup.png>
-Package luatex.def Info: cup.png  used on input line 106.
+Package luatex.def Info: cup.png  used on input line 148.
 (luatex.def)             Requested size: 28.45274pt x 45.17752pt.
 
 
-[6
-
-<./cup.png>]
-<Karpas.png, id=31, 69.25874pt x 122.25674pt>
+[5<./cup.png>]
+<Karpas.png, id=26, 69.25874pt x 122.25674pt>
 File: Karpas.png Graphic file (type png)
 <use Karpas.png>
-Package luatex.def Info: Karpas.png  used on input line 136.
+Package luatex.def Info: Karpas.png  used on input line 177.
 (luatex.def)             Requested size: 28.45274pt x 50.22446pt.
 
 
-[7
-
-<./Karpas.png>]
+[6<./Karpas.png>]
 ! Undefined control sequence.
-\MaNishtana -> {\onehalfspacing 
-                                \centering \color {black}Ty čtyři otázky ...
-l.145 \MaNishtana
+\MaNishtana -> {\doublespacing 
+                               \vspace *{2ex} \centering \color {black}Ty č...
+l.186 \MaNishtana
                  
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -2362,7 +2397,7 @@ and I'll forget about whatever was undefined.
 <argument> \shape 
                   מַה נִּשְׁתַּנָּה הַלַּיְלָה הַ...
 
-l.145 \MaNishtana
+l.186 \MaNishtana
                  
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -2377,17 +2412,20 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.145 \MaNishtana
+l.186 \MaNishtana
                  
 Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
 or  <return>  to continue without it.
 
+
+
+[7]
 ! Undefined control sequence.
 <argument> \shape 
                   שֶׁבְּכָל הַלֵּילוֹת אָנוּ אוֹכ...
 
-l.145 \MaNishtana
+l.186 \MaNishtana
                  
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -2402,7 +2440,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.145 \MaNishtana
+l.186 \MaNishtana
                  
 Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
@@ -2411,7 +2449,7 @@ or  <return>  to continue without it.
 ! Undefined control sequence.
 <argument> \shape 
                   ...הַלַּיְלָה הַזֶּה כֻּלּוֹ מַצ...
-l.145 \MaNishtana
+l.186 \MaNishtana
                  
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -2420,16 +2458,13 @@ spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
 
-
-[8]
-
 ! LaTeX Error: There's no line here to end.
 
 See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.145 \MaNishtana
+l.186 \MaNishtana
                  
 Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
@@ -2439,7 +2474,7 @@ or  <return>  to continue without it.
 <argument> \shape 
                   שֶׁבְּכָל הַלֵּילוֹת אָנוּ אוֹכ...
 
-l.145 \MaNishtana
+l.186 \MaNishtana
                  
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -2454,7 +2489,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.145 \MaNishtana
+l.186 \MaNishtana
                  
 Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
@@ -2463,7 +2498,7 @@ or  <return>  to continue without it.
 ! Undefined control sequence.
 <argument> \shape 
                   ...הַלַּיְלָה הַזֶּה (כֻּלּוֹ) מָ...
-l.145 \MaNishtana
+l.186 \MaNishtana
                  
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -2478,7 +2513,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.145 \MaNishtana
+l.186 \MaNishtana
                  
 Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
@@ -2488,7 +2523,7 @@ or  <return>  to continue without it.
 <argument> \shape 
                   שֶׁבְּכָל הַלֵּילוֹת אֵין אָנוּ...
 
-l.145 \MaNishtana
+l.186 \MaNishtana
                  
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -2503,7 +2538,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.145 \MaNishtana
+l.186 \MaNishtana
                  
 Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
@@ -2512,7 +2547,7 @@ or  <return>  to continue without it.
 ! Undefined control sequence.
 <argument> \shape 
                   ...הַלַּיְלָה הַזֶּה שְׁתֵּי פְע...
-l.145 \MaNishtana
+l.186 \MaNishtana
                  
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -2521,13 +2556,18 @@ spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
 
+
+[8
+
+]
+
 ! LaTeX Error: There's no line here to end.
 
 See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.145 \MaNishtana
+l.186 \MaNishtana
                  
 Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
@@ -2537,7 +2577,7 @@ or  <return>  to continue without it.
 <argument> \shape 
                   שֶׁבְּכָל הַלֵּילוֹת אָנוּ אוֹכ...
 
-l.145 \MaNishtana
+l.186 \MaNishtana
                  
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -2552,7 +2592,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.145 \MaNishtana
+l.186 \MaNishtana
                  
 Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
@@ -2562,7 +2602,7 @@ or  <return>  to continue without it.
 <argument> \shape 
                   ...הַלַּיְלָה הַזֶּה כֻּלָּנוּ מ...
 
-l.145 \MaNishtana
+l.186 \MaNishtana
                  
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -2577,17 +2617,14 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.145 \MaNishtana
+l.186 \MaNishtana
                  
 Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
 or  <return>  to continue without it.
 
-
-
-[9]
 ! Undefined control sequence.
-l.146 \FourChildrenText
+l.187 \FourChildrenText
                        
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -2596,19 +2633,19 @@ spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 149--149
+Underfull \hbox (badness 10000) in paragraph at lines 191--191
  [][]\TU/lmr/m/it/10 Naplňte svůj po-hár, ale ještě ho nepi-jte 
  []
 
 
-Underfull \hbox (badness 6316) in paragraph at lines 149--149
+Underfull \hbox (badness 6316) in paragraph at lines 191--191
  \TU/lmr/m/it/10 Pour the sec-ond glass. Do not drink it yet.[][] 
  []
 
 ! Undefined control sequence.
 \MaggidIntro ...\\ \end {Center} {\onehalfspacing 
                                                   \color {black} \MaggidText...
-l.149 \MaggidIntro
+l.191 \MaggidIntro
                   
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -2619,7 +2656,7 @@ and I'll forget about whatever was undefined.
 ! Undefined control sequence.
 <argument> \shape 
                   הַבֶּט־נָא הַשָּׁמַיְמָה וּסְפ...
-l.149 \MaggidIntro
+l.191 \MaggidIntro
                   
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -2631,7 +2668,7 @@ and I'll forget about whatever was undefined.
 <argument> \shape 
                   אֲנִי יְהֹוָה אֲשֶׁר הוֹצֵאתִיך...
 
-l.149 \MaggidIntro
+l.191 \MaggidIntro
                   
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -2639,10 +2676,15 @@ misspelled it (e.g., `\hobx'), type `I' and the correct
 spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
+
+
+[9
+
+]
 ! Undefined control sequence.
 <argument> \shape 
                   יִהְיֶה זַרְעֲךָ בְּאֶרֶץ לֹא ל...
-l.149 \MaggidIntro
+l.191 \MaggidIntro
                   
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -2653,7 +2695,7 @@ and I'll forget about whatever was undefined.
 ! Undefined control sequence.
 <argument> \shape 
                   ...וְגַם אֶת־הַגּוֹי אֲשֶׁר יַעֲ...
-l.149 \MaggidIntro
+l.191 \MaggidIntro
                   
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -2664,7 +2706,7 @@ and I'll forget about whatever was undefined.
 ! Undefined control sequence.
 <argument> \shape 
                   וְהִיא שֶׁעָמְדָה לַאֲבוֹתֵינו...
-l.149 \MaggidIntro
+l.191 \MaggidIntro
                   
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -2676,15 +2718,13 @@ and I'll forget about whatever was undefined.
 
 [10]
 
-[11]
-
 ! LaTeX Error: There's no line here to end.
 
 See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.154 \Plagues
+l.196 \Plagues
               
 Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
@@ -2693,7 +2733,7 @@ or  <return>  to continue without it.
 ! Undefined control sequence.
 <argument> \shape 
                   דָּם
-l.154 \Plagues
+l.196 \Plagues
               
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -2704,7 +2744,7 @@ and I'll forget about whatever was undefined.
 ! Undefined control sequence.
 <argument> \shape 
                   צְפַרְדֵּעַ
-l.154 \Plagues
+l.196 \Plagues
               
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -2715,7 +2755,7 @@ and I'll forget about whatever was undefined.
 ! Undefined control sequence.
 <argument> \shape 
                   כִּנִּים
-l.154 \Plagues
+l.196 \Plagues
               
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -2726,7 +2766,7 @@ and I'll forget about whatever was undefined.
 ! Undefined control sequence.
 <argument> \shape 
                   עַרוֹב
-l.154 \Plagues
+l.196 \Plagues
               
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -2737,7 +2777,7 @@ and I'll forget about whatever was undefined.
 ! Undefined control sequence.
 <argument> \shape 
                   דֶּבֶר
-l.154 \Plagues
+l.196 \Plagues
               
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -2748,7 +2788,7 @@ and I'll forget about whatever was undefined.
 ! Undefined control sequence.
 <argument> \shape 
                   שְׁחִין
-l.154 \Plagues
+l.196 \Plagues
               
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -2759,7 +2799,7 @@ and I'll forget about whatever was undefined.
 ! Undefined control sequence.
 <argument> \shape 
                   בָּרָד
-l.154 \Plagues
+l.196 \Plagues
               
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -2770,7 +2810,7 @@ and I'll forget about whatever was undefined.
 ! Undefined control sequence.
 <argument> \shape 
                   אַרְבֶּה
-l.154 \Plagues
+l.196 \Plagues
               
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -2781,7 +2821,7 @@ and I'll forget about whatever was undefined.
 ! Undefined control sequence.
 <argument> \shape 
                   חוֹשֶׁךְ
-l.154 \Plagues
+l.196 \Plagues
               
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -2792,7 +2832,7 @@ and I'll forget about whatever was undefined.
 ! Undefined control sequence.
 <argument> \shape 
                   מַכַּת בְּכוֹרוֹת
-l.154 \Plagues
+l.196 \Plagues
               
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -2802,170 +2842,13 @@ and I'll forget about whatever was undefined.
 
 
 
-[12
+[11
 
 ]
 ! Undefined control sequence.
 <argument> \shape 
                   \color {darkblue} אִלּוּ הוֹצִיאָנוּ מִ...
-l.159 \Dayyeinu
-               
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-! Undefined control sequence.
-<argument> \shape 
-                  \color {darkblue} וְלֹא עָשָׂה בָּהֶם שְ...
-
-l.159 \Dayyeinu
-               
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-Package microtype Info: Character `A' is missing
-(microtype)             in font `TU/NewPeninimMT(0)/m/n/24.88'.
-(microtype)             Ignoring protrusion settings for this character.
-Package microtype Info: Character `F' is missing
-(microtype)             in font `TU/NewPeninimMT(0)/m/n/24.88'.
-(microtype)             Ignoring protrusion settings for this character.
-Package microtype Info: Character `J' is missing
-(microtype)             in font `TU/NewPeninimMT(0)/m/n/24.88'.
-(microtype)             Ignoring protrusion settings for this character.
-Package microtype Info: Character `K' is missing
-(microtype)             in font `TU/NewPeninimMT(0)/m/n/24.88'.
-(microtype)             Ignoring protrusion settings for this character.
-Package microtype Info: Character `L' is missing
-(microtype)             in font `TU/NewPeninimMT(0)/m/n/24.88'.
-(microtype)             Ignoring protrusion settings for this character.
-Package microtype Info: Character `T' is missing
-(microtype)             in font `TU/NewPeninimMT(0)/m/n/24.88'.
-(microtype)             Ignoring protrusion settings for this character.
-Package microtype Info: Character `V' is missing
-(microtype)             in font `TU/NewPeninimMT(0)/m/n/24.88'.
-(microtype)             Ignoring protrusion settings for this character.
-Package microtype Info: Character `W' is missing
-(microtype)             in font `TU/NewPeninimMT(0)/m/n/24.88'.
-(microtype)             Ignoring protrusion settings for this character.
-Package microtype Info: Character `X' is missing
-(microtype)             in font `TU/NewPeninimMT(0)/m/n/24.88'.
-(microtype)             Ignoring protrusion settings for this character.
-Package microtype Info: Character `Y' is missing
-(microtype)             in font `TU/NewPeninimMT(0)/m/n/24.88'.
-(microtype)             Ignoring protrusion settings for this character.
-Package microtype Info: Character `k' is missing
-(microtype)             in font `TU/NewPeninimMT(0)/m/n/24.88'.
-(microtype)             Ignoring protrusion settings for this character.
-Package microtype Info: Character `r' is missing
-(microtype)             in font `TU/NewPeninimMT(0)/m/n/24.88'.
-(microtype)             Ignoring protrusion settings for this character.
-Package microtype Info: Character `v' is missing
-(microtype)             in font `TU/NewPeninimMT(0)/m/n/24.88'.
-(microtype)             Ignoring protrusion settings for this character.
-Package microtype Info: Character `w' is missing
-(microtype)             in font `TU/NewPeninimMT(0)/m/n/24.88'.
-(microtype)             Ignoring protrusion settings for this character.
-Package microtype Info: Character `x' is missing
-(microtype)             in font `TU/NewPeninimMT(0)/m/n/24.88'.
-(microtype)             Ignoring protrusion settings for this character.
-Package microtype Info: Character `y' is missing
-(microtype)             in font `TU/NewPeninimMT(0)/m/n/24.88'.
-(microtype)             Ignoring protrusion settings for this character.
-Package microtype Info: Character `@' is missing
-(microtype)             in font `TU/NewPeninimMT(0)/m/n/24.88'.
-(microtype)             Ignoring protrusion settings for this character.
-Package microtype Info: Character `~ (= ~)' is missing
-(microtype)             in font `TU/NewPeninimMT(0)/m/n/24.88'.
-(microtype)             Ignoring protrusion settings for this character.
-Package microtype Info: Character `AE ' is missing
-(microtype)             in font `TU/NewPeninimMT(0)/m/n/24.88'.
-(microtype)             Ignoring protrusion settings for this character.
-Package microtype Info: Character `_' is missing
-(microtype)             in font `TU/NewPeninimMT(0)/m/n/24.88'.
-(microtype)             Ignoring protrusion settings for this character.
-Package microtype Info: Character `quotesinglbase ' is missing
-(microtype)             in font `TU/NewPeninimMT(0)/m/n/24.88'.
-(microtype)             Ignoring protrusion settings for this character.
-Package microtype Info: Character `guilsinglleft ' is missing
-(microtype)             in font `TU/NewPeninimMT(0)/m/n/24.88'.
-(microtype)             Ignoring protrusion settings for this character.
-Package microtype Info: Character `guilsinglright ' is missing
-(microtype)             in font `TU/NewPeninimMT(0)/m/n/24.88'.
-(microtype)             Ignoring protrusion settings for this character.
-Package microtype Info: Character `guillemotleft ' is missing
-(microtype)             in font `TU/NewPeninimMT(0)/m/n/24.88'.
-(microtype)             Ignoring protrusion settings for this character.
-Package microtype Info: Character `guillemotright ' is missing
-(microtype)             in font `TU/NewPeninimMT(0)/m/n/24.88'.
-(microtype)             Ignoring protrusion settings for this character.
-Package microtype Info: Character `textexclamdown ' is missing
-(microtype)             in font `TU/NewPeninimMT(0)/m/n/24.88'.
-(microtype)             Ignoring protrusion settings for this character.
-Package microtype Info: Character `textquestiondown ' is missing
-(microtype)             in font `TU/NewPeninimMT(0)/m/n/24.88'.
-(microtype)             Ignoring protrusion settings for this character.
-! Undefined control sequence.
-<argument> \shape 
-                  \color {darkblue} אִלּוּ עָשָׂה בָּהֶם ש...
-
-l.159 \Dayyeinu
-               
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-! Undefined control sequence.
-<argument> \shape 
-                  \color {darkblue}...וְלֹא עָשָׂה בֵּאלֹה...
-l.159 \Dayyeinu
-               
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [13
-
-]
-! Undefined control sequence.
-<argument> \shape 
-                  \color {darkblue} אִלּוּ עָשָׂה בֵּאלֹה...
-l.159 \Dayyeinu
-               
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-! Undefined control sequence.
-<argument> \shape 
-                  \color {darkblue}...וְלֹא הָרַג אֶת בְּכו...
-
-l.159 \Dayyeinu
-               
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-! Undefined control sequence.
-<argument> \shape 
-                  \color {darkblue} אִלּוּ הָרַג אֶת בְּכו...
-
-l.159 \Dayyeinu
+l.201 \Dayyeinu
                
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -2977,7 +2860,7 @@ and I'll forget about whatever was undefined.
 <argument> \shape 
                   \color {darkblue}...וְלֹא נָתַן לָנוּ אֶת...
 
-l.159 \Dayyeinu
+l.201 \Dayyeinu
                
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -2988,7 +2871,7 @@ and I'll forget about whatever was undefined.
 ! Undefined control sequence.
 <argument> \shape 
                   \color {darkblue}אִלּוּ נָתַן לָנוּ אֶת...
-l.159 \Dayyeinu
+l.201 \Dayyeinu
                
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -2999,7 +2882,7 @@ and I'll forget about whatever was undefined.
 ! Undefined control sequence.
 <argument> \shape 
                   \color {darkblue}...ןלא קָרַע לָנוּ אֶת ה...
-l.159 \Dayyeinu
+l.201 \Dayyeinu
                
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -3008,61 +2891,15 @@ spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
 
-Underfull \vbox (badness 2846) has occurred while \output is active []
+Underfull \vbox (badness 10000) has occurred while \output is active []
 
+ [12
 
-
-[14]
+]
 ! Undefined control sequence.
 <argument> \shape 
                   \color {darkblue}אִלּוּ קָרַע לָנוּ אֶת...
-l.159 \Dayyeinu
-               
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-! Undefined control sequence.
-<argument> \shape 
-                  \color {darkblue}...וְלֹא הֶעֱבִירָנוּ ב...
-l.159 \Dayyeinu
-               
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-! Undefined control sequence.
-<argument> \shape 
-                  \color {darkblue}אִלּוּ הֶעֱבִירָנוּ בְ...
-
-l.159 \Dayyeinu
-               
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-! Undefined control sequence.
-<argument> \shape 
-                  \color {darkblue}...וְלֹא שִׁקַע צָרֵינו...
-l.159 \Dayyeinu
-               
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-! Undefined control sequence.
-<argument> \shape 
-                  \color {darkblue}אִלּוּ שִׁקַע צָרֵינוּ...
-
-l.159 \Dayyeinu
+l.201 \Dayyeinu
                
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -3073,7 +2910,7 @@ and I'll forget about whatever was undefined.
 ! Undefined control sequence.
 <argument> \shape 
                   \color {darkblue}...וְלֹא סִפֵּק צָרַכֵּ...
-l.159 \Dayyeinu
+l.201 \Dayyeinu
                
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -3085,7 +2922,7 @@ and I'll forget about whatever was undefined.
 <argument> \shape 
                   \color {darkblue}אִלּוּ סִפֵּק צָרַכֵּנ...
 
-l.159 \Dayyeinu
+l.201 \Dayyeinu
                
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -3096,7 +2933,7 @@ and I'll forget about whatever was undefined.
 ! Undefined control sequence.
 <argument> \shape 
                   \color {darkblue}...וְלֹא הֶאֱכִילָנוּ א...
-l.159 \Dayyeinu
+l.201 \Dayyeinu
                
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -3104,14 +2941,11 @@ misspelled it (e.g., `\hobx'), type `I' and the correct
 spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
-
-
-[15]
 ! Undefined control sequence.
 <argument> \shape 
                   \color {darkblue}אִלּוּ הֶאֱכִילָנוּ אֶ...
 
-l.159 \Dayyeinu
+l.201 \Dayyeinu
                
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -3123,7 +2957,7 @@ and I'll forget about whatever was undefined.
 <argument> \shape 
                   \color {darkblue}...וְלֹא נָתַן לָנוּ אֶת...
 
-l.159 \Dayyeinu
+l.201 \Dayyeinu
                
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -3131,33 +2965,16 @@ misspelled it (e.g., `\hobx'), type `I' and the correct
 spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
+
+Underfull \vbox (badness 3009) has occurred while \output is active []
+
+
+
+[13]
 ! Undefined control sequence.
 <argument> \shape 
                   \color {darkblue}אִלּוּ נָתַן לָנוּ אֶת...
-l.159 \Dayyeinu
-               
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-! Undefined control sequence.
-<argument> \shape 
-                  \color {darkblue}...וְלֹא קֵרְבָנוּ לִפְ...
-l.159 \Dayyeinu
-               
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-! Undefined control sequence.
-<argument> \shape 
-                  \color {darkblue}אִלּוּ קֵרְבָנוּ לִפְנ...
-
-l.159 \Dayyeinu
+l.201 \Dayyeinu
                
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -3169,7 +2986,7 @@ and I'll forget about whatever was undefined.
 <argument> \shape 
                   \color {darkblue}...וְלֹא נָתַן לָנוּ אֶת...
 
-l.159 \Dayyeinu
+l.201 \Dayyeinu
                
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -3177,66 +2994,11 @@ misspelled it (e.g., `\hobx'), type `I' and the correct
 spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
-
-Underfull \vbox (badness 2846) has occurred while \output is active []
-
-
-
-[16]
-! Undefined control sequence.
-<argument> \shape 
-                  \color {darkblue}אִלּוּ נָתַן לָנוּ אֶת...
-l.159 \Dayyeinu
-               
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-! Undefined control sequence.
-<argument> \shape 
-                  \color {darkblue}...וְלֹא הִכְנִיסָנוּ ל...
-l.159 \Dayyeinu
-               
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-! Undefined control sequence.
-<argument> \shape 
-                  \color {darkblue}אִלּוּ הִכְנִיסָנוּ לְ...
-
-l.159 \Dayyeinu
-               
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-! Undefined control sequence.
-<argument> \shape 
-                  \color {darkblue}...וְלֹא בָּנָה לָנוּ אֶ...
-
-l.159 \Dayyeinu
-               
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-
-
-[17]
 ! Undefined control sequence.
 <argument> \shape 
                   בְּכָל-דּוֹר וָדוֹר חַיָּב אָדָ...
-l.163 \Gamliel
-              
+l.210 \EveryGeneration
+                      
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
 misspelled it (e.g., `\hobx'), type `I' and the correct
@@ -3245,57 +3007,52 @@ and I'll forget about whatever was undefined.
 
 
 
-[18
+[14]
+File: cup.png Graphic file (type png)
+<use cup.png>
+Package luatex.def Info: cup.png  used on input line 214.
+(luatex.def)             Requested size: 28.45274pt x 45.17752pt.
+
+
+[15
 
 ]
-! Undefined control sequence.
-<argument> \shape 
-                  בְּכָל-דּוֹר וָדוֹר חַיָּב אָדָ...
-l.173 \EveryGenerationText
-                          
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 175--175
+Underfull \hbox (badness 10000) in paragraph at lines 224--224
 |\TU/lmr/bx/n/12 Rachtzah : Hand-wash-ing (Blessed) : Rachca|
  []
 
 
-
-[19
-
-]
-Underfull \hbox (badness 10000) in paragraph at lines 179--179
+Underfull \hbox (badness 10000) in paragraph at lines 228--228
 |\TU/lmr/bx/n/12 Matzah : Un-leav-ened Bread : Maca|
  []
 
 
 
-[20]
-Underfull \hbox (badness 10000) in paragraph at lines 183--183
+[16
+
+]
+Underfull \hbox (badness 10000) in paragraph at lines 232--232
 |\TU/lmr/bx/n/12 Maror : Bit-ter Herbs/Horseradish : Maror|
  []
 
 
 
-[21]
-Underfull \hbox (badness 10000) in paragraph at lines 186--186
+[17]
+Underfull \hbox (badness 10000) in paragraph at lines 235--235
 |\TU/lmr/bx/n/12 Ko-r-e-ich : Hil-lel Sand-wich Ko-resch|
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 194--194
+
+[18]
+Underfull \hbox (badness 10000) in paragraph at lines 243--243
 |\TU/lmr/bx/n/12 Tza-fun : Afikomen! : Ca-fun|
  []
 
 ! Undefined control sequence.
 <argument> \shape 
                   The oldest participant must now embark upon the {\large Af...
-l.197 music should be played here}
+l.246 music should be played here}
                                   
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -3310,14 +3067,14 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.197 music should be played here}
+l.246 music should be played here}
                                   
 Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
 or  <return>  to continue without it.
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 199--199
+Underfull \hbox (badness 10000) in paragraph at lines 248--248
 |\TU/lmr/bx/n/12 Bare-ich : Grace af-ter the meal : Barech|
  []
 
@@ -3328,21 +3085,27 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.200 \Bareich
+l.249 \Bareich
               
 Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
 or  <return>  to continue without it.
 
-[22]
-Underfull \hbox (badness 10000) in paragraph at lines 205--205
+File: cup.png Graphic file (type png)
+<use cup.png>
+Package luatex.def Info: cup.png  used on input line 254.
+(luatex.def)             Requested size: 28.45274pt x 45.17752pt.
+
+
+[19]
+Underfull \hbox (badness 10000) in paragraph at lines 262--262
 |\TU/lmr/bx/n/12 Hal-lel : Praise : Halel|
  []
 
 ! Undefined control sequence.
 <argument> \shape 
                   \LARGE הַלְלוּ הַלְלוּ הַלְלוּ הַל...
-l.208 \Hallel
+l.265 \Hallel
              
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -3353,7 +3116,7 @@ and I'll forget about whatever was undefined.
 ! Undefined control sequence.
 <argument> \shape 
                   \LARGE כֹּל הַנְּשָׁמָה תְּהַלֵּל ...
-l.208 \Hallel
+l.265 \Hallel
              
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -3361,14 +3124,22 @@ misspelled it (e.g., `\hobx'), type `I' and the correct
 spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
+File: cup.png Graphic file (type png)
+<use cup.png>
+Package luatex.def Info: cup.png  used on input line 268.
+(luatex.def)             Requested size: 28.45274pt x 45.17752pt.
+File: cup.png Graphic file (type png)
+<use cup.png>
+Package luatex.def Info: cup.png  used on input line 268.
+(luatex.def)             Requested size: 28.45274pt x 45.17752pt.
 
 
-[23]
+[20]
 ! Undefined control sequence.
 <argument> \shape 
                   וְגֵר לֹא תִלְחָץ וְאַתֶּם יְדַ...
-l.209 \Elijah
-              (cup 5 for someone if E doesn't come!)\\
+l.277 \Elijah
+              \centering (cup 5 for someone if E doesn't come!)\\ \raggedright
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
 misspelled it (e.g., `\hobx'), type `I' and the correct
@@ -3378,8 +3149,8 @@ and I'll forget about whatever was undefined.
 ! Undefined control sequence.
 <argument> \shape 
                   \color {black} אֵלִיָּהוּ הַנָּבִיא, א...
-l.209 \Elijah
-              (cup 5 for someone if E doesn't come!)\\
+l.277 \Elijah
+              \centering (cup 5 for someone if E doesn't come!)\\ \raggedright
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
 misspelled it (e.g., `\hobx'), type `I' and the correct
@@ -3387,14 +3158,16 @@ spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 212--212
+
+[21]
+Underfull \hbox (badness 10000) in paragraph at lines 280--280
 |\TU/lmr/bx/n/12 Nirtzah : Con-clu-sion : Nirca|
  []
 
 ! Undefined control sequence.
 <argument> \shape 
                   Conclusion (next year in Jerusalem)
-l.213 \red[]{Conclusion (next year in Jerusalem)}
+l.281 \red[]{Conclusion (next year in Jerusalem)}
                                                  
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -3404,8 +3177,8 @@ and I'll forget about whatever was undefined.
 
 ! Undefined control sequence.
 <argument> \shape 
-                  לשָּ נהְָּּ הַ באָּ ּה ביִ רושָּ...
-l.214 \Nirtzah
+                  לְשָׁנָה הַבָּאָה בִּירוּשָלָי...
+l.282 \Nirtzah
               
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -3413,34 +3186,29 @@ misspelled it (e.g., `\hobx'), type `I' and the correct
 spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
-
-
-[24]
 ! Undefined control sequence.
-l.227 ...g.com, Danielle and Misha Slutsky at \url
-                                                  {https://www.recustom.com/...
+<argument> \4
+             ex
+l.286 \vspace*{\4ex}
+                    \\
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
 misspelled it (e.g., `\hobx'), type `I' and the correct
 spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
-! Undefined control sequence.
-l.231 \url
-          { https://github.com/ }. Comments?
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-Package microtype Info: Loading generic protrusion settings for font family
-(microtype)             `lmtt' (encoding: TU).
-(microtype)             For optimal results, create family-specific settings.
-(microtype)             See the microtype manual for details.
+! Missing number, treated as zero.
+<to be read again> 
+                   e
+l.286 \vspace*{\4ex}
+                    \\
+A number should have been here; I inserted `0'.
+(If you can't figure out why I needed to see a number,
+look up `weird error' in the index to The TeXbook.)
 
 
-[25] (./haggadah.aux)
+
+[22] (./haggadah.aux)
  ***********
 LaTeX2e <2024-11-01> patch level 2
 L3 programming layer <2020/03/25>
@@ -3448,30 +3216,26 @@ L3 programming layer <2020/03/25>
 )
 
 Here is how much of LuaTeX's memory you used:
- 15291 strings out of 475506
- 125061,1144653 words of node,token memory allocated
- 2619 words of node memory still in use:
-   5 hlist, 1 vlist, 1 rule, 1 local_par, 102 glue, 3 kern, 1 penalty, 3 glyph, 
-105 attribute, 261 glue_spec, 105 attribute_list, 2 write nodes
-   avail lists: 1:2,2:1867,3:930,4:749,5:397,6:173,7:4536,8:5,9:670,10:20,11:178
+ 14635 strings out of 475506
+ 125061,953878 words of node,token memory allocated
+ 2081 words of node memory still in use:
+   5 hlist, 1 vlist, 1 rule, 1 local_par, 54 glue, 3 kern, 1 penalty, 3 glyph, 5
+7 attribute, 259 glue_spec, 57 attribute_list, 2 write nodes
+   avail lists: 1:1,2:1959,3:931,4:761,5:309,6:174,7:3922,8:4,9:649,10:20,11:154
 
- 38013 multiletter control sequences out of 65536+600000
- 39 fonts using 3115751 bytes
- 85i,12n,91p,1010b,1134s stack positions out of 10000i,1000n,20000p,200000b,200000s
-<c:/users/gamergurl/appdata/local/programs/miktex/fonts/opentype/public/lm/lmmon
-o8-regular.otf><c:/users/gamergurl/appdata/local/programs/miktex/fonts/opentype/
-public/lm/lmroman12-italic.otf><c:/users/gamergurl/appdata/local/programs/miktex
-/fonts/opentype/public/lm/lmroman12-regular.otf><c:/users/gamergurl/appdata/loca
-l/programs/miktex/fonts/opentype/public/lm/lmroman10-italic.otf><C:/Users/Gamerg
-url/AppData/Local/Microsoft/Windows/Fonts/new-peninim-mt-2.ttf><c:/users/gamergu
-rl/appdata/local/programs/miktex/fonts/opentype/public/lm/lmroman12-bold.otf><c:
-/users/gamergurl/appdata/local/programs/miktex/fonts/opentype/public/lm/lmroman6
--regular.otf><c:/users/gamergurl/appdata/local/programs/miktex/fonts/opentype/pu
-blic/lm/lmroman10-regular.otf><c:/users/gamergurl/appdata/local/programs/miktex/
-fonts/opentype/public/lm/lmroman17-regular.otf>
-Output written on haggadah.pdf (25 pages, 719903 bytes).
+ 37392 multiletter control sequences out of 65536+600000
+ 38 fonts using 2989663 bytes
+ 85i,12n,91p,1004b,1161s stack positions out of 10000i,1000n,20000p,200000b,200000s
+<c:/users/gamergurl/appdata/local/programs/miktex/fonts/opentype/public/lm/lmrom
+an12-italic.otf><c:/users/gamergurl/appdata/local/programs/miktex/fonts/opentype
+/public/lm/lmroman12-regular.otf><c:/users/gamergurl/appdata/local/programs/mikt
+ex/fonts/opentype/public/lm/lmroman10-italic.otf><c:/users/gamergurl/appdata/loc
+al/programs/miktex/fonts/opentype/public/lm/lmroman12-bold.otf><c:/users/gamergu
+rl/appdata/local/programs/miktex/fonts/opentype/public/lm/lmroman10-regular.otf>
+<C:/Users/Gamergurl/AppData/Local/Microsoft/Windows/Fonts/new-peninim-mt-2.ttf>
+Output written on haggadah.pdf (22 pages, 704062 bytes).
 
-PDF statistics: 151 PDF objects out of 1000 (max. 8388607)
+PDF statistics: 121 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 131072)
  1 words of extra memory for PDF output out of 10000 (max. 100000000)
 
