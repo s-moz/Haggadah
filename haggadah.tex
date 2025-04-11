@@ -70,12 +70,7 @@
 %\renewcommand{\chaptitlefont}{\normalfont\Huge\bfseries\sffamily\raggedleft\color{chaptercolour}}
 
 
-\newcommand{\largehebrew}[1]{\LARGE \texthebrew{\shape #1} \normalsize}
-
 \begin{document}
-	Blurb
-\onecolumn
-
 \includegraphics[width=\textwidth]{smallstarscover.png}
 
 \vspace*{-100ex}  % Tune this to the image height.
@@ -84,27 +79,29 @@
 	\vfill
 	\end{center}
 \vspace*{80ex}  % The spacing above but without the minus.
-
+%
+\onecolumn
+blorb
+\onecolumn
+%
 \section{Introduction}
 {Why do we do the seder?}\\
 \begin{center}
 	\includegraphics[width=50mm]{Sederplate}
 	\end{center}
+
+{\color{cyan} \rule{\linewidth}{0.5mm}}
 \onecolumn
-\section{Contents}
-\ContentsTabular
 \section{Contents}{%
 	\ContentsColumnar
 	\noindent
-{\color{cyan} \rule{\linewidth}{0.5mm}}
 }
 \onecolumn
 %
-\section{Neirot : Candle-lighting}
+\section{Neirot : Candle-lighting : Svíčky}
 
 \Neirot
 \vspace*{2ex}
-\Shehechyanu
 %preload the image of the first cup
 \hfill\includegraphics[width=10mm]{cup}
 \vspace*{-15ex}  % Tune this to the image height.
@@ -112,27 +109,36 @@
 \section{Kaddeish : Cup of Sanctification: Kadeš}
 \columnratio{0.9}
 \begin{paracol}{2}
-	\red[]{We pour our first of four cups of grape juice or wine, which symbolise the continuity of G-d's promises to His people. This first cup reminds us that G-d 'Will Bring us Out' of difficult times:} 
-		\colseprulecolor{white}
+	{\textit{Nalijte první šálek hroznové šťávy, která si pamatuje, že Bůh vysvobozuje svůj lid:}\\
+	\color{midblue}\textit{We pour our first of four cups of grape juice or wine, which symbolise the continuity of G-d's promises to His people. This first cup reminds us that G-d 'Will Bring us Out' of difficult times:}}
+	\colseprulecolor{white}
 \end{paracol}
 \Kaddeish
-\red[]{We celebrate our chance to experience this festival by saying the Shehechyanu:}
+\onecolumn
+\textit{Říkáme společně:}
+\\
+\color{midblue}\textit{We celebrate our chance to experience this festival by saying the Shehechyanu:}
+\color{black}
 \Shehechyanu
-\textit{Now we drink!}
-\textit{Nyní  vypijeme větší část obsahu prvního poháru, budeme se přitom levou rukou opírat.}
+\begin{center}
+	\textit{\centering \color{midblue} Now we drink (leaning left)!} \\
+	\textit{Nyní  vypijeme větší část obsahu prvního poháru, budeme se přitom levou rukou opírat.}
+	\end{center}
 
 \section{Urchatz : Handwashing : Urchac}
-\textit{We wash our hands without a blessing}
+\begin{center}
+	{\color{midblue} \textit{We wash our hands without a blessing}}\\
+	\urchatz
+	\end{center}
 % 
-\\
-\vspace*{8ex}
+\vspace*{-3ex}
 %preload the image of the first cup
 \hfill\includegraphics[width=10mm]{Karpas}
-\vspace*{-20ex}  % Tune this to the image height.
+\vspace*{-12ex}  % Tune this to the image height.
 \section{Karpas : Green Spring Herbs : Karpas}
  \Karpas
 
-\section{Yachatz: Jachac}
+\section{Yachatz: Bread of Affliction : Jachac}
 \Yachatz
 
 \section{Arba'ah : The Four : čtyři otázky a čtyři děti}
@@ -141,45 +147,66 @@
 %
 \section{Maggid : The Story : Magid}
 \MaggidIntro
+\onecolumn
+\begin{center}
+	\noindent \LARGE \color{midblue} The 10 Plagues \centering
+\end{center}
 \Plagues
+\onecolumn
+\begin{center}
+	\noindent \LARGE \color{midblue} Dayyeinu
+\end{center}
 \Dayyeinu
+\begin{center}
+	\noindent \LARGE \color{midblue} Rabbi Gamliel's 3 Things
+\end{center}
+\Gamliel
+\begin{center}
+	\noindent \LARGE \color{midblue} Cup 2
+\end{center}
+\Kaddeish
+\textit{Opřeni o levý loket vyprázdníme druhý pohár. \color{midblue}Now we drink!}
+\onecolumn
+\begin{center}
+	\noindent \LARGE \color{midblue} In Every Generation
+	\end{center}
+\EveryGenerationText
 
 \section{Rachtzah : Handwashing (Blessed) : Rachca}
-\Handwashing
+\NetilatYadayim
+\raggedright 
 
-\section{Pesach : Pesachova}
-\red[]{Passover Sacrifice? the lamb bone which isn't a lamb bone}
-
-\section{Matzah : Unleavened Bread : Moci/Maca}
+\section{Matzah : Unleavened Bread : Maca}
 \HaMotzi
 \Matzah
 
-\section{Maror : Bitter Herbs : Maror}
-\red[]{horseradish}
+\section{Maror : Bitter Herbs/Horseradish : Maror}
 \Maror
 
 \section{Koreich : Hillel Sandwich Koresch}
 \Koreich
 
 \section{Shulchan Oreich : The Set Table : Šulchan Orech}
-\red[]{~time to read the whole shulchan aruch~ \par Let's Eat!
-Během jídla, je možné  pít aniž by tím byl porušen příkaz čtyř pohárů.}
+\color{midblue} (time to read the whole Shulchan Aruch...?)\\
+\centering ....NO... \\ 
+\hspace*{5mm} \textit{{\raggedleft ...Let's Eat!} \\ \color{black} Během jídla, je možné  pít aniž by tím byl porušen příkaz čtyř pohárů.}
 
 \section{Tzafun : Afikomen! : Cafun}
-\red[]{The oldest participant must now embark upon the {\LARGE Afikomen hunt}}\\
-\textit{music should be played here}
+\textit{\color{black} Je čas na hledání Afikomenu!\\
+\red[]{The oldest participant must now embark upon the {\large Afikomen hunt}}\\
+music should be played here}
 
 \section{Bareich : Grace after the meal : Barech}
-\textit{Fill your third glass}\\
 \Bareich
+\textit{\color{midblue} Now we drink our third cup after saying the blessing:}\\
+\color{black}
 \Kaddeish
 
 \section{Hallel : Praise : Halel}
-Psalms, door for Elijah, cup of Elijah and Miriam’s cup
-
+\textit{\color{midblue} We listen to some music as we pour a cup of drink for Elijah and check if he is waiting outside the home}\\
+\color{black}
 \Hallel
-\Elijah
-\Miriam
+\Elijah (cup 5 for someone if E doesn't come!)\\
 % 
 
 \section{Nirtzah : Conclusion : Nirca}
@@ -197,7 +224,7 @@ Thank you for sharing in this Festival with me.\\
 \vfill
 %
 Typeset by Sarah Morris in ten-point Palatino.  Translations from the
-MyJewishLearning.com SOURCES, and my own.
+MyJewishLearning.com, Danielle and Misha Slutsky at \url{https://www.recustom.com/clips/4063687}, .SOURCES, and my own.
 
 % 
 The latest version of this booklet can be found at

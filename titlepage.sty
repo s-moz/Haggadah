@@ -1,6 +1,7 @@
 \NeedsTeXFormat{LaTeX2e}[1994/06/01]
 \ProvidesPackage{titlepage}
 \RequirePackage{xcolor}
+\RequirePackage{setspace}
 
 % titlepage
 \newlength{\TPpreseriesskip}      %skip before series heading
@@ -65,82 +66,89 @@
 \end{center}}
 
 \newcommand{\ContentsColumnar}{
-	\begin{enumerate}	
-		\columnratio{0.3,0.3,0.3}
-		\begin{paracol}{3}	
-			\color{midblue}
-			\item Hebrew		
-			\\Neirot 
-			\switchcolumn{czech}\\
-			\switchcolumn{Candle-lighting}\\
-			\switchcolumn\item Hebrew
-			\\Kaddeish 
-			\switchcolumn{czech}\\
-			\switchcolumn{Kiddush cup 1}\\
-			\switchcolumn\item Hebrew		
-			\\Urchatz 
-			\switchcolumn{czech}\\
-			\switchcolumn{Handwashing (no blessing)}\\
-			\switchcolumn\item Hebrew		
-			\\Karpas 
-			\switchcolumn{czech}\\
-			\switchcolumn{Green herbs (dip parsley in saltwater)}\\
-			\switchcolumn\item Hebrew		
-			\\Yachatz/Lachma 
-			\switchcolumn{czech}\\
-			\switchcolumn{Breaking the Bread of Affliction}\\
-			\switchcolumn\item Hebrew		
-			\\Maggid
-			\switchcolumn{czech}\\
-			\switchcolumn{beginning/intro and invitation to the seder}\\	
-			\switchcolumn\item Hebrew		
-			\\Arba’ah
-			\switchcolumn{czech}\\
-			\switchcolumn{4 questions/4 children}
-			\switchcolumn\item Hebrew		
-			\\Haggadah
-			\switchcolumn{czech}\\
-			\switchcolumn{Story, 10 plagues, cup 2, dayyeinu, r.gamliel’s 3 things}
-			\switchcolumn\item Hebrew		
-			\\Rachtzah
-			\switchcolumn{czech}\\
-			\switchcolumn{handwashing (blessed)}\\
-			\switchcolumn\item Hebrew		
-			\\Pesach
-			\switchcolumn{czech}\\
-			\switchcolumn{Passover Sacrifice?}\\			
-			\switchcolumn\item Hebrew		
-			\\Matzah
-			\switchcolumn{czech}\\
-			\switchcolumn{bread blessing and eat}\\
-			\switchcolumn\item Hebrew		
-			\\Maror
-			\switchcolumn{czech}\\
-			\switchcolumn{horseradish/Bitter herbs}\\
-			\switchcolumn\item Hebrew		
-			\\Koreich
-			\switchcolumn{czech}\\
-			\switchcolumn{Hillel Sandwich}\\
-			\switchcolumn\item Hebrew		
-			\\Shulchan Oreich
-			\switchcolumn{czech}\\
-			\switchcolumn{~time to read the whole shulchan aruch~ Meal}
-			\switchcolumn\item Hebrew		
-			\\Tzafun
-			\switchcolumn{czech}\\
-			\switchcolumn{Afikomen hunt}\\
-			\switchcolumn\item Hebrew		
-			\\Bareich
-			\switchcolumn{czech}\\
-			\switchcolumn{Grace after meals}\\
-			\switchcolumn\item Hebrew		
-			\\Hallel
-			\switchcolumn{czech}\\
-			\switchcolumn{Praise, door for elijah, cup of elijah and miriam’s cup}
-			\switchcolumn \item Hebrew		
-			\\Nirtzah
-			\switchcolumn{czech}\\
-			\switchcolumn{Conclusion (next year in jerusalem)}\\
+		\columnratio{0.05, 0.15, 0.5, 0.15, 0.15}
+		\begin{paracol}{5}
+			\color{midblue}		
+			1.
+			\switchcolumn  Svíčky
+			\switchcolumn  Candles
+			\switchcolumn  Neirot
+			\switchcolumn  \largehebrew{נֵרוֹת} \\
+			\switchcolumn*  2.
+			\switchcolumn  Kadeš
+			\switchcolumn  Cup 1, Miriam’s Cup
+			\switchcolumn  Kaddeish 			
+			\switchcolumn  \largehebrew{קַדֵּישׁ}\\
+			\switchcolumn*  3.
+			\switchcolumn  Urchac
+			\switchcolumn  Handwashing (no blessing)
+			\switchcolumn  Urchatz 
+			\switchcolumn  \hugehebrew{וּרְחַץ}\\		
+			\switchcolumn*  4.
+			\switchcolumn  Karpas
+			\switchcolumn  Green herbs (dip parsley in saltwater)
+			\switchcolumn  Karpas 
+			\switchcolumn  \hugehebrew{כַּרְפַּס}\\
+			\switchcolumn*  5.
+			\switchcolumn  Jachac
+			\switchcolumn  Breaking the Bread of Affliction
+			\switchcolumn  Yachatz 
+			\switchcolumn  \hugehebrew{יַחַץ}	\\		
+			\switchcolumn*  6.
+			\switchcolumn  čtyři
+			\switchcolumn  4 questions/4 children
+			\switchcolumn  Arba’ah
+			\switchcolumn  \hugehebrew{ארבעה}	\\
+			\switchcolumn*  7.
+			\switchcolumn  Magid
+			\switchcolumn  Story, Cup 2
+			\switchcolumn  Maggid
+			\switchcolumn  \hugehebrew{מַגִּיד}	\\
+			\switchcolumn*  8.
+			\switchcolumn  Rachca
+			\switchcolumn  Handwashing (blessed)			
+			\switchcolumn  Rachtzah
+			\switchcolumn  \hugehebrew{רָחְצָה}\\	
+			\switchcolumn*  9.
+			\switchcolumn  Maca
+			\switchcolumn  Unleavened bread
+			\switchcolumn  Matzah
+			\switchcolumn  \hugehebrew{מַצָּה}	\\
+			\switchcolumn*  10.
+			\switchcolumn  Maror
+			\switchcolumn  Bitter horseradish/herbs	
+			\switchcolumn  Maror
+			\switchcolumn  \hugehebrew{מָרוֹר}	\\
+			\switchcolumn*  11.
+			\switchcolumn  Koresch
+			\switchcolumn  Hillel Sandwich	
+			\switchcolumn  Koreich
+			\switchcolumn  \hugehebrew{כּוֹרֵךְ}	\\	
+			\switchcolumn*  12.
+			\switchcolumn  Šulchan Orech
+			\switchcolumn  Meal
+			\switchcolumn  Shulchan \\ Oreich
+			\switchcolumn  \hugehebrew{שֻׁלְחָן ערוּך}	\\
+			\switchcolumn*  13.
+			\switchcolumn  Cafun
+			\switchcolumn  Afikomen hunt	
+			\switchcolumn  Tzafun
+			\switchcolumn  \hugehebrew{צָפוּן}\\	
+			\switchcolumn* 14.
+			\switchcolumn  Barech
+			\switchcolumn  Grace after meals, Cup 3	
+			\switchcolumn  Bareich
+			\switchcolumn  \hugehebrew{בָּרֵךְ}\\	
+			\switchcolumn*  15.
+			\switchcolumn  Halel
+			\switchcolumn  Praises, Elijah, Cup 4	
+			\switchcolumn  Hallel
+			\switchcolumn  \hugehebrew{הַלֵּל}	\\
+			\switchcolumn*  16.
+			\switchcolumn  Nirca
+			\switchcolumn  Conclusion	
+			\switchcolumn  Nirtzah
+			\switchcolumn  \hugehebrew{נִרְצָה}\\
 			\colseprulecolor{white}
 		\end{paracol}
-\end{enumerate}}
+		}

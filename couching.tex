@@ -11,7 +11,11 @@
 %\newfontfamily{\hebrewfont}{New Peninim MT}
 
 \usepackage{multicol}
+%\usepackage{paracols}
+\usepackage{setspace}
+\usepackage{microtype}
 \usepackage{changepage}
+\usepackage{ragged2e}
 \usepackage{enumitem} %for the manishtana
 % For the title page
 \newcommand{\contents}{}
@@ -19,9 +23,9 @@
 \newcommand{\contentsTranslation}{}
 % 
 \newcommand{\Neirot}{
-	{\noindent\color{midblue}We normally begin after Havdalah by lighting the festival candles, but today we will come back to this once the sun has set fully, so we can sleep on time.}
+	{\noindent \textit{Protože je šabat, přeskočíme tuto část, dokud slunce nezapadne.}}
+	\\{\noindent\color{midblue} \textit{We normally begin after Havdalah by lighting the festival candles, but today we will start the Seder before sunset so we finish in time to sleep.}}
 	\CandlesBlessingHeb
-	\par
 	\textit{\CandlesBlessingTlit}
 	\begin{multicols}{2}
 		\CandlesBlessingCz
@@ -53,12 +57,13 @@
 		\end{multicols}}
 
 \newcommand{\urchatz}{
-	\textit{Druhým bodem večeře je Urchac – rituální očista. }	\textit{Pour water on each of your hands three times, alternating between your
+	\textit{Druhým bodem večeře je Urchac – rituální očista. } \\	\textit{ \color{midblue} Pour water on each of your hands three times, alternating between your
 	hands}}
 
  
 \newcommand{\Karpas}{
-{\noindent\color{midblue}We dip Parsley into salt water to symbolise the sweat and tears of the slaves}
+{\noindent\textit{Petržel namáčíme do slané vody, aby symbolizovala pot a slzy otroků}\\
+	\noindent\color{midblue} \textit{We dip Parsley into salt water to symbolise the sweat and tears of the slaves}}
 \KarpasBlessingHeb
 \textit{\KarpasBlessingTlit}
 \begin{multicols}{2}
@@ -69,66 +74,146 @@
 \end{multicols}
 }
 \newcommand{\Yachatz}{%
-\noindent{rozlome střední maces (levi), jednu polovinu z něho odloží jako zákusek (afikoman) na závěr pesachové hostiny a zbývající polovinu vrátí na její místo.}
-{\noindent\color{midblue}We break the middle of 3 matzah and replace the smaller half, as all three are lifted and the following Aramaic passage is read to commemorate the hardship felt by the israelites in egypt:}
+\noindent \textit{\color{black} Rozlome střední maces (levi), jednu polovinu z něho odloží jako zákusek (afikoman) na závěr pesachové hostiny a zbývající polovinu vrátí na její místo.}\\
+{\noindent\color{midblue} \textit{We break the middle of 3 matzah and replace the smaller half, as all three are lifted and the following Aramaic passage is read to commemorate the hardship felt by the israelites in egypt:}} \color{black}
 \begin{multicols}{2}
 	\HaLachmaTlit
 	
 	\columnbreak \HaLachmaEng
 \end{multicols}
-\textit{Now the youngest participant wraps up and hides the larger piece as the Afikomen ("dessert") for the oldest participant to find later} 
+\textit{\noindent Nejmladší zabalí a schová afikomana, aby ho nejstarší našel po jídle. \\ {\color{midblue} Now the youngest participant wraps up and hides the larger piece as the Afikomen ("dessert") for the oldest participant to find later.}} 
 }
 %
-\newcommand{\MaNishtana}{%
-\begin{center}
+\newcommand{\MaNishtana}{
+	{\onehalfspacing
+	\centering \color{black}Ty čtyři otázky z Talmudu\\
 	\textit{\noindent\color{midblue}We take turns to read these questions}\par
-	\MaNishtanaHeb \\
-	\MaNishtanaTlit \\
-	\MaNishtanaEng \\
-	\MaNishtanaCz \par
-	1.\\
-	{\MaNishtanaHebi}\\
-	\\ \textcolor{black} {\textit{\MaNishtanaTliti}} \\\MaNishtanaEngi \\ \MaNishtanaCzi \\
-	3.
-	{\MaNishtanaHebii} \\ {\textit{\MaNishtanaTlitii}} \\\MaNishtanaEngii \\ \MaNishtanaCzii \\
-	4.
-	{\MaNishtanaHebiii}\\ {\textit{\MaNishtanaTlitiii}} \\\MaNishtanaEngiii \\ \MaNishtanaCziii \\
-	4.
-	{\MaNishtanaHebiv} \\ {\textit{\MaNishtanaTlitiv}} \\\MaNishtanaEngiv \\ \MaNishtanaCziv \\
-	\end{center}
+	{\color{darkblue} \MaNishtanaHeb \\
+	\textit{\MaNishtanaTlit} \\
+	{\color{midblue} \MaNishtanaEng} \\
+	{\color{black} \MaNishtanaCz}\\ 
+	\par
+	\vspace*{4ex}
+	\\
+	\LARGE 1. \\ \raggedleft 
+	\vspace*{2ex}
+	\MaNishtanaHebi \\
+	\vspace*{1mm}
+	\textit{\MaNishtanaTliti} \\ {\color{midblue} \MaNishtanaEngi}\\ {\textcolor{black} \MaNishtanaCzi} \\ \raggedright 
+	\vspace*{2ex}
+	\MaNishtanaHebib \\
+	\vspace*{1mm}
+	\textit{\MaNishtanaTlitib} \\{\color{midblue} \MaNishtanaEngib} \\ {\color{black} \MaNishtanaCzib} \\ \raggedright
+	\par
+	\\ \centering
+	\LARGE 2.\\ \raggedleft 
+	\vspace*{1mm}
+	\MaNishtanaHebii \\ 
+	\vspace*{1mm}
+	\textit{\MaNishtanaTlitii} \\ {\color{midblue} \MaNishtanaEngii} \\ {\textcolor{black} \MaNishtanaCzii} \\ \raggedright 
+	\vspace*{2ex}
+	\MaNishtanaHebiib \\ 
+	\vspace*{1mm}
+	\textit{\MaNishtanaTlitiib} \\ {\color{midblue} \MaNishtanaEngiib} \\ {\color{black} \MaNishtanaCziib} \\
+	\raggedright 
+	\par
+	\\ \centering
+	\LARGE 3.\\ \raggedleft 
+	\vspace*{1mm}
+	\MaNishtanaHebiii \\
+	\vspace*{1mm}
+	\textit{\MaNishtanaTlitiii} \\{\color{midblue} \MaNishtanaEngiii} \\ {\color{black}\MaNishtanaCziii} \\ \raggedright 
+	\vspace*{2ex}
+	\MaNishtanaHebiiib\\ 
+	\vspace*{1mm}
+	\textit{\MaNishtanaTlitiiib} \\{\color{midblue} \MaNishtanaEngiiib} \\ {\color{black} \MaNishtanaCziiib} \\
+	\raggedright 
+	\par
+	\\ \centering
+	\LARGE 4.\\ \raggedleft 
+	\vspace*{1mm}
+	\MaNishtanaHebiv\\
+	\vspace*{1mm}
+	\textit{\MaNishtanaTlitiv} \\ {\color{midblue} \MaNishtanaEngiv} \\ {\color{black}\MaNishtanaCziv} \\ \raggedright 
+	\vspace*{2ex}
+	\MaNishtanaHebivb \\ 
+	\vspace*{1mm}
+	\textit{\MaNishtanaTlitivb} \\{\color{midblue} \MaNishtanaEngivb} \\ {\color{black} \MaNishtanaCzivb} \\
+	\par
+	}}
+	\\
+	\vspace{2ex}
+	\begin{multicols}{2}
+		\MaNishtanaAnswerCz
+		
+		\columnbreak \MaNishtanaAnswerEng
+	\end{multicols}
+}
 
-\newcommand{\MaNishtanaAnswerCz}
-\newcommand{\MaNishtanaAnswerEng}}
+\newcommand{\ArbaAh}{
+	The Talmud describes four types of children at the Pesach table, and how to respond to them. \\
+	Ty čtyři děti z Talmudu
+	\begin{enumerate}
+		\item \raggedright{\color{midblue} \childi \\ \color{black} \childicz \\}
+		\vspace*{2ex}
+		\centering{\color{midblue}\childiq \\ \color{black} \childiqcz} \\
+		\vspace{2ex}
+		\raggedleft{\color{midblue}{\childia \\ \color{black} \childiacz}}
+		
+		\item \raggedright{\color{midblue} \childii \\ \color{black} \childiicz \\}
+		\vspace*{2ex}
+		\centering{\color{midblue}\childiiq \\ \color{black} \childiiqcz} \\
+		\vspace{2ex}
+		\raggedleft{\color{midblue}{\childiia \\ \color{black} \childiiacz}}
+		
+		\item \raggedright{\color{midblue} \childiii \\ \color{black} \childiiicz \\}
+		\vspace*{2ex}
+		\centering{\color{midblue}\childiiiq \\ \color{black} \childiiiqcz} \\
+		\vspace{2ex}
+		\raggedleft{\color{midblue}{\childiiia \\ \color{black} \childiiiacz}}
+		
+		\item \raggedright{\color{midblue} \childiv \\ \color{black} \childivcz \\}
+		\vspace*{2ex}
+		\raggedleft{\color{midblue}{\childiva \\ \color{black} \childivacz}}
+		
+	\end{enumerate}
+}
 
 \newcommand{\MaggidIntro}{%
-	\centering\textit{Pour the second glass. Do not drink it yet.}\\
-	\MaggidText
-	\\
-	\par
-	\centering\textit{Raise the glass and read together:}\\
-	\par
-	\PromiseToast 
-	\\
+\begin{Center}
+	\textit{\color{black} Naplňte svůj pohár, ale ještě ho nepijte \\ \color{midblue} Pour the second glass. Do not drink it yet.}\\
+	\end{Center}
+	{\onehalfspacing \color{black} \MaggidText}
+	\begin{center}
+		\textit{Zvedni svůj pohár: \\ \color{midblue} Raise the glass and read together:}\\
+	\vspace*{2ex}
+	\color{black}{\Huge \PromiseToastHeb \\}
+	%\vspace*{1mm}
+	\textit{\PromiseToastTlit}
+	\end{center}
+	\begin{multicols}{2}
+		\PromiseToastCz
+		
+		\columnbreak 
+		\PromiseToastEng
+	\end{multicols}
 	\centering\textit{now put the glass down without drinking}\\
-	%
-
 }
 \newcommand{\Plagues}{
-	{\noindent\color{midblue}{G-d brought about 10 Plagues upon the Egyptians in Egypt:\\}
-		\textit{Deset ran přivedl Svatý – buď požehnán – na Egypťany v Egyptě:}}
-	image of plagues
-	As we read the name of each plague we spill a drop of drink on each one, like a tear for the suffering they caused in the world.
+	\noindent\color{midblue} G-d brought about 10 Plagues upon the Egyptians in Egypt:\\
+	\color{black} Deset ran přivedl Buh –  na Egypťany v Egyptě:\\
+	\color{black}\textit{Když čteme název každého moru, dejte na stránku kapku nápoje, jako slzu za utrpení, které ve světě způsobili. \\ \color{midblue}As we read the name of each plague we spill a drop of drink on each one, like a tear for the suffering they caused in the world.}
+	\vspace*{2ex}
 	\begin{adjustwidth}{15mm}{15mm}
 		\begin{multicols}{3}
-			\PlaguesTextCz
+			\color{black} \PlaguesTextCz
 		
 			\columnbreak 
-			\PlaguesTextEng
+			\color{midblue} \PlaguesTextEng
 			
 			\columnbreak
-			\PlaguesTextHeb
+			\color{darkblue} \PlaguesTextHeb
 		\end{multicols}
-			\lipsum[2]
 	\end{adjustwidth}
 }
 
@@ -141,24 +226,30 @@
 	*maybe find a song version of the dayyeinu and put the words out so we can listen and hit when we spot the word dayyeinu*\\
 	\DayyeinuIntro
 	\DayyeinuText
+	\vspace*{2ex}}
+	
+\newcommand{\Gamliel}{
 	\vspace*{2ex}
 	\RabbiGamliel
 	\vspace*{2ex}
+	\onecolumn
 	\EveryGenerationText
 	
 	We remember how G-d redeemed our ancestors from Egypt, and enabled us to spend this Pesach Seder together. May we arrive at future holidays in peace and happiness.
-	
-	\WineBlessingHeb
-	\WineBlessingTlit
-	\WineBlessingEng
-	
-	\textit{Opřeni o levý loket vyprázdníme druhý pohár.}
-	Now we drink!}
+	}
 %
-\newcommand{\Handwashing}{
-\textit{pour water three times on your right hand then three times on your left hand and then read:}
-\NetilatYadayim}
-%
+\newcommand{\NetilatYadayim}{
+	\textit{Dále si umyjeme ruce s požehnáním \\ {\color{midblue} pour water three times on your right hand then three times on your left hand and then read:}}\\
+	\NetilatYadayimHeb
+	\textit{\NetilatYadayimTlit}
+	\raggedleft
+	\begin{multicols}{2}
+		\NetilatYadayimCz
+		
+		\columnbreak 
+		\NetilatYadayimEng
+	\end{multicols}
+}
 \newcommand{\HaMotzi}{
 	\textit{We bless the unleavened bread just as we bless any bread at the start of a meal:}
 	\HaMotziBlessingHeb
@@ -170,15 +261,19 @@
 	\end{multicols}
 }
 \newcommand{\Matzah}{
-	\textit{Vypravěč ukáže stolovníkům macesy a říká:} 
-	Z jakého důvodu jíme tuto maca? Proto, že než se našim předkům 
-	zjevil Svatý, buď požehnán, a vykoupil je, nestačilo jim vykynout těsto. Je 
-	přec řečeno: „Z těsta, které vynesli z Egypta a které nezkvasilo, pekli 
-	macesové placky, jelikož byli z Egypta vyhnáni a nemohli se zdržovat a 
-	neudělali si ani zásoby na cestu.“ 
-\textit{We recite the blessing over Matzah because consuming it is a specific Torah command:}
-\MatzahBlessingHeb
-\textit{\MatzahBlessingTlit}
+	\textit{Vypravěč ukáže stolovníkům macesy a říká:\\\color{midblue} The Matzah is displayed as the following passage is read:}\\
+		\begin{multicols}{2}
+		\color{black} Z jakého důvodu jíme tuto maca? Proto, že než se našim předkům 
+		zjevil Svatý, buď požehnán, a vykoupil je, nestačilo jim vykynout těsto. Je 
+		přec řečeno: „Z těsta, které vynesli z Egypta a které nezkvasilo, pekli 
+		macesové placky, jelikož byli z Egypta vyhnáni a nemohli se zdržovat a 
+		neudělali si ani zásoby na cestu.“ \\
+		
+		\columnbreak Why do we eat this Matzah? Because when our ancestors were rescued from Egypt, there was no time to leaven their dough. It is said: “They baked Matzah cakes from the dough they brought out of Egypt, which was not leavened, because they were driven out of Egypt and could not stay there, and they had not prepared any provisions for the journey.”	
+	\end{multicols}
+	\textit{\color{midblue} We recite the blessing over Matzah because consuming it is a specific Torah command:}
+	\MatzahBlessingHeb
+	\textit{\MatzahBlessingTlit}
 	\begin{multicols}{2}
 	\MatzahBlessingCz
 	
@@ -187,16 +282,23 @@
 }
 %
 \newcommand{\Maror}{
+	{\color{midblue}
  In creating a holiday about the joy of freedom, we turn the story of our bitter
-history into a sweet celebration. \\ We recognize this by dipping our bitter horseradish (křen) into the sweet charoset. Try to taste both the flavours at once.\\
+history into a sweet celebration. \\ We recognize this by dipping our bitter horseradish (křen) into the sweet charoset. Try to taste both the flavours at once.\\}
 \vspace*{2ex}
-\textit{Vypravěč ukáže maror a říká:}
-Proč jíme tuto hořkost (maror)? Proto, že Egypťané ztrpčovali život 
-našich předků v Egyptě, jak je řečeno: „Ztrpčovali jejich život dřinou s 
-hlínou a cihlami a vší tou prací na poli a všemi dalšími pracemi, jimiž jim 
-otročili při nucených pracích.“\\
+\color{black} 
+\textit{Vypravěč ukáže maror a říká:\\ \color{midblue} The Maror is displayed and the following is read out loud:}\\
+\begin{multicols}{2}
+	Proč jíme tuto hořkost (maror)? Proto, že Egypťané ztrpčovali život 
+	našich předků v Egyptě, jak je řečeno: „Ztrpčovali jejich život dřinou s 
+	hlínou a cihlami a vší tou prací na poli a všemi dalšími pracemi, jimiž jim 
+	otročili při nucených pracích.“\\
+	
+	\columnbreak Why do we eat this bitterness? Because the Egyptians made our ancestors' lives ”bitter with hard labour in clay and brick, and all their work in the field, and all their other work with which they made them slaves in forced labour.”
+\end{multicols}
+
 \vspace*{2ex}
-\textit{namáčíme náš křen do charosetu}\\
+\textit{namáčíme náš křen do charosetu a řekněte:}\\
 \MarorBlessingHeb
 \textit{\MarorBlessingTlit}
 \begin{multicols}{2}
@@ -211,20 +313,22 @@ otročili při nucených pracích.“\\
 	\KoreichText}
 
 \newcommand{\Bareich}{
-\BareichEng}
+	\textit{\color{black} Naplňte svůj pohár, ale ještě ho nepijte \\ \color{midblue} Pour the third glass. Do not drink it yet.} \BareichEng}
 
 \newcommand{\Hallel}{%
-  {\HallelHeb
+  \HallelHeb
   	\begin{multicols}{2}
-  		\HallelTlit
+  		\HallelTlit \\
   		\columnbreak \HallelEng
   	\end{multicols}
-}}
+}
 
 \newcommand{\Elijah}{
-	\ElijahText
-	\StrangersText
-	\par \textit{We sing this song before closing the door:}
+	\ElijahText \\
+	\vspace*{2ex}
+	\StrangersText \\
+	\par \centering \textit{We sing this song before closing the door:}\\
+	\vspace*{2ex}
 	\EliahuHaNavi}
 
 \newcommand{\Miriam}{

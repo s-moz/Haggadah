@@ -12,6 +12,7 @@
 %\setotherlanguages{czech, hebrew}
 %thia line is a bug \renewfontfamily{\hebrewfont}{Ezra SIL SR Regular}
 % 
+\usepackage{paracol}
 
 \newcommand{\CandlesBlessingHeb}{
 	\begin{center}
@@ -23,13 +24,16 @@
 %
 \newcommand{\CandlesBlessingTlit}{%
 	Baruch atah Adonai eloheinu melech ha-olam asher kidd’shanu
-	b’mitzvotav v’tzivvanu l’hadlik ner shel (shabbat v’shel) yom tov.}
+	b’mitzvotav v’tzivvanu l’hadlik ner shel %(shabbat v’shel) 
+	yom tov.}
 %
 \newcommand{\CandlesBlessingEng}
-	{ May you be blessed, Lord our G-d, ruler of the universe, who sanctifies us via his commandments and who commands us to light the lights of Shabbat and festivals.}
+	{ May you be blessed, Lord our G-d, ruler of the universe, who sanctifies us via his commandments and who commands us to light the lights of %(Shabbat and)
+		 festivals.}
 %
 \newcommand{\CandlesBlessingCz}{
-Požehnaný jsi Ty, Hospodine, Bože náš, Králi všehomíra, jenž nás posvětil Svými přikázáními a přikázal nám zapálit světlo (šabatové a) sváteční.}
+Požehnaný jsi Ty, Hospodine, Bože náš, Králi všehomíra, jenž nás posvětil Svými přikázáními a přikázal nám zapálit světlo %(šabatové a) 
+sváteční.}
 %
 %
 \newcommand{\WineBlessingHeb}{
@@ -98,7 +102,7 @@ Požehnaný jsi Ty, Hospodine, Bože náš, Králi všehomíra, jenž nás posv�
 \newcommand{\NetilatYadayimTlit}{
 	Baruch Atah Adonai, Eloheinu Melech ha-olam, asher kid’shanu b’mitzvotav
 	v’tzivanu al n’tilat yadayim.}
-
+\newcommand{\NetilatYadayimEng}{Blessed are You, Lord our G-d, Ruler of the Universe, who sanctifies us with his commandments and commands us regarding the washing of hands.}
 \newcommand{\NetilatYadayimCz}{\textcolor{red}{ FIXME Požehnaný jsi Ty, Hospodine, Bože náš, Králi všehomíra, !!!!!!jenž nás posvětil Svými přikázáními a přikázal nám přikázání ohledně umývání rukou. OR:
 že jsi nás posvětil svými příkazy a dal jsi nám příkaz o omývání rukou. }}
 %	
@@ -134,8 +138,8 @@ Požehnaný jsi Ty, Hospodine, Bože náš, Králi všehomíra, jenž nás posv�
 %
 \newcommand{\MarorBlessingHeb}{
 	\begin{center}
-			\texthebrew{\LARGE בָּרוּךְ אַתָּה אֲ-דֹנָי אֱ-לֹהֵינוּ מֶלֶךְ הָעוֹלָםאֲ שֶּ ר קִ ד ש ָּ נוְּ ּבמִ צֹו תָּ יו,}\\
-			\texthebrew{\Huge  צ וִ ּנ ָּוְּ ּע ַל אֲ כיִ לתְַּ מרֹורְּ}
+			\texthebrew{\LARGE בָּרוּךְ אַתָּה אֲדֹנָי אֱלֹהֵינוּ מֶלֶךְ הָעוֹלָם אֲשֶׁר קִדְּשָׁנוּ בְּמִצְוֹתָיו,}\\
+			\texthebrew{\Huge וְצִוָּנוּ עַל אֲכִילַת מָרוֹר}
 	\end{center}}
 %
 \newcommand{\MarorBlessingTlit}{%
@@ -151,34 +155,39 @@ v’tzivanu al achilat maror.}
 \newcommand{\BareichEng}{
 \raggedright
 \textit{We will say the Birkat Hamazon (Grace after meals) with some extra parts:}
-\par
-Birkat Hazan: We praise God for sustaining life and providing food for all creatures.\\ %(sung)
-{\textcolor{darkblue} We praise God, Ruler of Everything, whose goodness sustains the world. You are the origin of love and compassion, the source of bread for all. Thanks to You, we need never lack for food; You provide food enough for everyone. We praise God, source of food for everyone.}
-\textcolor{black}
-\centered{\LARGE Amen}\\
-\par
-BirkatHaAretz: We thank God for being compassionate and nourishing us with food and Torah.\\ %recount Exodus to Canaan. 
-{\textcolor{darkblue} As it says in the Torah: When you have eaten and are satisfied, give praise to your God who has given you this good earth. We praise God for the earth and for its sustenance, and for the words of Torah which are sweet like honey on the tongue and a lamp to light our feet (ps: 119)} \textcolor{black}
-\centered{\LARGE Amen}\\
-{\textcolor{darkblue} Just as God sustained the Jewish people in the desert, so too God sustains us now and in the future. }
-\textcolor{black}
-\centered{\LARGE Amen}\\
-BirkatYerushalayim: We ask God for His mercy and continued support %, and traditionally to quickly rebuild Jerusalem.
-\centered{\LARGE Amen}\\
-\\BirkatHaTovVHameitiv: We remember the blessings God bestows upon us. %and request God never denies us anything good.\\
-\centered{\LARGE Amen}\\
-\\Harahaman \textit{(May the compassionate one)}\\
-We ask God to uplift us and our community, and all the world.\\
-{\textcolor{darkblue} Renew our spiritual center in our time. We praise God, who centers us. May the source of peace grant peace to us, to the Jewish people, and to the entire world.}\textcolor{black}
-\centered{\LARGE Amen}\\
-\vspace*{2ex}
-{\textcolor{darkblue}
-	Bendigamos\\
-Spanish and Portugese Jews sing a Ladino song entitled “Bendigamos,” or “We will bless,” (let's try to find it on spotify)}
-}
+\par\vspace*{2ex}
+	\columnratio{0.3}
+	\begin{paracol}{2}
+		Birkat Hazan: \vspace*{4mm} \switchcolumn \vspace*{-1mm} We praise God for sustaining life and providing food for all creatures.\\ %(sung)
+		%{\textcolor{darkblue} We praise God, Ruler of Everything, whose goodness sustains the world. You are the origin of love and compassion, the source of bread for all. Thanks to You, we need never lack for food; You provide food enough for everyone. We praise God, source of food for everyone.}
+		\hspace*{40mm}{\color{black} Amen}\vspace*{2ex}
+		%
+		\switchcolumn Birkat HaAretz: \vspace*{4mm}	\switchcolumn  \vspace*{-1mm} We thank God for being compassionate and nourishing us with food and Torah.\\ %recount Exodus to Canaan. 
+		%{\textcolor{darkblue} As it says in the Torah: When you have eaten and are satisfied, give praise to your God who has given you this good earth. We praise God for the earth and for its sustenance, and for the words of Torah which are sweet like honey on the tongue and a lamp to light our feet (ps: 119)} \textcolor{black}\\
+		\hspace*{40mm}{\color{black} Amen}
+		%{\textcolor{darkblue} Just as God sustained the Jewish people in the desert, so too God sustains us now and in the future. }\\
+		%\textcolor{black}
+		%\hspace*{80mm}{\large Amen}\vspace*{2ex}\\
+		%
+		\switchcolumn Birkat Yerushalayim: \vspace*{4mm} \switchcolumn  \vspace*{-1mm}	We ask God for His mercy and continued support.\\ %, and traditionally to quickly rebuild Jerusalem.
+		\hspace*{40mm}{\color{black} Amen}\vspace*{2ex}
+		%
+		\switchcolumn \\Birkat HaTov VeHaMeitiv: \vspace*{4mm}	\switchcolumn  \vspace*{-1mm}	We remember the blessings God bestows upon us. \\%and request God never denies us anything good.\\
+		\hspace*{40mm}{\color{black} Amen}\vspace*{2ex}
+		%
+		\switchcolumn Harahaman : \vspace*{4mm}	\switchcolumn  \vspace*{-1mm}	%\textit{(May the compassionate one)}\\
+		We ask God to uplift us and our community, and all the world.\\
+		%{\textcolor{darkblue} Renew our spiritual center in our time. We praise God, who centers us. May the source of peace grant peace to us, to the Jewish people, and to the entire world.}\textcolor{black}\\
+		\hspace*{40mm}{\color{black} Amen}
+		\vspace*{2ex}
+	\end{paracol}
+	{\textcolor{darkblue} \centering Spanish and Portugese Jews sing a Ladino song entitled “Bendigamos” or “We will bless” (let's try to find it on spotify).}
+	}
 %
-\newcommand{\MiriamBlessing}{
-include a blessing here for water and also for women}
+\newcommand{\MiriamBlessing}{Zot Kos Miryam, kos mayim hayim. Zeikher l’yitziat Mitztrayim.
+	
+	This is the Cup of Miriam, the cup of living waters. Let us remember the Exodus from Egypt. These are the living waters, God’s gift to Miriam, which gave new life to Israel as we struggled with ourselves in the wilderness. Blessed are You God, Who brings us from the narrows into the wilderness, sustains us with endless possibilities, and enables us to reach a new place.”
+	}
 \newcommand{\NirtzahBlessing}{\largehebrew{לשָּ נהְָּּ הַ באָּ ּה ביִ רושָּ לי ָּ ִםְּ}\\
 	L’shana haba-ah biy’rushalayim\\
 	NEXT YEAR IN JERUSALEM!\\}
