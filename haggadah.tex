@@ -10,6 +10,7 @@
 \usepackage{multicol}
 \usepackage{changepage}
 \usepackage{makecell}
+\usepackage{mathptmx}
 \usepackage{paracol}
 \usepackage{polyglossia}
 %\setdefaultlanguage{english}
@@ -86,10 +87,11 @@
 \includegraphics[width=\textwidth]{smallstarscover.png}
 
 \vspace*{-100ex}  % Tune this to the image height.
-\begin{center}
-	\noindent \HUGE \color{cyan} \texthebrew{הַגָּדָה} \centering
-	\vfill
-\end{center}
+
+{\vspace*{2ex} \hspace{0.45\pagewidth} \color{cyan}{\fontsize{25}{1}\selectfont \texthebrew{הַגָּדָה 5785}}}\\
+%\\ \hspace{0.5\pagewidth} \color{cyan} \HUGE 5785\\
+
+\vfill
 \vspace*{80ex}  % The spacing above but without the minus.
 %
 \onecolumn
@@ -98,8 +100,8 @@
 
 \vfill
 %
-Typeset by Sarah Morris in various fonts all in a panic at all hours of the night because she really loves Jan.  \\
-Translation Sources available on her Github: Sherbetfr0g
+Typeset by Sarah Morris in various fonts all in a panic at all hours of the night because she really loves her language-czecher.  \\
+Translation Sources available on her Github: s-moz
 %actually that's a lie she didn't compile them yet but is hoping nobody looks
 %Translations from MyJewishLearning.com, Danielle and Misha Slutsky at %\url{https://www.recustom.com/clips/4063687}, .SOURCES, and my own.
 
@@ -140,7 +142,7 @@ Here is a graphic of a Seder Plate with all the individual parts to help you set
 %\onecolumn
 %
 \vspace*{-4ex}
-\section{Neirot : Candle-lighting : Svíčky}
+\section{\largehebrew{נֵרוֹת} : Neirot : Candle-lighting : Svíčky}
 
 \Neirot
 \vspace*{2ex}
@@ -148,7 +150,7 @@ Here is a graphic of a Seder Plate with all the individual parts to help you set
 \hfill\includegraphics[width=10mm]{cup}
 \vspace*{-15ex}  % Tune this to the image height.
 		
-\section{Kaddeish : Cup of Sanctification: Kadeš}
+\section{\largehebrew{קַדֵּישׁ} : Kaddeish : Cup of Sanctification: Kadeš}
 \columnratio{0.9}
 \begin{paracol}{2}
 	{\textit{Nalijte první šálek hroznové šťávy, která si pamatuje, že Bůh vysvobozuje svůj lid:} \vspace*{2ex}\\
@@ -166,29 +168,43 @@ Here is a graphic of a Seder Plate with all the individual parts to help you set
 	\textit{Nyní  vypijeme větší část obsahu prvního poháru, budeme se přitom levou rukou opírat.}
 	\end{center}
 \vspace*{2ex}
-\section{Urchatz : Handwashing : Urchac}
+\section{\largehebrew{וּרְחַץ} : Urchatz : Handwashing : Urchac}
+{{\color{midblue} \textit{We wash our hands without a blessing}}\\
+	\urchatz}
+\vspace*{2ex}
+%preload he image of the first cup
+\hfill\includegraphics[width=10mm]{Miriam}
+\vspace*{-12ex}  % Tune this to the image height.
 \begin{center}
-	{\color{midblue} \textit{We wash our hands without a blessing}}\\
-	\urchatz
-	\end{center}
+	\noindent \large \color{midblue} Miriam's Cup
+\end{center}
+\Miriam \\
 % 
 \vspace*{-3ex}
 %preload the image of the first cup
 \hfill\includegraphics[width=10mm]{Karpas}
 \vspace*{-12ex}  % Tune this to the image height.
-\section{Karpas : Green Spring Herbs : Karpas}
+\section{\largehebrew{כַּרְפַּס} : Karpas : Green Spring Herbs : Karpas}
  \Karpas
 \vspace*{1ex}
-\section{Yachatz: Bread of Affliction : Jachac}
+\section{\largehebrew{יַחַץ} : Yachatz: Bread of Affliction : Jachac}
 \Yachatz
 \vspace*{2ex}
-\section{Arba'ah : The Four : čtyři otázky a čtyři děti}
+\section{\largehebrew{ארבעה} : Arba'ah : The Four : čtyři otázky a čtyři děti}
+\begin{center}
+	\noindent \large \color{midblue} The 4 Questions
+\end{center}
 \MaNishtana
-\FourChildrenText
+\begin{center}
+	\noindent \large \color{midblue} The 4 Children
+\end{center}
+\ArbaAh
 %
 \vspace*{2ex}
-\section{Maggid : The Story : Magid}
+\section{\largehebrew{מַגִּיד}	 : Maggid : The Story : Magid}
 \MaggidIntro
+\vspace*{10ex}
+{\color{cyan} \rule{\linewidth}{0.5mm}}
 \onecolumn
 \begin{center}
 	\noindent \large \color{midblue} The 10 Plagues \centering
@@ -202,6 +218,12 @@ Here is a graphic of a Seder Plate with all the individual parts to help you set
 \begin{center}
 	\noindent \large \color{midblue} Rabbi Gamliel's 3 Things
 \end{center}
+
+\vspace*{-10ex}
+%preload the image of the first cup
+\hfill\includegraphics[width=15mm]{Zeroa}\includegraphics[width=12mm]{Maror}
+\vspace*{-10ex}  % Tune this to the image height.
+
 \Gamliel
 \vspace*{2ex}
 \begin{center}
@@ -218,35 +240,44 @@ Here is a graphic of a Seder Plate with all the individual parts to help you set
 	\noindent \large \color{midblue} Cup 2
 \end{center}
 \Kaddeish
-\textit{Opřeni o levý loket vyprázdníme druhý pohár. \color{midblue}Now we drink!}
+\textit{Opřeni o levý loket vyprázdníme druhý pohár. \\ \color{midblue}Now we drink!}
 \onecolumn
 
-\section{Rachtzah : Handwashing (Blessed) : Rachca}
-\NetilatYadayim
-\raggedright 
+\section{\largehebrew{רָחְצָה} : Rachtzah : Handwashing (Blessed) : Rachca}
+\NetilatYadayim 
 
-\section{Matzah : Unleavened Bread : Maca}
+\section{\largehebrew{מַצָּה} : Matzah : Unleavened Bread : Maca}
 \HaMotzi
 \Matzah
-
-\section{Maror : Bitter Herbs/Horseradish : Maror}
+\vspace*{-4ex}
+%preload the image of the first cup
+\hfill\includegraphics[width=15mm]{Charoset}\includegraphics[width=14mm]{Maror}
+\vspace*{-12ex}  % Tune this to the image height.
+\section{\largehebrew{מָרוֹר} : Maror : Bitter Herbs/Horseradish : Maror}
 \Maror
 
-\section{Koreich : Hillel Sandwich Koresch}
+\vspace*{-2ex}
+%preload the image of the first cup
+\hfill\includegraphics[width=15mm]{Chazeret}
+\vspace*{-12ex}  % Tune this to the image height.
+\section{\largehebrew{כּוֹרֵךְ} : Koreich : Hillel Sandwich : Koresch}
 \Koreich
 
-\section{Shulchan Oreich : The Set Table : Šulchan Orech}
-\color{midblue} (time to read the whole Shulchan Aruch...?)\\
-\centering ....NO... \\ 
-\hspace*{5mm} \textit{{\raggedleft ...Let's Eat!} \\ \color{black} Během jídla, je možné  pít aniž by tím byl porušen příkaz čtyř pohárů.}
+\section{\largehebrew{שֻׁלְחָן ערוּך} : Shulchan Oreich : The Set Table : Šulchan Orech}
+\color{midblue} (Time to read the whole Shulchan Aruch...?)\\
+\begin{center}
+	\vspace*{-4ex}
+	....NO... \vspace*{1ex} \\ \hspace*{15mm} \textit{ ...Let's Eat! \\ \color{black} Během jídla, je možné  pít aniž by tím byl porušen příkaz čtyř pohárů.}
+	\end{center}
 
-\section{Tzafun : Afikomen! : Cafun}
-\textit{\color{black} Je čas na hledání Afikomenu!\\
-\red[]{The oldest participant must now embark upon the {\large Afikomen hunt}}\\
-music should be played here}
+\section{\largehebrew{צָפוּן} : Tzafun : Afikomen! : Cafun}
+\textit{\color{black} Je čas na hledání Afikomenu!\\}
+\red[]{The oldest participant must now embark upon the {\large Afikomen hunt}}\\ 
+\textit{music should be played here}
 
-\section{Bareich : Grace after the meal : Barech}
-\Bareich
+\section{\largehebrew{בָּרֵךְ} : Bareich : Grace after the meal : Barech}
+\Bareich 
+\onecolumn
 \textit{\color{midblue} Now we drink our third cup after saying the blessing:}\\
 \color{black}
 \vspace*{1ex}
@@ -259,32 +290,37 @@ music should be played here}
 \end{center}
 \Kaddeish
 
-\section{Hallel : Praise : Halel}
-\textit{\color{midblue} We listen to some music as we pour a cup of drink for Elijah and check if he is waiting outside the home}\\
+\section{\largehebrew{הַלֵּל} : Hallel : Praise : Halel}
+{\textit{\color{midblue} We listen to some music as we pour a cup of drink for Elijah and check if he is waiting outside the home}\\
 \color{black}
 \Hallel
 \vspace*{2ex}
 %preload the image of the first cup
 {\hspace*{100mm} \includegraphics[width=10mm]{cup} \includegraphics[width=10mm]{cup}}
 \vspace*{-15ex}  % Tune this to the image height.
-\raggedright
 \begin{center}
 	\noindent \large \color{midblue} Cup 4
 \end{center}
 \textit{\color{midblue} Pour an extra cup this time for Elijah, and do not drink yet}
 \Kaddeish
 \vspace*{2ex}
-\Elijah \centering (cup 5 for someone if E doesn't come!)\\ \raggedright
+\Elijah
+\begin{center}
+	(cup 5 for someone if E doesn't come!)\\
+	\end{center}
+}
 % 
-
-\section{Nirtzah : Conclusion : Nirca}
-\red[]{Conclusion (next year in Jerusalem)}
+\onecolumn
+%preload the image of the first cup
+\hfill\includegraphics[width=20mm]{Beitza}
+\vspace*{-19ex}  % Tune this to the image height.
+\section{\largehebrew{נִרְצָה} : Nirtzah : Conclusion : Nirca}
 \Nirtzah
 % 
 \vspace*{4ex}
-\textit{\Large Now We Drink!}
-\vspace*{\4ex}\\
-Thank you for sharing in this Festival with me.
+\textit{\large Now We Drink!}\\
+\vspace*{4ex}
+\\Thank you for sharing in this Festival with me.
 \vspace*{4ex}\\
 \textit{music, dancing, and games may follow}
 %\onecolumn
